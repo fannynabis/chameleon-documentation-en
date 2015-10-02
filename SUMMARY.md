@@ -6,5 +6,4 @@
    * [Datenbackup](4_datenbackup.md)
    * [Backend](5_backend.md)
 * [Grundsätzliches zur Bedienung von Chameleon](grundsatzlicheszurbedienungvonchameleon.md)
-   * [Persönliches Benutzerprofil](61personliches_benutzerprofil_md.md)
 
