@@ -2,7 +2,7 @@
 
 * [Vorbermerkungen](README.md)
    * [Frontend und Backend](2_frontend_und_backend.md)
-   * [3 Testsystem und Live-System](3_testsystem_und_live-system.md)
+   * [Testsystem und Live-System](3_testsystem_und_live-system.md)
    * [4 Datenbackup](4_datenbackup.md)
    * [5 Backend](5_backend.md)
 * [6 Grundsätzliches zur Bedienung von Chameleon](6grundsatzlicheszurbedienungvonchameleon_md.md)
