@@ -18,5 +18,5 @@
 * [Neuen Eintrag anlegen](neuen_eintrag_anlegen.md)
 * [Datensatz editieren](datensatz_editieren.md)
 * [Andere Funktionen](andere_funktionen.md)
-   * Tabelle / Datensatz
+   * [Tabelle / Datensatz](tabelle__datensatz.md)
 
