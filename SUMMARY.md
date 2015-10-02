@@ -28,5 +28,5 @@
 * [Datensatz Details](datensatz_details.md)
    * [Navigationsverwaltung](navigationsverwaltung.md)
    * [Seitenverwaltung](seitenverwaltung.md)
-       * Seite anlegen
+       * [Seite anlegen](seite_anlegen.md)
 
