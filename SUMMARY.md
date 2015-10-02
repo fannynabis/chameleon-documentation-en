@@ -29,5 +29,5 @@
    * [Navigationsverwaltung](navigationsverwaltung.md)
    * [Seitenverwaltung](seitenverwaltung.md)
        * [Seite anlegen](seite_anlegen.md)
-       * Seite bearbeiten / Module anlegen
+       * [Seite bearbeiten / Module anlegen](seite_bearbeiten__module_anlegen.md)
 
