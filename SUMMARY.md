@@ -7,5 +7,4 @@
    * [5 Backend](5_backend.md)
 * [7 Grundsätzliches zur Bedienung von Chameleon](grundsatzlicheszurbedienungvon_chameleon.md)
    * 7.1 Persönliches Benutzerprofil
-   * Persönliches Benutzerprofil
 
