@@ -15,4 +15,5 @@
    * [Suchen](suchen.md)
    * [Gruppierung](gruppierung.md)
    * [Datensätze löschen](datensatze_loschen.md)
+   * Neuen Eintrag anlegen
 
