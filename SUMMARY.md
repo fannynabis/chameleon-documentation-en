@@ -14,5 +14,5 @@
 * [Sortierung](sortierung.md)
 * [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
-* Datensätze löschen
+* [Datensätze löschen](datensatze_loschen.md)
 
