@@ -26,3 +26,13 @@ Bei einem bereits angelegten Modul gelangen Sie ebenfalls über Funktionen in da
 | Verschieben | Wie oben bereits als Drag&Drop-Option erklärt, haben Sie hier die Möglichkeit, das Modul an einen anderen Spot zu verschieben. Bei Mouse-Over über den Spotnamen wird Ihnen der entsprechende Spot in der Seite mit einem farbigen Rahmen kenntlich gemacht.Alternativ können Sie auch das Modul per Drag&Drop an einen anderen Steckplatz verschieben. Dabei können auch Steckplätze gewählt werden, die bereits mit einem Modul gefüllt sind. In diesem Fall tauschen die beiden Module die Plätze. |
 | Spot bearbeiten | ist ein Shortcut für Administratoren und öffnet die Spot- Einstellungen. Hier können z.B. Modul-Einschränkungen vorgenommen werden (ist nur für Administratoren sichtbar). |
 
+
+Am oberen Rand einer Seite gibt es 4 Buttons, über die Sie schnell den Bearbeitungsmodus wechseln:
+
+![](bild21.png)
+
+* ***Seiten-Einstellungen***: Grundkonfiguration der Seite, wie z.B. Name, verbundene Navigationspunkte, Zugriffsbeschränkungen etc.
+* ***Inhalte editieren***: Hier können die Module in den Steckplätzen bearbeitet werden.
+* ***Seitenvorschau***: Öffnet die Webansicht der Seite. 
+* ***Seitenvorlagen***: Zeigt mögliche Seiten-Layouts sowie das für diese Seite ausgewählte Layout an.
+
