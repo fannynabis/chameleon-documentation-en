@@ -22,4 +22,5 @@
 * [Speichern](speichern.md)
 * [Kopieren](kopieren.md)
 * [Neu](neu.md)
+* Löschen
 
