@@ -34,5 +34,5 @@
        * [Mehrere Seiten mit einem Navigationspunkt verbinden](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
        * [Eine Seite mit mehreren Navigationspunkten verknüpfen](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
        * [Seiten-Einstellungen](seiten-einstellungen.md)
-       * Seiten-Layouts
+       * [Seiten-Layouts](seiten-layouts.md)
 
