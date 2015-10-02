@@ -12,21 +12,3 @@ Zahlreiche Hilfestellungen finden Sie in der kontextsensitiven Hilfe, gekennzeic
 
 
 
-
-
-
-
-
-![](Chameleon_Anwenderdokumentation_Standardshop_V8.png)
-
-
-
-
-
-
-
-# Metadaten
-
-
-
-![](Chameleon_Anwenderdokumentation_Standardshop_V9.png)
