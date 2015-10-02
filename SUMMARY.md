@@ -30,5 +30,5 @@
    * [Seitenverwaltung](seitenverwaltung.md)
        * [Seite anlegen](seite_anlegen.md)
        * [Seite bearbeiten / Module anlegen](seite_bearbeiten__module_anlegen.md)
-       * Seite löschen
+       * [Seite löschen](seite_loschen.md)
 
