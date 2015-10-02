@@ -12,5 +12,5 @@
    * [Menüführung](menufuhrung.md)
    * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
 * [Sortierung](sortierung.md)
-* Suchen
+* [Suchen](suchen.md)
 
