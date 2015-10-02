@@ -17,4 +17,5 @@
    * [Datensätze löschen](datensatze_loschen.md)
    * [Neuen Eintrag anlegen](neuen_eintrag_anlegen.md)
    * [Datensatz editieren](datensatz_editieren.md)
+   * Andere Funktionen
 
