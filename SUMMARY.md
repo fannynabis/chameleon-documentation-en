@@ -13,5 +13,5 @@
    * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
 * [Sortierung](sortierung.md)
 * [Suchen](suchen.md)
-* Gruppierung
+* [Gruppierung](gruppierung.md)
 
