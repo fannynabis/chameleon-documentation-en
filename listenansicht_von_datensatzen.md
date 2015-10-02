@@ -1,2 +1,0 @@
-# Listenansicht von Datensätzen
-
