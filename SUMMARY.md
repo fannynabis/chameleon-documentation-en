@@ -31,4 +31,5 @@
        * [Seite anlegen](seite_anlegen.md)
        * [Seite bearbeiten / Module anlegen](seite_bearbeiten__module_anlegen.md)
        * [Seite löschen](seite_loschen.md)
+       * Mehrere Seiten in einem Navigationspunkt verbinden
 
