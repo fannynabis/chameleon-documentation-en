@@ -23,5 +23,5 @@
 * [Kopieren](kopieren.md)
 * [Neu](neu.md)
 * [Löschen](loschen.md)
-* Sprache kopieren
+* [Sprache kopieren](sprache_kopieren.md)
 
