@@ -25,5 +25,5 @@
 * [Löschen](loschen.md)
 * [Sprache kopieren](sprache_kopieren.md)
 * [Datensatz wechseln](datensatz_wechseln.md)
-* Datensatz Details
+* [Datensatz Details](datensatz_details.md)
 
