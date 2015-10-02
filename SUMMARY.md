@@ -27,5 +27,5 @@
 * [Datensatz wechseln](datensatz_wechseln.md)
 * [Datensatz Details](datensatz_details.md)
    * [Navigationsverwaltung](navigationsverwaltung.md)
-   * Seitenverwaltung
+   * [Seitenverwaltung](seitenverwaltung.md)
 
