@@ -26,5 +26,5 @@
 * [Sprache kopieren](sprache_kopieren.md)
 * [Datensatz wechseln](datensatz_wechseln.md)
 * [Datensatz Details](datensatz_details.md)
-   * Navigationsverwaltung
+   * [Navigationsverwaltung](navigationsverwaltung.md)
 
