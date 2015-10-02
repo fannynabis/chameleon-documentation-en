@@ -5,5 +5,5 @@
    * [3 Testsystem und Live-System](3_testsystem_und_live-system.md)
    * [4 Datenbackup](4_datenbackup.md)
    * [5 Backend](5_backend.md)
-* [Second Chapter](second_chapter.md)
+* [Grundsätzliches zur Bedienung von Chameleon](second_chapter.md)
 
