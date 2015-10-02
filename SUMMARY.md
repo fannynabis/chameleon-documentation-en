@@ -9,7 +9,6 @@
    * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
    * [Portale / Webseiten](portale__webseiten.md)
    * [Speichern / Seitenbaum editieren](speichern__seitenbaum_editieren.md)
-   * [Suchen](suchen.md)
    * [Gruppierung](gruppierung.md)
    * [Datensätze löschen](datensatze_loschen.md)
    * [Neuen Eintrag anlegen](neuen_eintrag_anlegen.md)
