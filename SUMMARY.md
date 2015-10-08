@@ -48,4 +48,5 @@
    * [Variantensets](variantensets.md)
    * [Währungen](wahrungen.md)
    * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
+* Produktinformation
 
