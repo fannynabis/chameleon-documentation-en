@@ -71,5 +71,5 @@
 * [Kundeninformation](kundeninformation.md)
    * [Kunden](kunden.md)
    * [Kundengruppen](kundengruppen.md)
-   * Kundenrezessionen
+   * [Kundenrezessionen](kundenrezessionen.md)
 
