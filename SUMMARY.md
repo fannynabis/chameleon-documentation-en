@@ -55,7 +55,6 @@
    * [Beitragende Personen](beitragende_personen.md)
    * [Hersteller / Marke](hersteller__marke.md)
    * [Produktattribute](produktattribute.md)
-       * Presenter mit verlinkbaren Hotspots (Modul)
    * [Artikelmerkmale](artikelmerkmale.md)
        * Presenter mit verlinkbaren Hotspots (Modul)
    * [Artikelvarianten](artikelvarianten.md)
