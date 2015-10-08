@@ -1,0 +1,2 @@
+# Zentrale Shop-Einstellungen
+
