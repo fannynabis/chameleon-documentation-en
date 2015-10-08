@@ -15,3 +15,9 @@ Durch die Bildergalerien hat man die Möglichkeit, im Frontend Bildsammlungen zu
 | **Beschreibung** | kurze Beschreibung der Bildergalerie |
 | **Bilder aus Mediendatenbank-Verzeichnis übernehmen** | Bilder, die zuvor zu Medien hinzugefügt wurden, können hier direkt in die Bildergalerie übernommen werden |
 | **Bilder** | Ein Bild hochladen und eine Liste aller Bilder der Galerie |
+
+Die Bildergalerien können über einen im Frontend anzulegenden View angezeigt werden.
+
+Beispiel Bildergalerie im Frontend:
+
+![](bild51.png)
