@@ -36,5 +36,5 @@
        * [Seiten-Einstellungen](seiten-einstellungen.md)
        * [Seiten-Layouts](seiten-layouts.md)
    * [Medien](medien.md)
-   * Dokumente
+   * [Dokumente](dokumente.md)
 
