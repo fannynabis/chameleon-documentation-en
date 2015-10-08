@@ -83,5 +83,5 @@
 * [Auswertungen / Statistik](auswertungen__statistik.md)
    * [Auswertung (Chameleon intern)](auswertung_chameleon_intern.md)
    * [Externe Webstatistik-Dienste](externe_webstatistik-dienste.md)
-* Rabatte und Gutscheine
+* [Rabatte und Gutscheine](rabatte_und_gutscheine.md)
 
