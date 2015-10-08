@@ -58,4 +58,5 @@
    * [Artikelmerkmale](artikelmerkmale.md)
    * [Artikelvarianten](artikelvarianten.md)
 * [Variantenset](variantenset.md)
+   * Variantenset anlegen
 
