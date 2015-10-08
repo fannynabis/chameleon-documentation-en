@@ -52,5 +52,5 @@
    * [Artikel](artikel.md)
    * [Artikelkategorien](artikelkategorien.md)
    * [Artikeltypen](artikeltypen.md)
-   * Beitragende Personen
+   * [Beitragende Personen](beitragende_personen.md)
 
