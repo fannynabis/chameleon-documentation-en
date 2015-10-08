@@ -57,4 +57,5 @@
    * [Produktattribute](produktattribute.md)
    * [Artikelmerkmale](artikelmerkmale.md)
    * [Artikelvarianten](artikelvarianten.md)
+* Variantenset
 
