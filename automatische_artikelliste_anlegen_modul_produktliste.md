@@ -15,3 +15,5 @@ Legen Sie auf der Seite, auf der die automatische Artikelliste erscheinen soll, 
 | Anzahl der Artikel pro Seite | Über dieses Feld lässt sich die Seitengröße bestimmen. Um alle Artikel auf einer Seite darzustellen, kann hier einfach -1 hinterlegt werden.|
 | Einleitungstext | Der optionale Einleitungstext wird gewöhnlich am Anfang der Liste, direkt nach der Überschrift angezeigt. |
 | Abschlusstext | Der optionale Abschlusstext wird gewöhnlich am Ende der Liste angezeigt. |
+
+![](bild42.png)
