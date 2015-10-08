@@ -20,7 +20,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 
 
-## bla bla
+
 
 
 
