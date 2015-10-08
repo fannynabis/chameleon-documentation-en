@@ -95,10 +95,21 @@ Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Ar
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 |
-| 0:3 | 1:3 | 2:3 |
-| 0:4 | 1:4 | 2:4 |
+| **SEO Pattern** | Durch die Definition des SEO-Patterns kann genau gesteuert werden, wie der Titel der Artikelseite aussehen soll. <u>Zur Verfügung stehen</u>: [{PORTAL_NAME}] - Name des Portals; [{CATEGORY_NAME}] – Kategorie-Name; [{MANUFACTURER_NAME}] – Hersteller-Name; [{ARTICLE_NAME}] - Artikelbezeichnung; [{SHOW}] – zeigt alle Möglichkeiten an; *Wird hier nichts eingetragen, greifen die allgemeinen Einstellungen unter Portale/Webseiten* | nein |
+| **Meta-Schlüsselwörter** | Hier werden die Suchmaschinen-relevanten Meta-Schlüsselwörter (meta keywords) hinterlegt.Wird dieses Feld leer gelassen, verwendet der Shop die Kurzbeschreibung des Artikels. | nein |
+| **Meta-Description** | Optionale Meta-Beschreibung (description) für die Artikelseite. Wird kein Wert hinterlegt, erstellt das System eine Meta-Beschreibung auf Basis der Artikeldaten. Die Description wird als erläuternder Text bei den trefferlisten in Suchmaschinen angezeigt. | nein |
 
+Unter „Metadaten“ können die Metadaten speziell für dieses Produkt überschrieben werden.
+
+
+### Suche
+
+| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| Gewichtung des Artikels | Zahl, über die der Rang des Produktes in den Listen gesteuert werden kann. | nein |
+| Virtueller Artikel | Identifiziert den Artikel als virtuell (real nicht verfügbar). Ein Beispiel für einen virtuellen Artikel könnte ein eBook-Download beim Kauf eines Buches sein. | nein |
+| Ist suchbar | Definiert, ob der Artikel in den Suchindex aufgenommen wird. | nein |
+| Als neu kennzeichnen | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
 
 
 
