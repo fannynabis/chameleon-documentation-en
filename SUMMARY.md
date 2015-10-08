@@ -69,5 +69,5 @@
        * [Artikellisten mit dem Multimodul anlegen](artikellisten_mit_dem_multimodul_anlegen.md)
    * [Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
 * [Kundeninformation](kundeninformation.md)
-   * Kunden
+   * [Kunden](kunden.md)
 
