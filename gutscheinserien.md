@@ -14,3 +14,12 @@ Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. Fü
 
 ![](bild50.png)
 
+| Bezeichnung | Beschreibung |
+| -- | -- |
+| Code | 1:2 |
+| Datum | 1:3 |
+| Verbraucht (Ja / Nein) | 1:4 |
+| Verbrauchsdatum | 1:5 |
+| Restwert | 1:6 |
+
+
