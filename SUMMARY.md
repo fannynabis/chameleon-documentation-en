@@ -49,4 +49,5 @@
    * [Währungen](wahrungen.md)
    * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
 * [Produktinformation](produktinformation.md)
+   * Artikel
 
