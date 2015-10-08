@@ -74,5 +74,5 @@
    * [Kundenrezensionen](kundenrezessionen.md)
    * [Artikelempfehlung von Kunden](artikelempfehlung_von_kunden.md)
 * [Bestellinformation](bestellinformation.md)
-   * Bestellungen
+   * [Bestellungen](bestellungen.md)
 
