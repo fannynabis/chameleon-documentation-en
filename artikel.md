@@ -91,5 +91,16 @@ Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Ar
 
 
 
+### SEO / Meta
+
+| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| 0:2 | 1:2 | 2:2 |
+| 0:3 | 1:3 | 2:3 |
+| 0:4 | 1:4 | 2:4 |
+
+
+
+
 
 
