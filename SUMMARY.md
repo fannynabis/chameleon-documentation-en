@@ -39,4 +39,5 @@
    * [Dokumente](dokumente.md)
    * [Sprache / Website/ Cache / Hilfe](sprache__website_cache__hilfe.md)
    * [CKEditor](ckeditor.md)
+* Zentrale Shop-Einstellungen
 
