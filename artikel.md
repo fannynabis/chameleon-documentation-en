@@ -106,11 +106,29 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
-| Gewichtung des Artikels | Zahl, über die der Rang des Produktes in den Listen gesteuert werden kann. | nein |
-| Virtueller Artikel | Identifiziert den Artikel als virtuell (real nicht verfügbar). Ein Beispiel für einen virtuellen Artikel könnte ein eBook-Download beim Kauf eines Buches sein. | nein |
-| Ist suchbar | Definiert, ob der Artikel in den Suchindex aufgenommen wird. | nein |
-| Als neu kennzeichnen | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
+| **Gewichtung des Artikels** | Zahl, über die der Rang des Produktes in den Listen gesteuert werden kann. | nein |
+| **Virtueller Artikel** | Identifiziert den Artikel als virtuell (real nicht verfügbar). Ein Beispiel für einen virtuellen Artikel könnte ein eBook-Download beim Kauf eines Buches sein. | nein |
+| **Ist suchbar** | Definiert, ob der Artikel in den Suchindex aufgenommen wird. | nein |
+| **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
 
+
+### Bewertungen
+
+| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| **Anzahl Sterne** | Gibt die durchschnittliche Benutzerbewertung des Produktes an | nein |
+| **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |
+
+
+### Bundle
+
+| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| Ist ein Bundle | Bundles werden als echtes Produkt im Shop geführt. Hier muss also eine eigene Beschreibung, eigene Bilder, ein eigener Preis, usw. hinterlegt werden. Um das Bundle als solches zu erkennen, wird das Produkt über „Ist ein Bundle“ als Bundle markiert. Zusätzlich werden alle zu dem Bundle gehörenden Produkte dem Bundle zugewiesen. Bei der Zuweisung jedes Artikels kann die Stückzahl mit angegeben werden.
+Im Warenkorb und bei allen Berechnungen wird das Bundle ebenfalls als ein Produkt behandelt. | nein |
+| Artikel die zu diesem Bundle gehören | Wenn es sich um ein Bundle handelt, können hier die zu dem Bundle gehörenden Produkte hinterlegt werden.
+Wichtig:
+Alle dem Bundle zugewiesenen Produkte werden dabei ignoriert. Rabatte, Gutscheine, Zahlmethoden, Versandkosten und Mehrwertsteuerregeln gelten also nie für die einzelnen Produkte in dem Bundle, sondern immer nur für das Bundle-Produkt. | nein |
 
 
 
