@@ -53,5 +53,5 @@
    * [Artikelkategorien](artikelkategorien.md)
    * [Artikeltypen](artikeltypen.md)
    * [Beitragende Personen](beitragende_personen.md)
-   * Hersteller / Marke
+   * [Hersteller / Marke](hersteller__marke.md)
 
