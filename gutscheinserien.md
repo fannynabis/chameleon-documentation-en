@@ -16,10 +16,10 @@ Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. Fü
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-| Code | 1:2 |
-| Datum | 1:3 |
-| Verbraucht (Ja / Nein) | 1:4 |
-| Verbrauchsdatum | 1:5 |
-| Restwert | 1:6 |
+| Code | Identifikationscode des Gutscheins |
+| Datum | Erstellungsdatum |
+| Verbraucht (Ja / Nein) | Markierungsfeld zur Identifikation, ob Gutschein als verbraucht markiert wurde |
+| Verbrauchsdatum | wird hinterlegt, sobald ein Gutschein komplett verbraucht wurde  |
+| Restwert | möglicher unverbrauchter Restwert des Gutscheines |
 
 
