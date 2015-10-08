@@ -86,4 +86,5 @@
    * [Gutscheinsponsoren](gutscheinsponsoren.md)
    * [Rabatte](rabatte.md)
 * [Suche](suche.md)
+   * Artikelsuchindex
 
