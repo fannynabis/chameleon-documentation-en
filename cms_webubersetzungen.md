@@ -6,6 +6,6 @@ Dies ist die zentrale Stelle im CHAMELEON-CMS, um alle im Frontend stehenden üb
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-| Key | 1:2 |
-| Text | 1:3 |
-| Hinweis | 1:4 |
+| Key | eindeutiger Schlüssel des zu übersetzenden Textes |
+| Text | der zu übersetzende Text |
+| Hinweis | Hinweistext |
