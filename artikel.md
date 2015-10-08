@@ -5,7 +5,11 @@ Artikel → Artikel
 In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die Suchfunktion ermöglicht ein schnelles Auffinden des gesuchten Artikels. Die Artikel gelangen entweder per Import in den Shop oder werden manuell angelegt.
 
 
-**Basisdaten**
+
+
+
+### Basisdaten
+
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -20,7 +24,10 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Tags / Schlagworte** | Wird auf der Artikeldetailseite ausgegeben. Artikel mit gleichen Tags können so in einer Artikelliste ausgegeben werden. | nein |
 
 
-**Beschreibung**
+
+
+### Beschreibung
+
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -28,7 +35,9 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Beschreibung** | Ausführliche Beschreibung des Artikels auf der Artikeldetailseite | nein |
 
 
-**Kategorie / Merkmale**
+
+### Kategorie / Merkmale
+
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -44,16 +53,36 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |
 
 
-**Preis / Versand**
+###Preis / Versand
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
-| Preis | Artikel-Brutto-Preis | ja |
-| Vergleichspreis | Der Vergleichspreis (UVP) des Artikels (wird für gewöhnlich im Shop durchgestrichen angezeigt, da höher als der eigentliche Preis) | nein |
-| Umsatzsteuergruppe | Zum Artikel passender Umsatzsteuersatz | nein |
-| Artikel ist versandkostenfrei | Identifiziert Artikel, die versandkostenfrei versendet werden. | nein |
-| keine Gutscheine zulassen | JA: im Warenkorb angewendeten Gutscheine wirken sich nicht auf dieses Produkt aus. | nein |
-| keine Rabatte zulassen | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
+| **Preis** | Artikel-Brutto-Preis | ja |
+| **Vergleichspreis** | Der Vergleichspreis (UVP) des Artikels (wird für gewöhnlich im Shop durchgestrichen angezeigt, da höher als der eigentliche Preis) | nein |
+| **Umsatzsteuergruppe** | Zum Artikel passender Umsatzsteuersatz | nein |
+| **Artikel ist versandkostenfrei** | Identifiziert Artikel, die versandkostenfrei versendet werden. | nein |
+| **keine Gutscheine zulassen** | JA: im Warenkorb angewendeten Gutscheine wirken sich nicht auf dieses Produkt aus. | nein |
+| **keine Rabatte zulassen** | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
+
+
+###Inhalt / Maße / Gewicht
+
+Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimensionen des Artikels angegeben werden.
+Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterlegen Sie die Angaben in den Feldern **Inhalt** (Mengenangabe) und **Maßeinheit des Inhalts** (kg, g, l, ml, usw.).
+Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **Maßeinheiten**).
+
+###Varianten
+
+Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **Artikelvarianten**.
+
+###Lager
+
+| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| 0:2 | 1:2 | 2:2 |
+| 0:3 | 1:3 | 2:3 |
+| 0:4 | 1:4 | 2:4 |
+
 
 
 
