@@ -37,5 +37,5 @@
        * [Seiten-Layouts](seiten-layouts.md)
    * [Medien](medien.md)
    * [Dokumente](dokumente.md)
-   * Sprache / Website/ Cache / Hilfe
+   * [Sprache / Website/ Cache / Hilfe](sprache__website_cache__hilfe.md)
 
