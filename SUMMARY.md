@@ -72,5 +72,5 @@
    * [Kunden](kunden.md)
    * [Kundengruppen](kundengruppen.md)
    * [Kundenrezessionen](kundenrezessionen.md)
-   * Artikelempfehlung von Kunden
+   * [Artikelempfehlung von Kunden](artikelempfehlung_von_kunden.md)
 
