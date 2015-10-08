@@ -61,5 +61,4 @@
            * [Variantenset anlegen](variantenset_anlegen.md)
            * [Variantenarten anlegen](variantenarten_anlegen.md)
            * [Variantenwerte anlegen](variantenwerte_anlegen.md)
-           * [Varianten generieren](varianten_generieren.md)
 
