@@ -22,4 +22,25 @@ Die Gutscheine einer Gutscheinserie können als CSV-Datei exportiert werden. Fü
 | Verbrauchsdatum | wird hinterlegt, sobald ein Gutschein komplett verbraucht wurde  |
 | Restwert | möglicher unverbrauchter Restwert des Gutscheines |
 
+Gutscheine können für alle Benutzer verwendbar sein oder auf bestimmte Benutzergruppen oder Benutzer eingeschränkt werden.
+
+Gutscheine können einen Gutscheinsponsor haben, der für den Gutschein gezahlt hat, siehe *Gutscheinsponsoren*.
+
+Gutscheine, die nicht „gesponsert“ und damit nicht tatsächlich bezahlt sind, dürfen nicht auf Artikel zugreifen, die von Gutscheinen ausgeschlossen wurden. Die für den Gutschein relevante Mindestbestellsumme sowie der Warenkorbwert (der nicht unter Null fallen darf) beziehen sich immer auf die Summe der Artikel, die nicht von Gutscheinen ausgeschlossen wurden. 
+
+Folgende zusätzliche Einstellungen und Einschränkungen sind möglich:
+
+* Über ein Start- und Enddatum kann ein Gutschein auf eine Zeitspanne eingeschränkt werden.
+* Es kann ein Mindestbestellwert definiert werden, der überschritten werden muss, bevor der Gutschein akzeptiert wird.
+* Ob der Gutschein mit einem anderen Gutschein der gleichen Gutscheinserie verwendet werden kann.
+* Ob der Gutschein mit anderen Gutscheinen (egal von welcher Gutscheinserie) verwendet werden kann.
+* Ob ein Kunde Gutscheine dieser Gutscheinserie generell nur einmal verwenden darf (also auch nicht bei zwei getrennten Bestellungen).
+* Ob der Gutschein nur bei der ersten Bestellung des Benutzers verwendet werden kann.
+* Ob der Gutschein die Versandkosten aufheben soll.
+* Es ist möglich, den Gutschein als einen „gesponserten“ Gutschein zu markieren. Zusätzlich können der Name des Sponsors, ein Bild und ein Logo hinterlegt werden. „Gesponserte“ Gutscheine ignorieren die Einstellung „keine Gutscheine zulassen“ der Warenkorbartikel im Warenkorb.
+
+
+Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfügung:
+
+
 
