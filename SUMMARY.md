@@ -41,4 +41,5 @@
    * [CKEditor](ckeditor.md)
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
    * Shops
+   * Shop
 
