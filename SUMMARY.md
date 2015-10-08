@@ -67,5 +67,5 @@
    * [Produktlisten](produktlisten.md)
        * [Automatische Artikelliste anlegen (Modul Produktliste)](automatische_artikelliste_anlegen_modul_produktliste.md)
        * [Artikellisten mit dem Multimodul anlegen](artikellisten_mit_dem_multimodul_anlegen.md)
-   * Presenter mit verlinkbaren Hotspots (Modul)
+   * [Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
 
