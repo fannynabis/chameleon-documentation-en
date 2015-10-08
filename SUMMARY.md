@@ -42,5 +42,5 @@
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
    * [Shops](shops.md)
    * [Extranet-Konfiguration](extranet-konfiguration.md)
-   * Benutzerländer (Hauptgruppe Shop Einstellungen)
+   * [Benutzerländer (Hauptgruppe Shop Einstellungen)](benutzerlander_hauptgruppe_shop_einstellungen.md)
 
