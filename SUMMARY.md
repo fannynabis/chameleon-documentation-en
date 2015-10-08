@@ -47,5 +47,5 @@
    * [Umsatzsteuergruppen](umsatzsteuergruppen.md)
    * [Variantensets](variantensets.md)
    * [Währungen](wahrungen.md)
-   * Anzeige Shop-Hauptnavigation
+   * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
 
