@@ -79,5 +79,5 @@
        * [Bestellschritte (Checkout)](bestellschritte_checkout.md)
        * [Versandkostenart](versandkostenart.md)
        * [Versandkostengruppen](versandkostengruppen.md)
-       * Zahlmethoden
+       * [Zahlmethoden](zahlmethoden.md)
 
