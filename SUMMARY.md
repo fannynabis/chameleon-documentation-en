@@ -80,4 +80,5 @@
        * [Versandkostenart](versandkostenart.md)
        * [Versandkostengruppen](versandkostengruppen.md)
        * [Zahlmethoden](zahlmethoden.md)
+* Auswertungen / Statistik
 
