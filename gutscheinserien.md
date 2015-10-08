@@ -71,3 +71,6 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 
 *nur verfügbar, wenn das Modul Gratisartikel freigeschaltet ist
 
+
+Weitere Gutscheine zur Serie können über den Button "Gutscheine erstellen" generiert werden. Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden (falls nicht für alle Gutscheine, die generiert werden sollen, der gleiche Code gelten soll, bitte nichts angeben). Wurde kein Gutschein-Code angegeben, wird für jeden Gutschein ein eineindeutiger Code generiert.
+
