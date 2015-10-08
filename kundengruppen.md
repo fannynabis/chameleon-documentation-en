@@ -11,4 +11,4 @@ Kundengruppen können in CHAMELEON frei definiert werden und finden ihre Anwendu
 | **Autozuweisung ab Bestellwert** | Kundengruppe wird dem Benutzer automatisch zugewiesen, wenn die Bestellung des Kunden einen definierten Wert überschreitet |
 | **Autozuweisung bis Bestellwert** | Erreicht der Kunde diesen Bestellwert, dann wird er automatisch aus der Gruppe genommen (die Gruppe greift also nur für Kunden mit Bestellungen UNTER diesem Betrag). Wird hier 0 angegeben, dann gilt die Gruppe bis zu einem beliebigen Bestellwert. |
 
-Die Zuweisung eines Kunden zu einer Kundegruppe finden Sie auch direkt beim Kunden in den Basisdaten.
+Die Zuweisung eines Kunden zu einer Kundengruppe finden Sie auch direkt beim Kunden in den Basisdaten.
