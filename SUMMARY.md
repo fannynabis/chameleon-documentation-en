@@ -70,4 +70,5 @@
    * [Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
 * [Kundeninformation](kundeninformation.md)
    * [Kunden](kunden.md)
+   * Kundengruppen
 
