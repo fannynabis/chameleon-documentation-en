@@ -10,3 +10,8 @@ Füllen Sie zunächst die Pflichtfelder (durch * gekennzeichnet) aus:
 <u>Hinweis</u>: Die Begriffe *size* und *color* werden vom System auch für den Filter verwendet. Soll nach Größen und Farben gefiltert werden, verwenden Sie für den Kennzeichener der Variantenart diese Begriffe. 
 
 SPEICHERN
+
+![](bild34.png)
+
+* ***Verfügbare Variantenwerte***: Erstellen Sie hier die Werte der Variante, in diesem Beispiel alle Größen und Farben, in denen das T-Shirt verkäuflich ist, sh. nächster Abschnitt.
+
