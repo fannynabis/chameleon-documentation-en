@@ -64,5 +64,5 @@
        * [Varianten generieren](varianten_generieren.md)
    * [Produktlisten](produktlisten.md)
        * [Automatische Artikelliste anlegen (Modul Produktliste)](automatische_artikelliste_anlegen_modul_produktliste.md)
-       * Artikellisten mit dem Multimodul anlegen
+       * [Artikellisten mit dem Multimodul anlegen](artikellisten_mit_dem_multimodul_anlegen.md)
 
