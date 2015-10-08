@@ -81,4 +81,5 @@
        * [Versandkostengruppen](versandkostengruppen.md)
        * [Zahlmethoden](zahlmethoden.md)
 * [Auswertungen / Statistik](auswertungen__statistik.md)
+   * Auswertung (Chameleon intern)
 
