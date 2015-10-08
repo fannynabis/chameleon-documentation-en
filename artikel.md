@@ -48,12 +48,12 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 |
-| 0:3 | 1:3 | 2:3 |
-| 0:4 | 1:4 | 2:4 |
-| 0:5 | 1:5 | 2:5 |
-| 0:6 | 1:6 | 2:6 |
-| 0:7 | 1:7 | 2:7 |
+| Preis | Artikel-Brutto-Preis | ja |
+| Vergleichspreis | Der Vergleichspreis (UVP) des Artikels (wird für gewöhnlich im Shop durchgestrichen angezeigt, da höher als der eigentliche Preis) | nein |
+| Umsatzsteuergruppe | Zum Artikel passender Umsatzsteuersatz | nein |
+| Artikel ist versandkostenfrei | Identifiziert Artikel, die versandkostenfrei versendet werden. | nein |
+| keine Gutscheine zulassen | JA: im Warenkorb angewendeten Gutscheine wirken sich nicht auf dieses Produkt aus. | nein |
+| keine Rabatte zulassen | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
 
 
 
