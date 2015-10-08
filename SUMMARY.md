@@ -55,4 +55,5 @@
    * [Beitragende Personen](beitragende_personen.md)
    * [Hersteller / Marke](hersteller__marke.md)
    * [Produktattribute](produktattribute.md)
+   * Artikelmerkmale
 
