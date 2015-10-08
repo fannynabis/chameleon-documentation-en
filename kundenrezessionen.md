@@ -6,3 +6,5 @@ Kunden können für Produkte eigene Rezensionen erstellen. Über das entsprechen
 * Rezensionen nur für angemeldete Benutzer
 * Automatische Veröffentlichung („Rezensionen Verwalten“)
 * Bewerten/Melden/Kommentieren von Rezensionen
+* Anzahl der Bewertungspunkte und der angezeigten Rezensionen pro Artikel
+* Name des Autors
