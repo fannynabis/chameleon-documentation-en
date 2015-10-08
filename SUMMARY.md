@@ -46,5 +46,5 @@
    * [Maßeinheiten](masseinheiten.md)
    * [Umsatzsteuergruppen](umsatzsteuergruppen.md)
    * [Variantensets](variantensets.md)
-   * Währungen
+   * [Währungen](wahrungen.md)
 
