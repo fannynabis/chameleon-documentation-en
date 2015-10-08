@@ -79,9 +79,14 @@ Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bek
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 |
-| 0:3 | 1:3 | 2:3 |
-| 0:4 | 1:4 | 2:4 |
+| **Lagerbestand** | Auf Lager, verfügbare Artikelanzahl | nein |
+| **Bei 0 Bestand Vormerken anbieten** | Sinkt der Bestand auf „0“, wird ein Formular zum Vormerken des Artikels auf der Artikeldetailseite angezeigt. | nein |
+| **Lieferstatus** | Ein meist vom Shopbetreiber vorgegebener Status wie „nicht lieferbar“ oder „sofort lieferbar“, der auf der Artikeldetailseite angezeigt werden kann. Im Datensatz des Lieferstatus (Lagerbestandsmeldung) kann definiert werden, ob der Artikel automatisch deaktiviert werden soll, wenn der Bestand 0 ist. Bei NEIN ist der Artikel also immer noch sichtbar, auch wenn der Bestand ≤0 ist. | nein |
+
+
+
+### Cross Selling
+
 
 
 
