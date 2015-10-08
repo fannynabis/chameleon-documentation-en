@@ -131,6 +131,13 @@ Wichtig:
 Alle dem Bundle zugewiesenen Produkte werden dabei ignoriert. Rabatte, Gutscheine, Zahlmethoden, Versandkosten und Mehrwertsteuerregeln gelten also nie für die einzelnen Produkte in dem Bundle, sondern immer nur für das Bundle-Produkt. | nein |
 
 
+### Stats
+
+Liefert eine statistische Kurzübersicht über den Artikel (Verkäufe, Detailaufrufe, durchschnittliche Bewertung, Anzahl der Bewertungen).
+
+Ihre Eingaben speichern Sie über den SPEICHERN-Button oberhalb des Datensatzes oder auch noch bequemer, über Rechtsklick an jeder beliebigen Stelle im Datensatz erreichen Sie das Kontextmenü, welches Ihnen die wichtigsten Editier-unktionen 
+
+
 
 
 
