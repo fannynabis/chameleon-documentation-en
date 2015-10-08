@@ -45,4 +45,5 @@
    * [Benutzerländer (Hauptgruppe Shop Einstellungen)](benutzerlander_hauptgruppe_shop_einstellungen.md)
    * [Maßeinheiten](masseinheiten.md)
    * [Umsatzsteuergruppen](umsatzsteuergruppen.md)
+   * Variantensets
 
