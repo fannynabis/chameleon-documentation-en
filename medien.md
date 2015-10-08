@@ -16,3 +16,7 @@ Die Verzeichnisstruktur links und die Suchfunktion unten ermöglichen ein schnel
 | Dateien importieren (FTP) | Importieren aller Dateien, die im Verzeichnis *private/cmsdata/mediaImport* liegen und zuvor per FTP *(FTP-Zugang erforderlich)* hochgeladen wurden. |
 | Dateien hierhin verschieben | Alle Dateien, die markiert und ausgeschnitten wurden, können über diese Funktion in das markierte Verzeichnis verschoben werden. |
 | Umbenennen | Benennt ein Verzeichnis um. |
+
+
+Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Datensatz auf und laden über ***Mediendatei ersetzen*** die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
+Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden. Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter CMS Einstellungen → Uploader Konfiguration eingestellten Upload-Werte nicht überschreiten.
