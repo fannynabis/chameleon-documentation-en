@@ -35,4 +35,5 @@
        * [Eine Seite mit mehreren Navigationspunkten verknüpfen](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
        * [Seiten-Einstellungen](seiten-einstellungen.md)
        * [Seiten-Layouts](seiten-layouts.md)
+   * Medien
 
