@@ -44,27 +44,27 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-|  | 1:2 |
-| 0:3 | 1:3 |
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
-| 0:6 | 1:6 |
-| 0:7 | 1:7 |
-| 0:8 | 1:8 |
-| 0:9 | 1:9 |
-| 0:10 | 1:10 |
-| 0:11 | 1:11 |
-| 0:12 | 1:12 |
-| 0:13 | 1:13 |
-| 0:14 | 1:14 |
-| 0:15 | 1:15 |
-| 0:16 | 1:16 |
-| 0:17 | 1:17 |
-| 0:18 | 1:18 |
-| 0:19 | 1:19 |
-| 0:20 | 1:20 |
-| 0:21 | 1:21 |
-| 0:22 | 1:22 |
-| 0:23 | 1:23 |
+| Name | 1:2 |
+| Gutscheinsponsor | 1:3 |
+| Wert | 1:4 |
+| Wertart | 1:5 |
+| Umsatzsteuergruppe | 1:6 |
+| Gratisartikel | 1:7 |
+| Gratisversand | 1:8 |
+| Aktiv | 1:9 |
+| Aktiv ab | 1:10 |
+| Aktiv bis | 1:11 |
+| Mindestbestellwert | 1:12 |
+| Nur mit anderen Serien zulassen | 1:13 |
+| Nicht in Kombination mit anderen Gutscheinen zulassen | 1:14 |
+| Nur einen Gutschein pro Kunde zulassen | 1:15 |
+| Nur bei der ersten Bestellung eines Kunden zulassen | 1:16 |
+| Auf folgende Kunden einschränken | 1:17 |
+| Auf folgende Kundengruppen einschränken | 1:18 |
+| Auf Produkte dieser Hersteller einschränken | 1:19 |
+| Auf Produkte aus diesen Artikelgruppen einschränken| 1:20 |
+| Auf Produkte aus diesen Kategorien einschränken | 1:21 |
+| Auf diese Produkte einschränken | 1:22 |
+| Gutscheine der Serie | 1:23 |
 
 
