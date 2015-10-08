@@ -54,4 +54,5 @@
    * [Artikeltypen](artikeltypen.md)
    * [Beitragende Personen](beitragende_personen.md)
    * [Hersteller / Marke](hersteller__marke.md)
+   * Produktattribute
 
