@@ -51,4 +51,5 @@
 * [Produktinformation](produktinformation.md)
    * [Artikel](artikel.md)
    * [Artikelkategorien](artikelkategorien.md)
+   * Artikeltypen
 
