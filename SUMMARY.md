@@ -76,5 +76,5 @@
 * [Bestellinformation](bestellinformation.md)
    * [Bestellungen](bestellungen.md)
    * [Bestellprozess-Einstellungen](bestellprozess-einstellungen.md)
-       * Bestellschritte (Checkout)
+       * [Bestellschritte (Checkout)](bestellschritte_checkout.md)
 
