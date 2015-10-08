@@ -50,7 +50,7 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 | Wertart | definiert, ob es sich bei dem Feldwert um einen Absolutwert oder um eine Prozentangabe handelt. Prozentangaben beziehen sich immer auf den Gesamtwert des Warenkorbs.
  |
 | Umsatzsteuergruppe | Wird für die Serie keine Umsatzsteuergruppe gewählt, dann gilt immer die in den Shopeinstellungen hinterlegte Standardgruppe. |
-| Gratisartikel | Ein hier hinterlegter Artikel wird bei Verwendung des Gutscheins gratis in den Warenkorb gelegt. |
+| Gratisartikel* | Ein hier hinterlegter Artikel wird bei Verwendung des Gutscheins gratis in den Warenkorb gelegt. |
 | Gratisversand | Wird ein Gutschein mit dieser Markierung verwendet, betragen die Versandkosten 0,- €. |
 | Aktiv | Aktiviert / deaktiviert die Serie und alle dazu gehörenden Gutscheine. |
 | Aktiv ab | Legt ein Datum fest, ab welchem die Gutscheine der Serie verwendet werden können.
@@ -69,4 +69,5 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 | Auf diese Produkte einschränken | Filter |
 | Gutscheine der Serie | Eine Übersicht aller zur Serie gehörenden Gutscheine |
 
+*nur verfügbar, wenn das Modul Gratisartikel freigeschaltet ist
 
