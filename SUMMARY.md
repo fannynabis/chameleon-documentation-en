@@ -71,7 +71,6 @@
 * [Kundeninformation](kundeninformation.md)
    * [Kunden](kunden.md)
    * [Kundengruppen](kundengruppen.md)
-       * Bestellinformationen
    * [Kundenrezessionen](kundenrezessionen.md)
    * [Artikelempfehlung von Kunden](artikelempfehlung_von_kunden.md)
 
