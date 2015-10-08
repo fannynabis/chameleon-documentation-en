@@ -56,4 +56,5 @@
    * [Hersteller / Marke](hersteller__marke.md)
    * [Produktattribute](produktattribute.md)
    * [Artikelmerkmale](artikelmerkmale.md)
+   * Artikelvarianten
 
