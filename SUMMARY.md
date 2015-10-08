@@ -41,5 +41,5 @@
    * [CKEditor](ckeditor.md)
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
    * [Shops](shops.md)
-   * Extranet-Konfiguration
+   * [Extranet-Konfiguration](extranet-konfiguration.md)
 
