@@ -12,4 +12,7 @@ Füllen Sie zunächst die Pflichtfelder (durch * gekennzeichnet) aus:
 
 SPEICHERN
 
+![](bild34.png)
+
+* ***Verfügbare Variantenwerte***: Erstellen Sie hier die Werte der Variante, in diesem Beispiel alle Größen und Farben, in denen das T-Shirt verkäuflich ist, sh. nächster Abschnitt.
 
