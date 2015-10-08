@@ -15,3 +15,6 @@ Einstellung im Backend:
 
 ![](bild48.png)
 
+Für die einzelnen Schritte können Sie einen Namen und eine Beschreibung und festlegen, ob die Schritte in der Navigationsleiste auf der Seite angezeigt werden sollen (sh. Abbildung oben Frontend). Sie können auch eine bestimmte Vorlage für die Ansicht im Frontend hinterlegen.
+
+
