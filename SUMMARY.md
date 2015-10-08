@@ -75,4 +75,5 @@
    * [Artikelempfehlung von Kunden](artikelempfehlung_von_kunden.md)
 * [Bestellinformation](bestellinformation.md)
    * [Bestellungen](bestellungen.md)
+   * Bestellprozess-Einstellungen
 
