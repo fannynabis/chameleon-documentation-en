@@ -72,4 +72,5 @@
    * [Kunden](kunden.md)
    * [Kundengruppen](kundengruppen.md)
    * [Kundenrezessionen](kundenrezessionen.md)
+   * Artikelempfehlung von Kunden
 
