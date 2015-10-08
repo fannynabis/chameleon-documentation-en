@@ -8,5 +8,10 @@ Die Bestellschritte können Sie je nach Anforderung Ihres Shops selbst definiere
 Beispiel eines Bestellprozesses (auch Checkout genannt):
 
 Darstellung im Frontend:
+
 ![](bild47.png)
+
+Einstellung im Backend:
+
+![](bild48.png)
 
