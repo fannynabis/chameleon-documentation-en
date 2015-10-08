@@ -78,4 +78,5 @@
    * [Bestellprozess-Einstellungen](bestellprozess-einstellungen.md)
        * [Bestellschritte (Checkout)](bestellschritte_checkout.md)
        * [Versandkostenart](versandkostenart.md)
+       * Versandkostengruppen
 
