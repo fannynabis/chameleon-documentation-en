@@ -19,10 +19,10 @@ Für die einzelnen Schritte können Sie einen Namen und eine Beschreibung und fe
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-| Warenkorb | Erster Schritt, in welchem der Kunde die Möglichkeit hat, den zusammengestellten Warenkorb zu prüfen und zu ergänzen. |
-| 1. Anmeldung | In diesem Schritt hat der Kunde die Möglichkeit, sich als Neukunde zu registrieren oder sich im Shop anzumelden (falls bereits registriert) oder auch als Gast zu bestellen (optional).|
-| 2. Adressauswahl | In diesem Schritt kann der Kunde eine von der Rechnungsanschrift abweichende Lieferanschrift oder auch eine neue Rechnungsadresse angeben. Weiterhin ist hier die Auswahl eine Packstation möglich. |
-| 3. Zahlungsart | Auswahl der Zahlungs- und Versandart |
-| 4. Prüfung | In diesem Schritt hat der Kunde die Möglichkeit, alle von ihm eingegebenen Daten noch einmal zu prüfen und muss diese durch die Annahme der Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zu bestätigen. Nach dem Klick auf „Jetzt kaufen“ ist die Bestellung verbindlich und wird im System erstellt. Optional hat der Kunde in diesem Schritt auch die Möglichkeit, den Newsletter zu abonnieren.|
-| Bestätigung | Im Bestätigungsschritt bekommt der Kunde (je nach Shop-Design) weitere Informationen zu der Bestellung und hat die Möglichkeit, diese auszudrucken. |
+| **Warenkorb** | Erster Schritt, in welchem der Kunde die Möglichkeit hat, den zusammengestellten Warenkorb zu prüfen und zu ergänzen. |
+| **1. Anmeldung** | In diesem Schritt hat der Kunde die Möglichkeit, sich als Neukunde zu registrieren oder sich im Shop anzumelden (falls bereits registriert) oder auch als Gast zu bestellen (optional).|
+| **2. Adressauswahl** | In diesem Schritt kann der Kunde eine von der Rechnungsanschrift abweichende Lieferanschrift oder auch eine neue Rechnungsadresse angeben. Weiterhin ist hier die Auswahl eine Packstation möglich. |
+| **3. Zahlungsart** | Auswahl der Zahlungs- und Versandart |
+| **4. Prüfung** | In diesem Schritt hat der Kunde die Möglichkeit, alle von ihm eingegebenen Daten noch einmal zu prüfen und muss diese durch die Annahme der Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zu bestätigen. Nach dem Klick auf „Jetzt kaufen“ ist die Bestellung verbindlich und wird im System erstellt. Optional hat der Kunde in diesem Schritt auch die Möglichkeit, den Newsletter zu abonnieren.|
+| **Bestätigung** | Im Bestätigungsschritt bekommt der Kunde (je nach Shop-Design) weitere Informationen zu der Bestellung und hat die Möglichkeit, diese auszudrucken. |
 
