@@ -6,3 +6,7 @@ Mit Klick auf ***Neu*** verlassen Sie das angelegte *Variantenset* und gelangen 
 
 Füllen Sie zunächst die Pflichtfelder (durch * gekennzeichnet) aus:
 
+* Name der Variantenart: Tragen Sie hier den Namen 
+
+
+[Link to artikelmerkmale](./artikelmerkmale.md)
