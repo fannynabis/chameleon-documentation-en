@@ -85,4 +85,5 @@
    * [Gutscheinserien](gutscheinserien.md)
    * [Gutscheinsponsoren](gutscheinsponsoren.md)
    * [Rabatte](rabatte.md)
+* Suche
 
