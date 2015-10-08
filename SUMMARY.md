@@ -56,6 +56,7 @@
    * [Hersteller / Marke](hersteller__marke.md)
    * [Produktattribute](produktattribute.md)
    * [Artikelmerkmale](artikelmerkmale.md)
+       * Presenter mit verlinkbaren Hotspots (Modul)
    * [Artikelvarianten](artikelvarianten.md)
        * [Variantenset](variantenset.md)
            * [Variantenset anlegen](variantenset_anlegen.md)
