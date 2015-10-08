@@ -89,5 +89,5 @@
    * [Artikelsuchindex](artikelsuchindex.md)
    * [Suchwortwolke](suchwortwolke.md)
 * [Bildergalerien](bildergalerien.md)
-* Übersetzungen
+* [Übersetzungen](ubersetzungen.md)
 
