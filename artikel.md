@@ -44,6 +44,18 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |
 
 
+**Preis / Versand**
+
+| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| 0:2 | 1:2 | 2:2 |
+| 0:3 | 1:3 | 2:3 |
+| 0:4 | 1:4 | 2:4 |
+| 0:5 | 1:5 | 2:5 |
+| 0:6 | 1:6 | 2:6 |
+| 0:7 | 1:7 | 2:7 |
+
+
 
 
 
