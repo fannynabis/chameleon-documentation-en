@@ -88,4 +88,5 @@
 * [Suche](suche.md)
    * [Artikelsuchindex](artikelsuchindex.md)
    * [Suchwortwolke](suchwortwolke.md)
+* Bildergalerien
 
