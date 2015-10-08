@@ -87,4 +87,5 @@
    * [Rabatte](rabatte.md)
 * [Suche](suche.md)
    * [Artikelsuchindex](artikelsuchindex.md)
+   * Suchwortwolke
 
