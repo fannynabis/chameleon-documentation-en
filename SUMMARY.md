@@ -83,4 +83,5 @@
    * [Externe Webstatistik-Dienste](externe_webstatistik-dienste.md)
 * [Rabatte und Gutscheine](rabatte_und_gutscheine.md)
    * [Gutscheinserien](gutscheinserien.md)
+   * Gutscheinsponsoren
 
