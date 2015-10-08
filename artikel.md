@@ -11,6 +11,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 ### Basisdaten
 
 
+
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
 | **Name** | Benennung des Artikels. Der Name ist erforderlich, um den Artikel im CMS-Backend finden zu können. | ja |
@@ -129,6 +130,8 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 
 
 ### Stats
+
+![](bild air.png)
 
 Liefert eine statistische Kurzübersicht über den Artikel (Verkäufe, Detailaufrufe, durchschnittliche Bewertung, Anzahl der Bewertungen).
 
