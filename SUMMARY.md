@@ -105,5 +105,5 @@
        * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
    * [Freigabesystem / Workflow](freigabesystem__workflow.md)
        * [Grundlagen](grundlagen.md)
-       * Transaktionen
+       * [Transaktionen](transaktionen.md)
 
