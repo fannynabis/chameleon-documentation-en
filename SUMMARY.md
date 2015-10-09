@@ -92,4 +92,5 @@
 * [Übersetzungen](ubersetzungen.md)
    * [CMS Webübersetzungen](cms_webubersetzungen.md)
    * [CMS Übersetzungen](cms_ubersetzungen.md)
+   * Übersetzungen von Fehlermeldungen -> Portale / Webseiten
 
