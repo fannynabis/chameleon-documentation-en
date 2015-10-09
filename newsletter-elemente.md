@@ -40,15 +40,15 @@ Basisdaten.
 
 | Name | Beschreibung |
 | -- | -- |
-| Titel des Newsletters | Titel zur internen Identifizierung des Newsletters |
-| Betreff | Betreff des Newsletters (wird als E-Mail-Betreff verwendet) |
-| Inhalt Text | Inhalt für Plain-Text-E-Mails |
-| Portal | Zugehörigkeit des Newsletters zu einem Portal |
-| gewünschter Versand-Zeitpunkt | Zeitpunkt, an dem der Newsletter-Versand gestartet werden soll |
-| Newsletter-Templateseite | die gestaltete Newsletter-Vorlage wird hier zugewiesen |
-| Newsletter-Versand aktiv | JA markiert den Newsletter als versandfertig |
-| Benutzer-abhängige Newsletter generieren | Wenn ja, wird für jede E-Mailadresse an die der Newsletter gesendet wird, ein personalisierter Newsletter generiert. Dass bedeutet, der Newsletter wird für jede E-Mailadresse neu generiert, was massiv die Performance beeinflusst. Wenn nein, wird der Newsletter nur einmal generiert und einzelne Texte wie z. B. Name oder Anrede werden für jede E-Mailadresse ersetzt. |
-| Empfängerliste | alle Empfängerlisten für diesen Newsletter |
+| **Titel des Newsletters** | Titel zur internen Identifizierung des Newsletters |
+| **Betreff** | Betreff des Newsletters (wird als E-Mail-Betreff verwendet) |
+| **Inhalt Text** | Inhalt für Plain-Text-E-Mails |
+| **Portal** | Zugehörigkeit des Newsletters zu einem Portal |
+| **gewünschter Versand-Zeitpunkt** | Zeitpunkt, an dem der Newsletter-Versand gestartet werden soll |
+| **Newsletter-Templateseite** | die gestaltete Newsletter-Vorlage wird hier zugewiesen |
+| **Newsletter-Versand aktiv** | JA markiert den Newsletter als versandfertig |
+| **Benutzer-abhängige Newsletter generieren** | Wenn ja, wird für jede E-Mailadresse an die der Newsletter gesendet wird, ein personalisierter Newsletter generiert. Dass bedeutet, der Newsletter wird für jede E-Mailadresse neu generiert, was massiv die Performance beeinflusst. Wenn nein, wird der Newsletter nur einmal generiert und einzelne Texte wie z. B. Name oder Anrede werden für jede E-Mailadresse ersetzt. |
+| **Empfängerliste** | alle Empfängerlisten für diesen Newsletter |
 
 
 
