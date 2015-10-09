@@ -96,5 +96,4 @@
        * [Vorschau](vorschau.md)
 * [Zusätzliche Dokumentation](zusatzliche_dokumentation.md)
 * [Sortierung](sortierung.md)
-* [Andere Funktionen](andere_funktionen.md)
 
