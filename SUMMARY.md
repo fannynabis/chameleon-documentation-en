@@ -103,5 +103,5 @@
        * [Newsletter-Elemente](newsletter-elemente.md)
        * [Grundkonfiguration](grundkonfiguration.md)
        * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
-   * Freigabesystem / Workflow
+   * [Freigabesystem / Workflow](freigabesystem__workflow.md)
 
