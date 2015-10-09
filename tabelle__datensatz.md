@@ -31,3 +31,9 @@ Hier werden Felder, die in der aktuellen Sprache nicht übersetzt sind, aus der 
 Im oberen Bereich des Datensatzes steht ein Eingabefeld zur Verfügung über welches andere Datensätze aus der Datensatzliste geladen werden können. Angezeigt und durchsucht wird immer das Namensfeld der Datensätze.
 
 ![](bild11.png)
+
+### Datensatz Details
+
+Im oberen linken Bereich wird die ID des aktiven Datensatzes angezeigt. Dabei werden sowohl eine ID wie auch eine GUID (global unique identifier) aufgeführt. Bei der GUID handelt es sich entweder um die gleiche Nummer wie ID, oder um ein 36 Zeichen langen Identifier (je nachdem ob Komplexe ID Felder in den CMS-Einstellungen aktiviert wurden).
+Darauf folgt eine Liste aller Felder des Datensatzes. Neben manchen Feldern taucht Links neben dem Eingabefeld zusätzlich ein kleines Fragezeichen ![](bild12.png) auf - hinter diesem Symbol verbirgt sich ein Hilfe/Erklärungstext für das Feld. Der Text wird durch einen Klick auf das Symbol eingeblendet.
+Wichtig: Bei manchen Feldern wird bei Editieren die Seite gewechselt. Da das System Änderungen nicht automatisch speichert, sollte der Benutze diese vorher durch ein Klick auf den Speichern-Button sichern.
