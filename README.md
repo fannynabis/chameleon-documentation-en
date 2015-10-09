@@ -4,7 +4,7 @@ Anwenderdokumentation Chameleon Shop Version 6.0
 
 # Vorbemerkungen
 
-[0.1 Frontend und Backend](./2_frontend_und_backend.md)
+[0.1 Frontend und Backend](.2_frontend_und_backend.md)
 
 [0.2 Testsystem und Live-System](./3_testsystem_und_live-system.md)
 
