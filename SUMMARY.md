@@ -94,6 +94,7 @@
        * [Status-Arten](status-arten.md)
        * [Transaktionen weitergeben / übernehmen](transaktionen_weitergeben__ubernehmen.md)
        * [Vorschau](vorschau.md)
+* [Zusätzliche Dokumentation](zusatzliche_dokumentation.md)
 * [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
 * [Datensätze löschen](datensatze_loschen.md)
@@ -103,5 +104,4 @@
 * [Andere Funktionen](andere_funktionen.md)
 * [Datensatz wechseln](datensatz_wechseln.md)
 * [Datensatz Details](datensatz_details.md)
-* [Zusätzliche Dokumentation](zusatzliche_dokumentation.md)
 
