@@ -99,5 +99,5 @@
    * [Systemnachrichten / Fehlercodes-Typen](systemnachrichten__fehlercodes-typen.md)
 * [Zusätzliche Module](zusatzliche_module.md)
    * [Kontaktformular](kontaktformular.md)
-   * Newsletter
+   * [Newsletter](newsletter.md)
 
