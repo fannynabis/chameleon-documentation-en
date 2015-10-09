@@ -102,5 +102,5 @@
    * [Newsletter](newsletter.md)
        * [Newsletter-Elemente](newsletter-elemente.md)
        * [Grundkonfiguration](grundkonfiguration.md)
-       * Newsletter erstellen und versenden
+       * [Newsletter erstellen und versenden](newsletter_erstellen_und_versenden.md)
 
