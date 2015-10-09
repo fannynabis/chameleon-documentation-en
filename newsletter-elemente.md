@@ -36,7 +36,7 @@ Dies ist die zentrale Stelle, an welcher alle beteiligten Komponenten für den V
 Basisdaten.
 
 
-**<u>Basisdaten</u>**
+**<u>Basisdaten:</u>**
 
 | Name | Beschreibung |
 | -- | -- |
@@ -49,6 +49,16 @@ Basisdaten.
 | **Newsletter-Versand aktiv** | JA markiert den Newsletter als versandfertig |
 | **Benutzer-abhängige Newsletter generieren** | Wenn ja, wird für jede E-Mailadresse an die der Newsletter gesendet wird, ein personalisierter Newsletter generiert. Dass bedeutet, der Newsletter wird für jede E-Mailadresse neu generiert, was massiv die Performance beeinflusst. Wenn nein, wird der Newsletter nur einmal generiert und einzelne Texte wie z. B. Name oder Anrede werden für jede E-Mailadresse ersetzt. |
 | **Empfängerliste** | alle Empfängerlisten für diesen Newsletter |
+
+**<u>Kampagnenstatus:</u>**
+
+| Name | Beschreibung |
+| -- | -- |
+| Warteschlangen-Einträge | In den Warteschlangen-Einträgen landet jede einzelne E-Mail, die bereits versendet wurde oder bereits zum Absenden bereit ist und nur noch auf den auszuführenden Cronjob wartet. Sie listet also jede tatsächlich zu versendende E-Mail auf, die einem bestimmten Abonnenten zugewiesen wurde. Anhand der Spalte ‘Versendet’ kann man ablesen, ob und wann der Newsletter versendet wurde. |
+| Sendestatus | Hier wird der Sendestatus der Kampagne angezeigt |
+| Versandbeginn | Startzeitpunkt des Newsletter-Versands |
+| Versandende | Endzeitpunkt des Newsletter-Versands |
+
 
 
 
