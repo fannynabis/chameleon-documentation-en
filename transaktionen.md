@@ -26,3 +26,11 @@ Diesen sollten Sie auf einen aussagekräftigen **Titel ändern**, um anderen Red
 ![](bild68.png)
 
 ![](bild69.png)
+
+| Name | Beschreibung |
+| -- | -- |
+| **Speichern** | Titel ändern |
+| **Rückgängig machen** | Es wird ein Rollback durchgeführt. Das bedeutet, dass alle Änderungen/Aktionen dieser Transaktion verworfen werden und die Transaktion danach gelöscht wird. |
+| **Veröfffentlichen** | entfernt die Markierungen von neuen Datensätzen, löscht als solche markierte Datensätze und kopiert editierte Datensätze in die Live-Datenbanktabellen. |
+| **Aktivieren / Vorschau** | um Änderungen einer Transaktion im Vorschaumodus auf der Website sehen zu können, kann diese hier aktiviert werden. Dabei wird der aktuelle Besitzer per E-Mail darüber informiert, dass die Transaktion von einer dritten Person übernommen wurde. |
+| **Weiterreichen** | ermöglicht das Übertragen von Zuständigkeiten/einer Aufgabe an einen weiteren Redakteur, z.B. zur Korrektur oder auch als Freigabe-Anfrage. |
