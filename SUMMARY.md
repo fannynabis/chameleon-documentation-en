@@ -95,7 +95,6 @@
        * [Transaktionen weitergeben / übernehmen](transaktionen_weitergeben__ubernehmen.md)
        * [Vorschau](vorschau.md)
 * [Zusätzliche Dokumentation](zusatzliche_dokumentation.md)
-* [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
 * [Datensätze löschen](datensatze_loschen.md)
 * [Neuen Eintrag anlegen](neuen_eintrag_anlegen.md)
