@@ -22,3 +22,9 @@ Hier werden die Abonnenten, die sich über das Anmeldeformular angemeldet haben,
 | **Anmeldung wurde bestätigt** | wird auf JA gesetzt, wenn der Kunde die Anmeldung bestätigt hat |
 | **Datum der Anmeldebestätigung** | Zeitpunkt, wann die Anmeldung bestätigt wurde |
 | **Abmelde-Code** | interner Code zur Realisierung des Double-Opt-Out-Verfahrens |
+
+
+### Newsletter-Empfängerlisten / Konfiguration
+
+Eine Empfängerliste definiert sozusagen die Grundeinstellungen eines Versandes. Hier wird u.a. festgelegt, welche E-Mail-Adresse und welcher Name als Absender des Newsletters angegeben werden und an welche E-Mail-Adresse Antworten des Abonnenten gelangen.
+Es sind unterschiedliche Empfängerlisten möglich. Durch die Anmeldeseite wird dem Newsletter-Benutzer eine bestimmte Empfängerliste zugeteilt oder der Benutzer darf selbst auswählen, welche(n) Newsletter er erhalten will.
