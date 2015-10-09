@@ -94,4 +94,5 @@
    * [CMS Übersetzungen](cms_ubersetzungen.md)
    * [Übersetzungen von Fehlermeldungen -> Portale / Webseiten](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
 * [CMS Admin](cms_admin.md)
+   * E-Mail-Vorlagen
 
