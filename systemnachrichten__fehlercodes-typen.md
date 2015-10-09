@@ -1,0 +1,2 @@
+# Systemnachrichten / Fehlercodes-Typen
+
