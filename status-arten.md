@@ -4,7 +4,7 @@ In Datensatz Auflistungen und im Datensatz-Editier-Dialog wird der aktuelle Stat
 
 | Status | Beschreibung |
 | -- | -- |
-| Live | 1:2 |
-| Neu angelegt | 1:3 |
-| Editiert | 1:4 |
-| Gelöscht | 1:5 |
+| ![](bild70.png) Live | Der Datensatz ist derzeit im Live-System aktiv und somit auf der Website zu sehen, soweit weitere Abfragen, wie z.B. ein Aktivierungsstatus, Datum etc. dies nicht verhindern |
+| Neu angelegt | Der Datensatz wurde neu angelegt und ist derzeit nicht im Live-System sichtbar. |
+| Editiert | Der Datensatz wurde verändert. Dies kann eine textliche Änderung am Datensatz selbst, ein ausgetauschtes Bild oder aber auch Änderungen an einer Eigenschaft oder einer Dateiverknüpfung (z.B. PDF-Download) sein, die mit diesem Datensatz zusammenhängt |
+| Gelöscht | Der Datensatz wurde im CMS gelöscht, ist aber bis zur Freigabe der Transaktion noch im Live System sichtbar |
