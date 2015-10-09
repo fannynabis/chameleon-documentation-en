@@ -101,5 +101,5 @@
    * [Kontaktformular](kontaktformular.md)
    * [Newsletter](newsletter.md)
        * [Newsletter-Elemente](newsletter-elemente.md)
-       * Grundkonfiguration
+       * [Grundkonfiguration](grundkonfiguration.md)
 
