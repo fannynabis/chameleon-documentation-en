@@ -26,4 +26,4 @@ Alle E-Mail-Vorlagen werden in zwei Formaten *Html* und *Text* gepflegt. Im Shop
 | **Text-Vorlage** | Entspricht der „Vorlage“, formatiert als reiner Text |
 
 
-<u>Hinweis für Entwickler</u>: Um während der Entwicklung der E-Mail-Vorlagen alle in der E-Mail möglichen Platzhalter erhalten zu können, muss der spezielle Platzhalter <span style="color:#008B00">[{__FIELDS}]</span> hinzugefügt werden. Alle E-Mails laufen im Testsystem automatisch *an den Entwickler*.
+<u>Hinweis für Entwickler</u>: Um während der Entwicklung der E-Mail-Vorlagen alle in der E-Mail möglichen Platzhalter erhalten zu können, muss der spezielle Platzhalter <span style="color:#9ACD32">[{__FIELDS}]</span> hinzugefügt werden. Alle E-Mails laufen im Testsystem automatisch *an den Entwickler*.
