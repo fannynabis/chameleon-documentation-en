@@ -18,7 +18,6 @@
 * [Neuen Eintrag anlegen](neuen_eintrag_anlegen.md)
 * [Datensatz editieren](datensatz_editieren.md)
 * [Andere Funktionen](andere_funktionen.md)
-   * [Tabelle / Datensatz](tabelle__datensatz.md)
 * [Speichern](speichern.md)
 * [Kopieren](kopieren.md)
 * [Neu](neu.md)
