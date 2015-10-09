@@ -21,3 +21,7 @@ Legt einen neuen, leeren Datensatz an.
 ### Löschen
 
 Löscht den aktiven Datensatz. Nach dem Löschen landet der Benutzer wieder auf der Listenansicht der Tabelle.
+
+### Sprache kopieren
+
+Hier werden Felder, die in der aktuellen Sprache nicht übersetzt sind, aus der anderen Sprache kopiert.
