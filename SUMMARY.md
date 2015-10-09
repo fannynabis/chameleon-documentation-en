@@ -96,5 +96,5 @@
 * [CMS Admin](cms_admin.md)
    * [E-Mail-Vorlagen](e-mail-vorlagen.md)
    * [Interface / Interface Manager](interface__interface_manager.md)
-   * Systemnachrichten / Fehlercodes-Typen
+   * [Systemnachrichten / Fehlercodes-Typen](systemnachrichten__fehlercodes-typen.md)
 
