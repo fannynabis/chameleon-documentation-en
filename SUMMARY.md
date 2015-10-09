@@ -106,5 +106,5 @@
    * [Freigabesystem / Workflow](freigabesystem__workflow.md)
        * [Grundlagen](grundlagen.md)
        * [Transaktionen](transaktionen.md)
-       * Status-Arten
+       * [Status-Arten](status-arten.md)
 
