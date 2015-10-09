@@ -11,6 +11,7 @@
    * [Menüführung](menufuhrung.md)
    * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
    * [Tabelle / Datensatz](tabelle__datensatz.md)
+* [Navigationsverwaltung](navigationsverwaltung.md)
 * [Sortierung](sortierung.md)
 * [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
