@@ -20,6 +20,5 @@ Hier werden die Abonnenten, die sich über das Anmeldeformular angemeldet haben,
 | **Anmeldedatum** | Zeitpunkt, zu dem die Newsletter-Anmeldung erfolgte |
 | **Anmelde Code** | interner Code zur Realisierung des Double-Opt-In-Verfahrens |
 | **Anmeldung wurde bestätigt** | wird auf JA gesetzt, wenn der Kunde die Anmeldung bestätigt hat |
-| **Datum der Anmeldebestätigung** | Zeitpunkt, wann die Anmeldung bestätigt wurde
- |
+| **Datum der Anmeldebestätigung** | Zeitpunkt, wann die Anmeldung bestätigt wurde |
 | **Abmelde-Code** | interner Code zur Realisierung des Double-Opt-Out-Verfahrens |
