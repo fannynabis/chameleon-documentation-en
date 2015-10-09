@@ -9,7 +9,7 @@
    * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
    * [Portale / Webseiten](portale__webseiten.md)
    * [Menüführung](menufuhrung.md)
-   * Listenansicht von Datensätzen
+   * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
 * [Sortierung](sortierung.md)
 * [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
