@@ -95,5 +95,5 @@
    * [Übersetzungen von Fehlermeldungen -> Portale / Webseiten](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
 * [CMS Admin](cms_admin.md)
    * [E-Mail-Vorlagen](e-mail-vorlagen.md)
-   * Interface / Interface Manager
+   * [Interface / Interface Manager](interface__interface_manager.md)
 
