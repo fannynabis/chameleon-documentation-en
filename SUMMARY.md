@@ -18,7 +18,6 @@
 * [Neuen Eintrag anlegen](neuen_eintrag_anlegen.md)
 * [Datensatz editieren](datensatz_editieren.md)
 * [Andere Funktionen](andere_funktionen.md)
-* [Löschen](loschen.md)
 * [Sprache kopieren](sprache_kopieren.md)
 * [Datensatz wechseln](datensatz_wechseln.md)
 * [Datensatz Details](datensatz_details.md)
