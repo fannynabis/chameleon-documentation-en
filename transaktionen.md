@@ -21,4 +21,8 @@ Diesen sollten Sie auf einen aussagekräftigen **Titel ändern**, um anderen Red
 | **CMS Redakteur** | aktueller „Besitzer“ der Transaktion |
 | **Archiviert** | gibt an, ob die Transaktion bereits veröffentlicht wurde und das Log nur noch zu Archivierungszwecken vorgehalten wird |
 
+<u>Mögliche Funktionen bei Transaktionen (je nach Rechten des Redakteurs unterschiedlich):</u>
 
+![](bild68.png)
+
+![](bild69.png)
