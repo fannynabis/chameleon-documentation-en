@@ -107,4 +107,5 @@
        * [Grundlagen](grundlagen.md)
        * [Transaktionen](transaktionen.md)
        * [Status-Arten](status-arten.md)
+       * Transaktionen weitergeben / übernehmen
 
