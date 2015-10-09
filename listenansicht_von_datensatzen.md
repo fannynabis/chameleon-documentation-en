@@ -14,3 +14,8 @@ Klickt man auf ein Spaltennamen nach dem bereits aufsteigend Sortiert wird, änd
 Über das Suchfeld kann nach einem oder mehreren Begriffen in der Liste gesucht werden. Wichtig: dabei werden nur die Felder durchsucht, die angezeigt werden.
 Eine Ausnahme davon ist das ID-Feld. Danach kann auch dann gesucht werden, wenn das Feld nicht als eigene Spalte geführt wird.
 
+### Gruppierung
+
+Bei manchen Listen wird links neben dem Suchfeld noch ein Gruppierungsfeld angezeigt. Wählt man eine Gruppe aus, werden nur noch Einträge angezeigt die der gewählten Gruppe zugewiesen wurden.
+In diesen gruppierten Listen werden alle Einträge unter der jeweils zugewiesen Gruppe aufgeführt. Dabei kann es durchaus vorkommen, dass ein Eintrag mehr als einer Gruppe zugewiesen wurde und daher mehr als einmal auftaucht.
+
