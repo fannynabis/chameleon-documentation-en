@@ -44,27 +44,34 @@ Folgende Felder stehen bei der Erstellung einer neuen Gutscheinserie zur Verfüg
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-|  | 1:2 |
-| 0:3 | 1:3 |
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
-| 0:6 | 1:6 |
-| 0:7 | 1:7 |
-| 0:8 | 1:8 |
-| 0:9 | 1:9 |
-| 0:10 | 1:10 |
-| 0:11 | 1:11 |
-| 0:12 | 1:12 |
-| 0:13 | 1:13 |
-| 0:14 | 1:14 |
-| 0:15 | 1:15 |
-| 0:16 | 1:16 |
-| 0:17 | 1:17 |
-| 0:18 | 1:18 |
-| 0:19 | 1:19 |
-| 0:20 | 1:20 |
-| 0:21 | 1:21 |
-| 0:22 | 1:22 |
-| 0:23 | 1:23 |
+| Name | Bezeichnung der Gutscheinserie |
+| Gutscheinsponsor | Auswahl des Sponsoren, der zuvor unter „Gutscheinsponsoren“ angelegt wurde |
+| Wert | Der Wert jedes einzelnen Gutscheins dieser Serie. Der Wert kann absolut oder prozentual (zum Gesamtwarenkorb) angegeben werden (wird über das Feld „Wertart“ definiert). |
+| Wertart | definiert, ob es sich bei dem Feldwert um einen Absolutwert oder um eine Prozentangabe handelt. Prozentangaben beziehen sich immer auf den Gesamtwert des Warenkorbs.
+ |
+| Umsatzsteuergruppe | Wird für die Serie keine Umsatzsteuergruppe gewählt, dann gilt immer die in den Shopeinstellungen hinterlegte Standardgruppe. |
+| Gratisartikel* | Ein hier hinterlegter Artikel wird bei Verwendung des Gutscheins gratis in den Warenkorb gelegt. |
+| Gratisversand | Wird ein Gutschein mit dieser Markierung verwendet, betragen die Versandkosten 0,- €. |
+| Aktiv | Aktiviert / deaktiviert die Serie und alle dazu gehörenden Gutscheine. |
+| Aktiv ab | Legt ein Datum fest, ab welchem die Gutscheine der Serie verwendet werden können.
+ |
+| Aktiv bis | Legt ein Datum fest, bis zu welchem die Gutscheine der Serie verwendet werden können. |
+| Mindestbestellwert | Gutscheine dieser Serie dürfen erst ab diesem Bestellwert verwendet werden. |
+| Nur mit anderen Serien zulassen | Gutscheine dieser Serie dürfen nur mit Gutscheinen anderer Serien verwendet werden. |
+| Nicht in Kombination mit anderen Gutscheinen zulassen | Gutscheine dieser Serie dürfen nicht in Kombination mit anderen Gutscheinen verwendet werden (egal von welcher Serie). |
+| Nur einen Gutschein pro Kunde zulassen | Ein Kunde darf nur einen Gutschein dieser Serie verwenden (kann nur bei registrierten Kunden geprüft werden). |
+| Nur bei der ersten Bestellung eines Kunden zulassen | Kann nur nach Registrierung des Kunden geprüft werden. |
+| Auf folgende Kunden einschränken | Filter |
+| Auf folgende Kundengruppen einschränken | Filter |
+| Auf Produkte dieser Hersteller einschränken | Filter |
+| Auf Produkte aus diesen Artikelgruppen einschränken| Filter |
+| Auf Produkte aus diesen Kategorien einschränken | Filter |
+| Auf diese Produkte einschränken | Filter |
+| Gutscheine der Serie | Eine Übersicht aller zur Serie gehörenden Gutscheine |
+
+*nur verfügbar, wenn das Modul <i>Gratisartikel<em> freigeschaltet ist
 
 
+Weitere Gutscheine zur Serie können über den Button "Gutscheine erstellen" generiert werden. Bei der Generierung muss die Anzahl der Gutscheine, die generiert werden sollen, sowie der Gutschein-Code angegeben werden (falls nicht für alle Gutscheine, die generiert werden sollen, der gleiche Code gelten soll, bitte nichts angeben). Wurde kein Gutschein-Code angegeben, wird für jeden Gutschein ein eineindeutiger Code generiert.
+
+<sup>2</sup>: Grund: Das System sucht den Gutschein mit dem im Warenkorb eingegebenen Code und nimmt den ersten entsprechenden Gutschein, den es findet. Würde der gleiche Code in mehr als einer Serie vorkommen, wäre nicht gewährleistet, dass die richtige Serie ausgewählt wird. Das System verhindert bereits das Anlegen des gleichen Codes in mehr als einer Serie.
