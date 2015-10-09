@@ -22,3 +22,7 @@ In diesen gruppierten Listen werden alle Einträge unter der jeweils zugewiesen 
 ### Datensätze löschen
 
 Benutzer mit entsprechenden Rechten können Datensätze aus der Listenansicht löschen. Einzelne Datensätze werden über das rote X rechts gelöscht. Mehrere Datensätze können auf einmal gelöscht werden, indem die Checkbox vor jedem Datensatz markiert und dann der Button "Markierte löschen" betätigt wird.
+
+### Neuen Eintrag anlegen
+
+Benutzer mit entsprechenden Rechten können aus der Listeansicht über den Button ***Neuen Eintrag anlegen*** einen neuen Datensatz in der Tabelle erstellen.
