@@ -10,8 +10,6 @@
    * [Portale / Webseiten](portale__webseiten.md)
    * [Menüführung](menufuhrung.md)
 * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
-* [Speichern / Seitenbaum editieren](speichern__seitenbaum_editieren.md)
-   * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
 * [Sortierung](sortierung.md)
 * [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
