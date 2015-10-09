@@ -8,10 +8,10 @@ Bei unbekannten Meldungen wird der Identifizierungs-Code *<span style="color:#9A
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-| Gehört zu Portal | 1:2 |
-| Code | 1:3 |
-| Meldungsart | 1:4 |
-| Beschreibung der Meldung | 1:5 |
-| Meldung | 1:6 |
-| Art | 1:7 |
-| View | 1:8 |
+| **Gehört zu Portal** | eindeutige Zugehörigkeit zum Portal |
+| **Code** | dieser Code wird vom System verwendet, um die Meldung zu identifizieren (sollte nicht geändert werden) |
+| **Meldungsart** | typisiert die Meldung (wird für die Darstellung verwendet) |
+| **Beschreibung der Meldung** | Erklärung, wann die Meldung generiert wird und genaue Beschreibung, welche Parameter in der Meldung verwendet werden können |
+| **Meldung** | der Meldungstext mit allen verwendeten Parametern (wird dem Besucher angezeigt) |
+| **Art** | gibt an, zu welchem Quellcode-Bereich der Applikation die Meldung gehört bzw. aus welchem Quellcode-Bereich die zur Darstellung verwendete Ansicht (View) verwendet werden soll. Beim Quellcode-Bereich “Core” stammt die Meldung aus dem CHAMELEON-Standardcode, beim Bereich “Customer” aus einer kundenspezifischen Entwicklung.  |
+| **View** | Die Ansicht der Meldung (wird für die Darstellung verwendet) |
