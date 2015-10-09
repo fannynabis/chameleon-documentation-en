@@ -10,7 +10,7 @@
    * [Portale / Webseiten](portale__webseiten.md)
    * [Menüführung](menufuhrung.md)
    * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
-   * Tabelle / Datensatz
+   * [Tabelle / Datensatz](tabelle__datensatz.md)
 * [Sortierung](sortierung.md)
 * [Suchen](suchen.md)
 * [Gruppierung](gruppierung.md)
