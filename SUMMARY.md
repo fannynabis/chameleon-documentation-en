@@ -102,6 +102,5 @@
 * [Datensatz editieren](datensatz_editieren.md)
 * [Sortierung](sortierung.md)
 * [Andere Funktionen](andere_funktionen.md)
-* [Datensatz wechseln](datensatz_wechseln.md)
 * [Datensatz Details](datensatz_details.md)
 
