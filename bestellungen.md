@@ -1,6 +1,8 @@
 # Bestellungen
 
-[5.1.1 Bestellprozess-Einstellungen](bestellprozess-einstellungen.md)
+#### Inhalt
+
+[<span style="color:#B7C66E">5.1.1 Bestellprozess-Einstellungen</span>](bestellprozess-einstellungen.md)
 
 Bestellungen → Bestellungen
 
