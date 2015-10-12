@@ -73,7 +73,7 @@ Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterleg
 
 Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3.4 Maßeinheiten**).
 
-###Varianten
+#### Varianten
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **Artikelvarianten**.
 
