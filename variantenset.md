@@ -10,9 +10,10 @@
 [<span style="color:#99B122">4.7.1.1.3 Variantenwerte anlegen</span>](variantenwerte_anlegen.md)
 
 Ein **Variantenset** ist eine Kombination aus einem oder mehreren **Variantenarten** eines Produktes. Jede Variantenart verfügt wiederum über entsprechende **Variantenwerte**.
+
 Das Variantenset unseres Beispiels sieht folgendermaßen aus:
 
-Variantenset: *Größe* und *Farbe*
+**Variantenset**: *Größe* und *Farbe*
     
 Variantenarten:
 * Größe
