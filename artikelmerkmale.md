@@ -1,5 +1,13 @@
 # Artikelmerkmale
 
+#### Inhalt
+
+[3.7.1 Artikelvarianten](artikelvarianten.md)
+
+[3.7.2 Produktlisten](produktlisten.md)
+
+[3.7.3 Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
+
 ![](bild29.png)
 
 Artikel → Shop-Artikelmerkmale
@@ -8,10 +16,3 @@ Für jedes Merkmal kann Name, Beschreibung sowie Icon hinterlegt werden. Hierbei
 
 Die Artikelmerkmale können im Artikel im Tab Kategorie/Merkmale mit dem Artikel verknüpft werden und werden im Shop auf der Artikeldetailseite angezeigt.
 
-
-
-[3.7.1 Artikelvarianten](artikelvarianten.md)
-
-[3.7.2 Produktlisten](produktlisten.md)
-
-[3.7.3 Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
