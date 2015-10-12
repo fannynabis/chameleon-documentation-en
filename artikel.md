@@ -65,10 +65,12 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **keine Rabatte zulassen** | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
 
 
-###Inhalt / Maße / Gewicht
+#### Inhalt / Maße / Gewicht
 
 Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimensionen des Artikels angegeben werden.
+
 Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterlegen Sie die Angaben in den Feldern **Inhalt** (Mengenangabe) und **Maßeinheit des Inhalts** (kg, g, l, ml, usw.).
+
 Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **Maßeinheiten**).
 
 ###Varianten
