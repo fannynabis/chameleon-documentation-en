@@ -30,6 +30,7 @@ Um Ihren Kunden einen Newsletter anbieten zu können, muss es für diese möglic
 ![](bild60.png)
 
 Über ***Seite editieren*** können Sie den Anmeldevorgang im Steckplatz „Newsletter Signup“ in seinen einzelnen Schritten beschriften.
+
 Wichtig ist, dass Sie auf der Anmeldeseite beim Feld *Anmeldung möglich für* angeben, für welchen Newsletter die Anmeldung möglich ist (also die Empfängerliste auswählen, auf die die Abonnenten nach ihrer Anmeldung geschrieben werden sollen).
 
 Außerdem sollte das Feld ***DoubleOptIn-Verfahren benutzen*** unbedingt auf *JA* eingestellt sein, da dies von der derzeitigen Rechtslage vorgeschrieben ist. Dieses Verfahren sorgt dafür, dass der Benutzer nach Ausfüllen des Anmeldeformulars zunächst eine E-Mail zugesandt bekommt, in der ihm ein Link zur endgültigen Anmeldung zur Verfügung steht. Es verhindert beispielsweise, dass jemand fremde E-Mail-Adressen auf den Newsletter-Verteiler setzt. Die Option Double-Opt-In auszuschalten ist somit nur für den internen Gebrauch bestimmt.
@@ -40,7 +41,7 @@ Außerdem sollte das Feld ***DoubleOptIn-Verfahren benutzen*** unbedingt auf *JA
 
 ![](bild62.png)
 
-### Abmeldung
+#### Abmeldung
 
 Die Abmeldeseite „Newsletter Abmelden“ ist ebenfalls bereits als Systemseite eingerichtet. Die Texte können Sie selbst nach Ihren Wünschen eingeben.
 
