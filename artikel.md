@@ -71,7 +71,7 @@ Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimen
 
 Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterlegen Sie die Angaben in den Feldern **Inhalt** (Mengenangabe) und **Maßeinheit des Inhalts** (kg, g, l, ml, usw.).
 
-Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **Maßeinheiten**).
+Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3.4 Maßeinheiten**).
 
 ###Varianten
 
