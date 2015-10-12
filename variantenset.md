@@ -3,11 +3,11 @@
 ### Inhalt
 
 
-[<span style="color:#99B122">3.7.1.1.1 Variantenset anlegen</span>](variantenset_anlegen.md)
+[<span style="color:#99B122">4.7.1.1.1 Variantenset anlegen</span>](variantenset_anlegen.md)
 
-[<span style="color:#99B122">3.7.1.1.2 Variantenarten anlegen</span>](variantenarten_anlegen.md)
+[<span style="color:#99B122">4.7.1.1.2 Variantenarten anlegen</span>](variantenarten_anlegen.md)
 
-[<span style="color:#99B122">3.7.1.1.3 Variantenwerte anlegen</span>](variantenwerte_anlegen.md)
+[<span style="color:#99B122">4.7.1.1.3 Variantenwerte anlegen</span>](variantenwerte_anlegen.md)
 
 Ein **Variantenset** ist eine Kombination aus einem oder mehreren **Variantenarten** eines Produktes. Jede Variantenart verfügt wiederum über entsprechende **Variantenwerte**.
 Das Variantenset unseres Beispiels sieht folgendermaßen aus:
