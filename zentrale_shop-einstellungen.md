@@ -14,4 +14,6 @@
 
 [2.7 Währungen](wahrungen.md)
 
+[2.8 Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
+
 
