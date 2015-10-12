@@ -1,5 +1,11 @@
 # Suche
 
+#### Inhalt
+
+[<span style="color:#B7C66E">8.1 Artikelsuchindex</span>](artikelsuchindex.md)
+
+[<span style="color:#B7C66E">8.2 Suchwortwolke</span>](suchwortwolke.md)
+
 Der Shop verfügt über zwei unterschiedliche Suchen. In der einfachen Suche gibt der Kunde einen Suchbegriff ein, zu dem das System versucht, möglichst gute Treffer anhand der Eingabe zu produzieren. In der erweiterten Suche kann der Kunde nach bestimmten Werten in vordefinierten Feldern (z.B. Titel, Kategorie usw.) suchen.
 
 Die Suche nutzt ein gewichtetes Teilindex-System, welches auch bei hoher Belastung  schnelle und zuverlässige Suchtreffer ermöglicht. Das System ermöglicht eine Gewichtung einzelner Felder, einer Gewichtung von Ganzwörtern im Vergleich zu Teilwörtern sowie einer Klangsuche (so werden auch ähnlich klingende Worte gefunden). Über eine Rechtschreibkorrektur werden außerdem die meisten Rechtschreibfehler berichtigt und Korrekturvorschläge angezeigt.
@@ -17,8 +23,4 @@ Diese Sucheinstellungen werden in Shop-Einstellungen → Shops im Tab Sucheinste
 
 Es besteht die Möglichkeit, Chameleon an externe Suchen anzubinden, wie z.B. die extrem performante Volltextsuche *Elasticsearch* (besonders geeignet für große Artikelbestände ab 10.000 Stk. aufwärts) oder der ausgelagerten Such- und Navigationsmaschine *FACT-Finder®*.
 
-#### <span style="color:#B7C66E">Inhalt</span>
 
-[8.1 Artikelsuchindex](artikelsuchindex.md)
-
-[8.2 Suchwortwolke](suchwortwolke.md)
