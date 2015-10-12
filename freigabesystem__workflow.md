@@ -1,16 +1,18 @@
 # Freigabesystem / Workflow
 
-[12.3.1 Grundlagen](grundlagen.md)
+#### Inhalt
 
-[12.3.2 Transaktionen](transaktionen.md)
+[<span style="color:#B7C66E">12.3.1 Grundlagen</span>](grundlagen.md)
 
-[12.3.3 Status-Arten](status-arten.md)
+[<span style="color:#B7C66E">12.3.2 Transaktionen</span>](transaktionen.md)
 
-[12.3.4 Transaktionen weitergeben / übernehmen](transaktionen_weitergeben__ubernehmen.md)
+[<span style="color:#B7C66E">12.3.3 Status-Arten</span>](status-arten.md)
 
-[12.3.5 Status-Arten](status_arten.md)
+[<span style="color:#B7C66E">12.3.4 Transaktionen weitergeben / übernehmen</span>](transaktionen_weitergeben__ubernehmen.md)
 
-[12.3.6 Transaktionen weitergeben / übernehmen](transaktionen_weitergeben__ubernehmen.md)
+[<span style="color:#B7C66E">12.3.5 Status-Arten</span>](status_arten.md)
 
-[12.3.7 Vorschau](vorschau.md)
+[<span style="color:#B7C66E">12.3.6 Transaktionen weitergeben / übernehmen</span>](transaktionen_weitergeben__ubernehmen.md)
+
+[<span style="color:#B7C66E">12.3.7 Vorschau</span>](vorschau.md)
 
