@@ -1,8 +1,8 @@
 # Bestellinformation
 
-#### <span style="color:#B7C66E">Inhalt</span>
+#### Inhalt
 
-[5.1 Bestellungen](bestellungen.md)
+[<span style="color:#B7C66E">5.1 Bestellungen</span>](bestellungen.md)
 
-[5.2 Bestellprozess-Einstellungen](bestellprozess_einstellungen.md)
+[<span style="color:#B7C66E">5.2 Bestellprozess-Einstellungen</span>](bestellprozess_einstellungen.md)
 
