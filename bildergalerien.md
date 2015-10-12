@@ -1,6 +1,6 @@
 # Bildergalerien
 
-Website → Bildergalerien
+*Website → Bildergalerien*
 
 Durch die Bildergalerien hat man die Möglichkeit, im Frontend Bildsammlungen zu präsentieren. Es können beliebig viele Bildergalerien angelegt werden, die jeweils beliebig viele Bilder enthalten können.
 
@@ -13,7 +13,7 @@ Durch die Bildergalerien hat man die Möglichkeit, im Frontend Bildsammlungen zu
 | **Maximale Höhe** | maximale Höhe der Bildergalerie (Darstellung) |
 | **Vorschaubild** | Vorschaubild der Bildergalerie |
 | **Beschreibung** | kurze Beschreibung der Bildergalerie |
-| **Bilder aus Mediendatenbank-Verzeichnis übernehmen** | Bilder, die zuvor zu Medien hinzugefügt wurden, können hier direkt in die Bildergalerie übernommen werden |
+| **Bilder aus Mediendatenbank-Verzeichnis übernehmen** | Bilder, die zuvor zu *Medien* hinzugefügt wurden, können hier direkt in die Bildergalerie übernommen werden |
 | **Bilder** | Ein Bild hochladen und eine Liste aller Bilder der Galerie |
 
 Die Bildergalerien können über einen im Frontend anzulegenden View angezeigt werden.
