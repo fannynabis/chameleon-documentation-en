@@ -84,7 +84,7 @@ Anwenderdokumentation Chameleon Shop Version 6.0
 
 [<span style="color:#B7C66E">4.8.1 Variantenset</span>](variantenset.md)
 
-[<span style="color:#99B122">4.8.1.1 Variantenset anlegen</span>](variantenset_anlegen.md)
+<p style="text-indent: 1em;">[<span style="color:#99B122">4.8.1.1 Variantenset anlegen</span>](variantenset_anlegen.md)
 
 [<span style="color:#99B122">4.8.1.2 Variantenarten anlegen</span>](variantenarten_anlegen.md)
 
