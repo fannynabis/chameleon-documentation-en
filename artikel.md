@@ -93,7 +93,7 @@ Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Ar
 
 
 
-### SEO / Meta
+#### SEO / Meta
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -104,7 +104,7 @@ Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Ar
 Unter „Metadaten“ können die Metadaten speziell für dieses Produkt überschrieben werden.
 
 
-### Suche
+#### Suche
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -114,7 +114,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
 
 
-### Bewertungen
+#### Bewertungen
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -122,7 +122,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |
 
 
-### Bundle
+#### Bundle
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -130,7 +130,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Artikel, die zu diesem Bundle gehören** | Wenn es sich um ein Bundle handelt, können hier die zu dem Bundle gehörenden Produkte hinterlegt werden. **<u>Wichtig</u>**: Alle dem Bundle zugewiesenen Produkte werden dabei ignoriert. Rabatte, Gutscheine, Zahlmethoden, Versandkosten und Mehrwertsteuerregeln gelten also nie für die einzelnen Produkte in dem Bundle, sondern immer nur für das Bundle-Produkt. | nein |
 
 
-### Stats
+#### Stats
 
 ![](bild air.png)
 
