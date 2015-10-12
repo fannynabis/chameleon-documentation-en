@@ -1,5 +1,7 @@
 # Zentrale Shop-Einstellungen
 
+#### <span style="color:#B7C66E">Inhalt</span>
+
 [2.1 Shops](shops.md)
 
 [2.2 Extranet-Konfiguration](konfiguration.md)
