@@ -135,3 +135,14 @@
 [<span style="color:#B7C66E">7.1 Auswertung (Chameleon intern)</span>](auswertung_chameleon_intern.md)
 
 [<span style="color:#B7C66E">7.2 Externe Webstatistik-Dienste</span>](externe_webstatistik-dienste.md)
+
+
+
+
+[**<span style="color:#B7C66E">8 Rabatte und Gutscheine</span>**](rabatte_und_gutscheine.md)
+
+[<span style="color:#B7C66E">8.1 Gutscheinserie</span>](gutscheinserie.md)
+
+[<span style="color:#B7C66E">8.2 Gutscheinsponsoren</span>](gutscheinsponsoren.md)
+
+[<span style="color:#B7C66E">8.3 Rabatte</span>](rabatte.md)
