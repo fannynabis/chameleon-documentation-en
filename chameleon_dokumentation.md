@@ -109,3 +109,12 @@
 [<span style="color:#B7C66E">5.3 Kundenrezension</span>](kundenrezension.md)
 
 [<span style="color:#B7C66E">5.4 Artikelempfehlungen von Kunden</span>](artikelempfehlung_von_kunden.md)
+
+
+
+
+[**<span style="color:#B7C66E">6 Bestellinformation</span>**](bestellinformation.md)
+
+[<span style="color:#B7C66E">6.1 Bestellungen</span>](bestellungen.md)
+
+[<span style="color:#B7C66E">6.2 Bestellprozess-Einstellungen</span>](bestellprozess_einstellungen.md)
