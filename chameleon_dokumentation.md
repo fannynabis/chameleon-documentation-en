@@ -5,7 +5,7 @@ Anwenderdokumentation Chameleon Shop Version 6.0
 
 #### Inhalt
 
-[**<span style="color:#B7C66E">1 Vorbemerkungen</span>**](vorbemerkungen.md)
+[**<span style="color:#B7C66E">1 Vorbemerkungen</span>**](README.md)
 
 [<span style="color:#B7C66E">1.1 Frontend und Backend</span>](2_frontend_und_backend.md)
 
