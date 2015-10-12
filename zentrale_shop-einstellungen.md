@@ -4,18 +4,18 @@
 
 [<span style="color:#B7C66E">2.1 Shops</span>](shops.md)
 
-[2.2 Extranet-Konfiguration](konfiguration.md)
+[<span style="color:#B7C66E">2.2 Extranet-Konfiguration</span>](konfiguration.md)
 
-[2.3 Benutzerländer](benutzerlander_hauptgruppe_shop_einstellungen.md)
+[<span style="color:#B7C66E">2.3 Benutzerländer</span>](benutzerlander_hauptgruppe_shop_einstellungen.md)
 
-[2.4 Maßeinheiten](maßeinheiten.md)
+[<span style="color:#B7C66E">2.4 Maßeinheiten</span>](maßeinheiten.md)
 
-[2.5 Umsatzsteuergruppen](umsatzsteuergruppen.md)
+[<span style="color:#B7C66E">2.5 Umsatzsteuergruppen</span>](umsatzsteuergruppen.md)
 
-[2.6 Variantensets](varientensets.md)
+[<span style="color:#B7C66E">2.6 Variantensets</span>](varientensets.md)
 
-[2.7 Währungen](wahrungen.md)
+[<span style="color:#B7C66E">2.7 Währungen</span>](wahrungen.md)
 
-[2.8 Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
+[<span style="color:#B7C66E">2.8 Anzeige Shop-Hauptnavigation</span>](anzeige_shop-hauptnavigation.md)
 
 
