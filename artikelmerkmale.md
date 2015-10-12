@@ -1,5 +1,11 @@
 # Artikelmerkmale
 
+[3.7.1 Artikelvarianten](artikelvarianten.md)
+
+[3.7.2 Produktlisten](produktlisten.md)
+
+
+
 ![](bild29.png)
 
 Artikel → Shop-Artikelmerkmale
