@@ -14,7 +14,7 @@ Variantenarten:
     * rot, pink, gelb, indigo, olive (Variantenart *Farbe*)
 
 
-## <span style="color:#9ACD32">Inhalt</span>
+## <span style="color:#99B122">Inhalt</span>
 
 
 [3.7.1.1.1 Variantenset anlegen](variantenset_anlegen.md)
