@@ -8,7 +8,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 
 
-##### Basisdaten
+#### Basisdaten
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -26,7 +26,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 
 
-##### Beschreibung
+#### Beschreibung
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -53,7 +53,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |
 
 
-###Preis / Versand
+#### Preis / Versand
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
