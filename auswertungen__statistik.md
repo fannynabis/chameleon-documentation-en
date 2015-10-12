@@ -1,8 +1,8 @@
 # Auswertungen / Statistik
 
-#### <span style="color:#B7C66E">Inhalt</span>
+#### Inhalt
 
-[6.1 Auswertung (Chameleon intern)](auswertung_chameleon_intern.md)
+[<span style="color:#B7C66E">6.1 Auswertung (Chameleon intern)</span>](auswertung_chameleon_intern.md)
 
-[6.2 Externe Webstatistik-Dienste](externe_webstatistik-dienste.md)
+[<span style="color:#B7C66E">6.2 Externe Webstatistik-Dienste</span>](externe_webstatistik-dienste.md)
 
