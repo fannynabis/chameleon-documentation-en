@@ -43,5 +43,5 @@ Wird ein Rabatt auf den aktiven Warenkorb oder einen Teil des Warenkorbs mit ein
 | **Beschreibung** | Beschreibender Text, wird auf der Produktdetailseite angezeigt |
 | **Wann wurde der Cache der betroffenen Artikel zuletzt zurückgesetzt?** | Da Rabatte zeitabhängig aktiviert/deaktiviert werden können, die Rabattinformation bei Artikeln aber gecached werden kann, läuft für diesen Zweck im System ein Cronjob. Jedes Mal, wenn der Cache der Artikel (entweder durch den Cronjob oder durch Speichern des Rabatts) zurückgesetzt wurde, aktualisiert das System hier den Wert. Dadurch kann der Cronjob entscheiden, für welche Rabatte ein Zurücksetzen des Caches notwendig wird. |
 
-* nur verfügbar, wenn das Modul *Gratisartikel* freigeschaltet ist.
+*nur verfügbar, wenn das Modul Gratisartikel freigeschaltet ist.
 
