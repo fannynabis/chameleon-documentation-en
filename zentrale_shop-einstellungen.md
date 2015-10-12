@@ -10,4 +10,8 @@
 
 [2.5 Umsatzsteuergruppen](umsatzsteuergruppen.md)
 
+[2.6 Variantensets](varientensets.md)
+
+[2.7 Währungen](wahrungen.md)
+
 
