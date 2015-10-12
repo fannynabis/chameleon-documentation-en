@@ -12,7 +12,7 @@ Die zu einem Portal gehörenden Seiten können in mehrere Navigationen (Top- Nav
 
 Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
-Basisdaten
+*Basisdaten*
 
 | Bezeichnung | Beschreibung | Erforderlich |
 | -- | -- | -- |
@@ -23,19 +23,25 @@ Basisdaten
 | Domains | Alle für das Portal zuständigen Domains, über welche das Portal erreichbar sein soll. | ja |
 | Systemmeldungen / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
 
-Metadaten
-
 ![](Bild1.png)
 
-Addthis
+*Metadaten*
+
+![](bild_metadaten.png)
+
+*AddThis*
 
 ![](Bild2.png)
 
 Falls Sie dieses Package installiert haben, können Sie hier eine AddThis Profil-ID eingeben. Dies dient dazu, Social Media Logos und den jeweiligen Link hinzuzufügen.
-robots
+
+*robots*
+
 Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldinhalt wird nur ausgespielt, wenn KEINE robots.txt im document root hinterlegt wurde!
 
 ![](bild3.png)
+
+##### Speichern / Seitenbaum editieren
 
 Am oberen Rand des Datensatzes steht der Button ***Seitenbaum Editieren*** zur Verfügung.
 Hier haben Sie die Möglichkeit, den Seitenbaum des ausgewählten Portals zu editieren. Sie können die einzelnen Baumknoten per Drag&Drop verschieben oder mit der rechten Maustaste (Mac = Apfel linksklick) auf die Editiermöglichkeiten im Kontextmenü
