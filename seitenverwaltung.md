@@ -1,12 +1,12 @@
 # Seitenverwaltung
 
-[1.7.1 Seite anlegen](seite_anlegen.md)
+[<span style="color:#B7C66E">1.7.1 Seite anlegen</span>](seite_anlegen.md)
 
-[1.7.2 Seite bearbeiten / Module anlegen](seite bearbeiten__module_anlegen.md)
+[<span style="color:#B7C66E">1.7.2 Seite bearbeiten / Module anlegen</span>](seite bearbeiten__module_anlegen.md)
 
-[1.7.3 Seite löschen](seite_loschen.md)
+[<span style="color:#B7C66E">1.7.3 Seite löschen</span>](seite_loschen.md)
 
-[1.7.4 Mehrere Seiten mit einem Navigationspunkt verbinden](mehrere_seiten_mit einem_navigationspunkt_verbinden.md)
+[<span style="color:#B7C66E">1.7.4 Mehrere Seiten mit einem Navigationspunkt verbinden</span>](mehrere_seiten_mit einem_navigationspunkt_verbinden.md)
 
 [1.7.5 Eine Seite mit mehreren Navigationspunkten verknüpfen](eine_seite_mit_mehreren_navigationspunkten.verknupfen.md)
 
