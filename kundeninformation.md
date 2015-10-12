@@ -2,6 +2,8 @@
 
 Informationen Kunden betreffen finden sich im Hauptmenü unter Shop-Benutzer.
 
+#### <span style="color:#B7C66E">Inhalt</span>
+
 [4.1 Kunden](kunden.md)
 
 [4.2 Kundengruppen](kundengruppen.md)
