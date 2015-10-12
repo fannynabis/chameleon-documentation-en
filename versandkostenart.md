@@ -1,8 +1,9 @@
 # Versandkostenart
 
-Bestellprozess-Einstellungen → Versandkostenart
+*Bestellprozess-Einstellungen → Versandkostenart*
 
 Bei jeder Versandkostenart kann festgelegt werden, für welche Warengruppe, Kategorie, Artikel, Benutzergruppe, Benutzer oder Lieferland die Versandkostenart wirksam sein soll. 
+
 Eine Versandkostenart kann auf die Anzahl Artikel, eine Gewicht- oder Größenspanne oder einen Warenwert eingeschränkt sein. Sollte bei der Versandkostenart festgelegt worden sein, dass diese nur auf bestimmte Artikel wirken soll (entweder über die Angabe der Kategorien oder Warengruppen oder durch die Angabe eines oder mehrerer Artikel), dann kann zusätzlich festgelegt werden, ob sich die Angaben von Menge, Gewicht, Größe oder Preis nur auf die Summe aller Artikel beziehen soll, auf die Summe der für diese Versandkostenart relevanten Artikel oder einzeln auf jeden für diese Versandkostenart relevanten Artikel.
 
 Da manche Artikel immer versandkostenfrei behandelt werden müssen (wie z.B. ein Hörbuchdownload), besteht außerdem die Möglichkeit, einen Artikel von der Berechnung auszuschließen. Hierfür muss bei dem Artikel ein entsprechendes Häkchen gesetzt werden.
