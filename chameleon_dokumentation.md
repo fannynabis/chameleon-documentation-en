@@ -79,9 +79,9 @@
 
 [<span style="color:#B7C66E">4.8 Artikelvarianten</span>](artikelvarianten.md)
 
-[<span style="color:#B7C66E">4.8.1.1 Variantenset</span>](variantenset.md)
+[<span style="color:#B7C66E">4.8.1 Variantenset</span>](variantenset.md)
 
-[<span style="color:#B7C66E">4.8.1.2 Varianten generieren</span>](varianten_generieren.md)
+[<span style="color:#B7C66E">4.8.2 Varianten generieren</span>](varianten_generieren.md)
 
 [<span style="color:#B7C66E">4.9 Produktlisten</span>](produktlisten.md)
 
