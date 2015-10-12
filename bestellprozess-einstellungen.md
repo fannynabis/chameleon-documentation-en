@@ -2,12 +2,12 @@
 
 Damit im Shop überhaupt bestellt werden kann, müssen zahlreiche Einstellungen vorgenommen werden.
 
-#### <span style="color:#B7C66E">Inhalt</span>
+#### Inhalt
 
-[5.1.1.1 Bestellschritte (Checkout)](bestellschritte_checkout.md)
+[<span style="color:#B7C66E">5.1.1.1 Bestellschritte (Checkout)</span>](bestellschritte_checkout.md)
 
-[5.1.1.2 Versandkostenart](versandkostenart.md)
+[<span style="color:#B7C66E">5.1.1.2 Versandkostenarts</span>](versandkostenart.md)
 
-[5.1.1.3 Versandkostengruppen](versandkostengruppen.md)
+[<span style="color:#B7C66E">5.1.1.3 Versandkostengruppen</span>](versandkostengruppen.md)
 
-[5.1.1.4 Zahlmethoden](zahlmethoden.md)
+[<span style="color:#B7C66E">5.1.1.4 Zahlmethoden</span>](zahlmethoden.md)
