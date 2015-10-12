@@ -4,6 +4,8 @@
 
 [3.7.2 Produktlisten](produktlisten.md)
 
+[3.7.3 Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
+
 
 
 ![](bild29.png)
