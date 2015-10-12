@@ -10,7 +10,7 @@ Füllen Sie die Felder wie folgt aus:
 
 ![](bild31.png)
 
-* ***Anzeigemanager*** für die Variantenauswahl im Shop: bestimmt, wie die Variantenarten und –werte im Shop angezeigt werden. Momentan verfügbar: Selectboxen
+* ***Anzeigemanager*** für die Variantenauswahl im Shop: bestimmt, wie die Variantenarten und –werte im Shop angezeigt werden. Momentan verfügbar: *Selectboxen*
 
 ![](bild32.png)
 
