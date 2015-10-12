@@ -91,7 +91,7 @@
 
 [<span style="color:#B7C66E">4.9 Produktlisten</span>](produktlisten.md)
 
-[<span style="color:#B7C66E">4.9.1 Automatische Artikelliste anlegen (Modul Produktliste)</span>](modul produktliste.md)
+[<span style="color:#B7C66E">4.9.1 Automatische Artikelliste anlegen (Modul Produktliste)</span>](automatische_artikelliste_anlegen_modul produktliste.md)
 
 [<span style="color:#B7C66E">4.7.2.2 Artikellisten mit dem Multimodul anlegen</span>](artikellisten_mit dem_multimodul_anlegen.md)
 
