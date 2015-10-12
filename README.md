@@ -4,7 +4,7 @@ Anwenderdokumentation Chameleon Shop Version 6.0
 
 # Vorbemerkungen
 
-## <span style="color:#99B122">Inhalt</span>
+### <span style="color:#99B122">Inhalt</span>
 
 [0.1 Frontend und Backend](2_frontend_und_backend.md)
 
