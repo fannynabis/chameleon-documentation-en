@@ -1,6 +1,6 @@
 # Artikelvarianten
 
-
+#### <span style="color:#B7C66E">Inhalt</span>
 
 [3.7.1.1 Variantenset](variantenset.md)
 
