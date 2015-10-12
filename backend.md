@@ -6,4 +6,4 @@ Artikel → Artikelkategorien
 
 ![](Chameleon_Anwenderdokumentation_Standardshop_V6.png)
 
-Zahlreiche Hilfestellungen finden Sie in der kontextsensitiven Hilfe, gekennzeichnet durch 
+Zahlreiche Hilfestellungen finden Sie in der kontextsensitiven Hilfe, gekennzeichnet durch ![](bildfragezeichen.png).
