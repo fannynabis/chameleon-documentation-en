@@ -22,10 +22,10 @@ Wird ein Rabatt auf den aktiven Warenkorb oder einen Teil des Warenkorbs mit ein
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
-| Name | 1:2 |
-| Wert | 1:3 |
-| Wertart | 1:4 |
-| Prozentuale RAbatte auf der Produktdetailseite anzeigen | 1:5 |
+| Name | Bezeichnung des Rabattes |
+| Wert | Der Wert des Rabattes, der als Absolut- oder Prozentangabe konfiguriert werden kann. Handelt es sich um eine Prozentangabe (siehe Wertart), so bezieht sich die Angabe auf die Summe aller betroffenen Artikel. Absolutwerte werden nicht auf den gesamten Warenkorb verteilt, sondern absteigend auf die Artikel im Warenkorb. Bei einem Rabatt von 10,- € und zwei Artikeln im Warenkorb würde das System versuchen, die 10,- € zuerst auf den ersten Artikel anzuwenden. Sollte es danach einen Restwert geben, wird dieser auf den zweiten Artikel angewendet. |
+| Wertart | Definiert,  ob es sich bei der Wertangabe um einen Absolutbetrag handelt oder um eine Prozentangabe |
+| Prozentuale Rabatte auf der Produktdetailseite anzeigen | 1:5 |
 | Gratisartikel* | 1:6 |
 | Aktiv | 1:7 |
 | Gültig ab | 1:8 |
