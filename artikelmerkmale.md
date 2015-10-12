@@ -8,6 +8,8 @@ Für jedes Merkmal kann Name, Beschreibung sowie Icon hinterlegt werden. Hierbei
 
 Die Artikelmerkmale können im Artikel im Tab Kategorie/Merkmale mit dem Artikel verknüpft werden und werden im Shop auf der Artikeldetailseite angezeigt.
 
+
+
 [3.7.1 Artikelvarianten](artikelvarianten.md)
 
 [3.7.2 Produktlisten](produktlisten.md)
