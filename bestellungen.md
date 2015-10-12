@@ -2,7 +2,7 @@
 
 #### Inhalt
 
-[<span style="color:#B7C66E">6.1.1 Bestellprozess-Einstellungen</span>](bestellprozess-einstellungen.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">6.1.1 Bestellprozess-Einstellungen</span>](bestellprozess-einstellungen.md)
 
 *Bestellungen → Bestellungen*
 
