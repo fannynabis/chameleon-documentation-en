@@ -4,3 +4,5 @@
 
 [7.2 Gutscheinsponsoren](gutscheinsponsoren.md)
 
+[7.3 Rabatte](rabatte.md)
+
