@@ -4,5 +4,5 @@ Auf Anfrage senden wir Ihnen gerne folgende zusätzliche Anwenderdokumentationen
 
 * Mehrsprachigkeit / Übersetzungen
 * Preissuchmaschinen
-* Umstellen der Nutzeranrede von Sie (Basisshop) auf *Du*
+* Umstellen der Nutzeranrede von *Sie* (Basisshop) auf *Du*
 * PAYONE Integration

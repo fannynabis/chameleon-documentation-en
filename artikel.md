@@ -1,6 +1,6 @@
 # Artikel
 
-Artikel → Artikel
+*Artikel → Artikel*
 
 In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die Suchfunktion ermöglicht ein schnelles Auffinden des gesuchten Artikels. Die Artikel gelangen entweder per Import in den Shop oder werden manuell angelegt.
 
@@ -8,8 +8,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 
 
-### Basisdaten
-
+#### Basisdaten
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -27,7 +26,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 
 
-### Beschreibung
+#### Beschreibung
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -37,24 +36,24 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 
 
 
-### Kategorie / Merkmale
+##### Kategorie / Merkmale
 
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
 | **Hersteller / Marke** | Artikelhersteller oder Marke | nein |
-| **Warengruppen** | Dienen der Gruppierung der Artikel. Warengruppen selbst können z.B. als Einschränkung bei Zahlmethoden verwendet werden. Die Zahlmethode wäre im Warenkorb nur dann verfügbar, wenn alle Artikel des Warenkorbes mindestens in einer Warengruppe sind.Warengruppen können entweder hier, direkt beim Artikel, angelegt werden oder über Artikel → Warengruppen, die Warengruppe wird dann beim Artikel verknüpft (AUSWÄHLEN). | nein |
+| **Warengruppen** | Dienen der Gruppierung der Artikel. Warengruppen selbst können z.B. als Einschränkung bei Zahlmethoden verwendet werden. Die Zahlmethode wäre im Warenkorb nur dann verfügbar, wenn alle Artikel des Warenkorbes mindestens in einer Warengruppe sind.Warengruppen können entweder hier, direkt beim Artikel, angelegt werden oder über *Artikel → Warengruppen*, die Warengruppe wird dann beim Artikel verknüpft (AUSWÄHLEN). | nein |
 | **Artikeltyp** | Ein Artikel kann einem oder mehreren frei definierbaren Artikeltypen zugewiesen werden (CD, Download, Produkt usw.). Artikeltypen können z.B. für Suchfilter sowie im Warenkorb zur Anwendung kommen (Downloads z.B. haben keine Versandkosten). | nein |
 | **Produktkategorien** | Jeder Artikel kann einer (oder auch mehreren) Kategorie(n) zugewiesen werden und wird dann in der Artikelliste der jeweiligen Kategorie angezeigt. | ja |
 | **Hauptkategorie des Artikels** | Befindet man sich gerade nicht auf einer Kategorieseite, welcher der Artikel zugewiesen ist, so wird als Standard die Hauptkategorie zur Generierung der Artikel-URL verwendet. | nein |
-| Artikelmerkmale | Artikelmerkmale sind Beschreibungen, die den Artikeln zugefügt werden können. Diese Beschreibungen machen eine klare Aussage über den Artikel, z.B. “ist abwaschbar” oder „Blauer Engel“. Für jedes Merkmal kann ein Name, eine Beschreibung sowie ein Icon hinterlegt werden. | nein |
+| **Artikelmerkmale** | Artikelmerkmale sind Beschreibungen, die den Artikeln zugefügt werden können. Diese Beschreibungen machen eine klare Aussage über den Artikel, z.B. “ist abwaschbar” oder „Blauer Engel“. Für jedes Merkmal kann ein Name, eine Beschreibung sowie ein Icon hinterlegt werden. | nein |
 | **Produktattribute** | Produktattribute sind Merkmale, denen unterschiedliche Werte zugewiesen werden können, z.B. “waschbar bei” + zugehöriger Wert “30°C”. Ohne Zuweisung eines Wertes ist dieses Attribut aussagelos. | nein |
 | **Auf folgende Shops einschränken** | Falls im System mehrere Shops existieren, kann hier eine Einschränkung der Artikelsichtbarkeit vorgenommen werden. | nein |
 | **Zum Arktikel beitragende Personen** | Hier werden Personen oder Firmen hinterlegt, die in die Produktion des Artikels involviert waren (z.B. als Autor oder Sprecher). Die Anzeige ist abhängig vom gewählten Seitentemplate. | nein |
 | **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |
 
 
-###Preis / Versand
+#### Preis / Versand
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -66,17 +65,19 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **keine Rabatte zulassen** | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
 
 
-###Inhalt / Maße / Gewicht
+#### Inhalt / Maße / Gewicht
 
 Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimensionen des Artikels angegeben werden.
+
 Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterlegen Sie die Angaben in den Feldern **Inhalt** (Mengenangabe) und **Maßeinheit des Inhalts** (kg, g, l, ml, usw.).
-Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **Maßeinheiten**).
 
-###Varianten
+Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3.4 Maßeinheiten**).
 
-Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **Artikelvarianten**.
+#### Varianten
 
-###Lager
+Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.
+
+####Lager
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -86,13 +87,13 @@ Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bek
 
 
 
-### Cross Selling
+#### Cross Selling
 
-Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **Produktlisten**).
+Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **4.9 Produktlisten**).
 
 
 
-### SEO / Meta
+#### SEO / Meta
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -103,7 +104,7 @@ Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Ar
 Unter „Metadaten“ können die Metadaten speziell für dieses Produkt überschrieben werden.
 
 
-### Suche
+#### Suche
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -113,7 +114,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
 
 
-### Bewertungen
+#### Bewertungen
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -121,7 +122,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |
 
 
-### Bundle
+#### Bundle
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -129,7 +130,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Artikel, die zu diesem Bundle gehören** | Wenn es sich um ein Bundle handelt, können hier die zu dem Bundle gehörenden Produkte hinterlegt werden. **<u>Wichtig</u>**: Alle dem Bundle zugewiesenen Produkte werden dabei ignoriert. Rabatte, Gutscheine, Zahlmethoden, Versandkosten und Mehrwertsteuerregeln gelten also nie für die einzelnen Produkte in dem Bundle, sondern immer nur für das Bundle-Produkt. | nein |
 
 
-### Stats
+#### Stats
 
 ![](bild air.png)
 

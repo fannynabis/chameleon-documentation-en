@@ -1,6 +1,7 @@
 # Medien
 
-Über den Punkt Medien gelangt man zu der zentralen Bilder- und Medienverwaltung im Chameleon-System. Hier können neue Medien wie Bilder und Videos hochgeladen sowie bestehende entfernt oder aktualisiert werden. Alle Bilder / Videos, die auf der Webseite angezeigt werden sollen, müssen zuerst in der Medienverwaltung hinterlegt werden. 
+Über den Punkt *Medien* gelangt man zu der zentralen Bilder- und Medienverwaltung im Chameleon-System. Hier können neue Medien wie Bilder und Videos hochgeladen sowie bestehende entfernt oder aktualisiert werden. Alle Bilder / Videos, die auf der Webseite angezeigt werden sollen, müssen zuerst in der Medienverwaltung hinterlegt werden. 
+
 Die Verwaltung öffnet sich in einem neuen Fenster (d.h. die aktuelle Seite, die man bearbeiten möchte, bleibt im Hintergrund geöffnet). 
 
 ![](bild24.png)
@@ -19,4 +20,5 @@ Die Verzeichnisstruktur links und die Suchfunktion unten ermöglichen ein schnel
 
 
 Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Datensatz auf und laden über ***Mediendatei ersetzen*** die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
-Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden. Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter CMS Einstellungen → Uploader Konfiguration eingestellten Upload-Werte nicht überschreiten.
+
+Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden. Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter *CMS Einstellungen → Uploader Konfiguration* eingestellten Upload-Werte nicht überschreiten.

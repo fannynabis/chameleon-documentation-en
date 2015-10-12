@@ -1,6 +1,6 @@
 # Kundengruppen
 
-Shop-Benutzer → Kundengruppen
+*Shop-Benutzer → Kundengruppen*
 
 Kundengruppen können in CHAMELEON frei definiert werden und finden ihre Anwendung in den verschiedensten Bereichen des CMS/Shops. Im Backend können Gruppen z.B. zur Zugangsbeschränkung oder bei der User-Auswahl im Newsletter-Modul verwendet werden. Im Shop dagegen können Kunden nach Ihrem Bestellverhalten automatisch den Kundengruppen zugewiesen werden. Des Weiteren können im Shop die Zahlmethoden, Versandkosten usw. unter Verwendung der Kundengruppen genauestens konfiguriert werden.
 
@@ -11,4 +11,4 @@ Kundengruppen können in CHAMELEON frei definiert werden und finden ihre Anwendu
 | **Autozuweisung ab Bestellwert** | Kundengruppe wird dem Benutzer automatisch zugewiesen, wenn die Bestellung des Kunden einen definierten Wert überschreitet |
 | **Autozuweisung bis Bestellwert** | Erreicht der Kunde diesen Bestellwert, dann wird er automatisch aus der Gruppe genommen (die Gruppe greift also nur für Kunden mit Bestellungen UNTER diesem Betrag). Wird hier 0 angegeben, dann gilt die Gruppe bis zu einem beliebigen Bestellwert. |
 
-Die Zuweisung eines Kunden zu einer Kundengruppe finden Sie auch direkt beim Kunden in den Basisdaten.
+Die Zuweisung eines Kunden zu einer Kundengruppe finden Sie auch direkt beim Kunden in den *Basisdaten*.

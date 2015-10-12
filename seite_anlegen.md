@@ -1,6 +1,7 @@
 # Seite anlegen
 
 Eine neue Seite können Sie entweder über die Navigationsverwaltung oder auch über die Seitenverwaltung ***(Neu)*** anlegen. Da sowieso vorher ein Navigationsknoten angelegt werden muss empfiehlt es sich, die Seite über den Navigationsbaum anzulegen.
+
 Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite anlegt werden soll. Ferner klicken Sie auf ***Neu***, um einen neuen Navigationspunkt anzulegen.
 
 ![](bild16.png)
@@ -18,9 +19,10 @@ Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können
 | Seiten / Layouts | Wenn Sie hier ein Seitenlayout wählen, wird daraufhin automatisch eine Seite angelegt und mit diesem Navigationspunkt verknüpft. Der Seitentitel wird dabei aus dem Namen des Navigationspunkts übernommen und kann später geändert werden. |
 | SEO | Im SEO Tab haben Sie die Möglichkeit, den Navigationspunkt von der Indizierung durch Suchmaschinen auszuschließen und Ausnahmeregeln zu definieren. So können Sie z.B. dafür sorgen, dass die Kontaktseite, die auf allen Seiten in der Footer-Navigation verlinkt ist, auf allen Seiten außer der Home-Seite als noFollow markiert wird und so Linkpower von dieser Seite nehmen. |
 
+Jetzt geben Sie der neuen Seite einen Namen und wählen ein Layout für die Seite (dies ist wichtig, da der Navigationspunkt ansonsten ohne Seite erstellt wird, zu erkennen an der Kursivschrift). Der Navigationspunkt und eine damit verbundene Seite werden daraufhin angelegt. Im Rechtsklick-Menü der Navigationsverwaltung haben Sie diese Menüpunkte:
+
 ![](bild18.png)
 
-Jetzt geben Sie der neuen Seite einen Namen und wählen ein Layout für die Seite (dies ist wichtig, da der Navigationspunkt ansonsten ohne Seite erstellt wird, zu erkennen an der Kursivschrift). Der Navigationspunkt und eine damit verbundene Seite werden daraufhin angelegt. Im Rechtsklick-Menü der Navigationsverwaltung haben Sie diese Menüpunkte:
 
 | Bezeichnung | Beschreibung |
 | -- | -- |

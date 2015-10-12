@@ -1,9 +1,10 @@
 # E-Mail-Vorlagen
 
-CMS Admin → E-Mail-Vorlagen
+*CMS Admin → E-Mail-Vorlagen*
 
 Aus dem Backend heraus werden für diverse Aktionen E-Mails versendet. 
-Eine Ausnahme hiervon ist die E-Mail-Einstellung für die „Passwort vergessen“-Funktionalität welche, sich unter CMS / Portal-Einstellungen → Extranet Konfiguration → Konfiguration: Passwort vergessen befindet.
+
+Eine Ausnahme hiervon ist die E-Mail-Einstellung für die „Passwort vergessen“-Funktionalität welche, sich unter *CMS / Portal-Einstellungen → Extranet Konfiguration → Konfiguration: Passwort vergessen* befindet.
 
 Eine E-Mail-Vorlage wird zentral verwaltet und kann an vielen Stellen im System über den Identifier ***ID-Code*** einfach verwendet werden. Es ist darauf zu achten, dass der ID-Code nicht ohne wichtigen Grund geändert wird.
 
@@ -26,4 +27,4 @@ Alle E-Mail-Vorlagen werden in zwei Formaten *Html* und *Text* gepflegt. Im Shop
 | **Text-Vorlage** | Entspricht der „Vorlage“, formatiert als reiner Text |
 
 
-<u>Hinweis für Entwickler</u>: Um während der Entwicklung der E-Mail-Vorlagen alle in der E-Mail möglichen Platzhalter erhalten zu können, muss der spezielle Platzhalter <span style="color:#9ACD32">[{__FIELDS}]</span> hinzugefügt werden. Alle E-Mails laufen im Testsystem automatisch *an den Entwickler*.
+<u>Hinweis für Entwickler</u>: Um während der Entwicklung der E-Mail-Vorlagen alle in der E-Mail möglichen Platzhalter erhalten zu können, muss der spezielle Platzhalter <span style="color:#99B122">[{__FIELDS}]</span> hinzugefügt werden. Alle E-Mails laufen im Testsystem automatisch *an den Entwickler*.

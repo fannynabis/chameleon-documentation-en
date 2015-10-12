@@ -1,6 +1,6 @@
 # Anzeige Shop-Hauptnavigation
 
-Website → Shop-Hauptnavigation
+*Website → Shop-Hauptnavigation*
 
 Über diesen Menüpunkt wird die Anzeige der Shop-Hauptnavigation gesteuert.
 
@@ -16,5 +16,5 @@ Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menü
 | **Aktiv** | Aktiviert den Menüpunkt |
 | **Position** | Die angezeigte Reihenfolge können Sie hier verändern. |
 | **Navigation aus** | Wählen Sie hier aus, ob der Menüpunkt mit einer Seite oder einer Produktkategorie verknüpft werden soll. |
-| **Untermenü durch Shop-Hauptkategorien ersetzen** | Jeder Menüpunkt kann weitere Unterpunkte haben. Bei JA werden hier die Hauptkategorien des Shops (Artikel → Artikelkategorien) automatisch als Untermenü hinzugefügt. |
+| **Untermenü durch Shop-Hauptkategorien ersetzen** | Jeder Menüpunkt kann weitere Unterpunkte haben. Bei JA werden hier die Hauptkategorien des Shops (*Artikel → Artikelkategorien*) automatisch als Untermenü hinzugefügt. |
 | **Eigene CSS-Klasse** | Hier kann eine CSS-Klasse definiert werden, die dann auf den Navigationspunkt angewendet wird. Standardmäßig kann „onSale“ für Angebote verwendet werden (der Menüpunkt wird dann in einer hervorgehobenen Farbe angezeigt). |
