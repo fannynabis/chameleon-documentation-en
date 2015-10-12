@@ -1,10 +1,10 @@
 # Produktinformation
 
-#### <span style="color:#B7C66E">Inhalt</span>
+#### Inhalt
 
-[3.1 Artikel](artikel.md)
+[<span style="color:#B7C66E">3.1 Artikel</span>](artikel.md)
 
-[3.2 Artikelkategorien](artikelkategorien.md)
+[<span style="color:#B7C66E">3.2 Artikelkategorien</span>](artikelkategorien.md)
 
 [3.3 Artikeltypen](artikeltypen.md)
 
