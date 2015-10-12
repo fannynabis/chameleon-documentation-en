@@ -1,8 +1,10 @@
 # Übersetzungen
 
-[10.1 CMS Webübersetzungen](webuberstzungen.md)
+#### Inhalt
 
-[10.2 CMS Übersetzungen](cms_ubersetzungen.md)
+[<span style="color:#B7C66E">10.1 CMS Webübersetzungen</span>](webuberstzungen.md)
 
-[10.3 Übersetzungen von Fehlermeldungen -> Portale / Webseiten](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
+[<span style="color:#B7C66E">10.2 CMS Übersetzungen</span>](cms_ubersetzungen.md)
+
+[<span style="color:#B7C66E">10.3 Übersetzungen von Fehlermeldungen -> Portale / Webseiten</span>](ubersetzungen_von_fehlermeldungen_-_portale__webseiten.md)
 
