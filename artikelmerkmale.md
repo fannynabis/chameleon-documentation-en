@@ -6,7 +6,7 @@
 
 [<span style="color:#B7C66E">3.7.2 Produktlisten</span>](produktlisten.md)
 
-[3.7.3 Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
+[<span style="color:#B7C66E">3.7.3 Presenter mit verlinkbaren Hotspots (Modul)</span>](presenter_mit_verlinkbaren_hotspots_modul.md)
 
 ![](bild29.png)
 
