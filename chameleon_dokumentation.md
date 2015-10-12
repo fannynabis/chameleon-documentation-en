@@ -93,6 +93,6 @@
 
 [<span style="color:#B7C66E">4.9.1 Automatische Artikelliste anlegen (Modul Produktliste)</span>](automatische_artikelliste_anlegen_modul produktliste.md)
 
-[<span style="color:#B7C66E">4.7.2.2 Artikellisten mit dem Multimodul anlegen</span>](artikellisten_mit dem_multimodul_anlegen.md)
+[<span style="color:#B7C66E">4.9.2 Artikellisten mit dem Multimodul anlegen</span>](artikellisten_mit dem_multimodul_anlegen.md)
 
 [<span style="color:#B7C66E">4.10 Presenter mit verlinkbaren Hotspots (Modul)</span>](presenter_mit_verlinkbaren_hotspots_modul.md)
