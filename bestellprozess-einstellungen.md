@@ -1,5 +1,7 @@
 # Bestellprozess-Einstellungen
 
+#### <span style="color:#B7C66E">Inhalt</span>
+
 [5.1.1.1 Bestellschritte (Checkout)](bestellschritte_checkout.md)
 
 [5.1.1.2 Versandkostenart](versandkostenart.md)
