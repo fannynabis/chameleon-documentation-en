@@ -15,6 +15,6 @@ Wenn Sie einen Variantenwert gespeichert haben, können Sie gleich mit Klick auf
 
 Die Variantenwerte können mit einem Namen, einem Bild, und einem Farbwert versehen werden. 
 
-Legen Sie so alle benötigten Variantenarten mit den dazugehörigen Variantenwerten an. Angelegte Variantenarten mit den dazugehörigen Werten werden automatisch unter Artikel → Shop-Artikelvarianten abgelegt.
+Legen Sie so alle benötigten Variantenarten mit den dazugehörigen Variantenwerten an. Angelegte Variantenarten mit den dazugehörigen Werten werden automatisch unter *Artikel → Shop-Artikelvarianten* abgelegt.
 
 Beachten Sie, dass die bei den Variantenarten hinterlegten Werte je Variantenset unabhängig voneinander sind, da die Werte einer Variantenart oder eines Sets im System eindeutig zuordenbar sein müssen. Wenn Sie z.B. 10 Farben bereits für eine Variantenart verwendet haben, müssen Sie diese Farben für ein weiteres Variantenset neu anlegen (dabei dürfen Sie natürlich die gleichen Farben verwenden). 
