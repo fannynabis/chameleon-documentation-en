@@ -146,3 +146,12 @@
 [<span style="color:#B7C66E">8.2 Gutscheinsponsoren</span>](gutscheinsponsoren.md)
 
 [<span style="color:#B7C66E">8.3 Rabatte</span>](rabatte.md)
+
+
+
+
+[**<span style="color:#B7C66E">9 Suche</span>**](suche.md)
+
+[<span style="color:#B7C66E">9.1 Artikelsuchindex</span>](artikelsuchindex.md)
+
+[<span style="color:#B7C66E">9.2 Suchwortwolke</span>](suchwortwolke.md)
