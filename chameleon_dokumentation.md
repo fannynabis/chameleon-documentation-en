@@ -2,7 +2,7 @@
 
 #### Inhalt
 
-[<span style="color:#B7C66E">1 Vorbemerkungen</span>](vorbemerkungen.md)
+[**<span style="color:#B7C66E">1 Vorbemerkungen</span>**](vorbemerkungen.md)
 
 [<span style="color:#B7C66E">1.1 Frontend und Backend</span>](2_frontend_und_backend.md)
 
@@ -12,7 +12,7 @@
 
 [<span style="color:#B7C66E">1.4 Backend</span>](5_backend.md)
 
-[<span style="color:#B7C66E">2 Grundsätzliches zur Bedienung von Chameleon</span>](grundsatzliches_zur_bedienung_von_chameleon.md)
+[**<span style="color:#B7C66E">2 Grundsätzliches zur Bedienung von Chameleon</span>**](grundsatzliches_zur_bedienung_von_chameleon.md)
 
 [<span style="color:#B7C66E">2.1 Persönliches Benutzerprofil</span>](persoenliches_benutzerprofil.md)
 
