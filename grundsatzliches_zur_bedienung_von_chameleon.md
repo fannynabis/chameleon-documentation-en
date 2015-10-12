@@ -1,6 +1,6 @@
 # Grundsätzliches zur Bedienung von Chameleon
 
-### <span style="color:#B7C66E">Inhalt</span>
+#### <span style="color:#B7C66E">Inhalt</span>
 
 [1.1 Persönliches Benutzerprofil](persoenliches_benutzerprofil.md)
 
