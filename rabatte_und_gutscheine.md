@@ -1,10 +1,10 @@
 # Rabatte und Gutscheine
 
-#### <span style="color:#B7C66E">Inhalt</span>
+#### Inhalt
 
-[7.1 Gutscheinserie](gutscheinserie.md)
+[<span style="color:#B7C66E">7.1 Gutscheinserie</span>](gutscheinserie.md)
 
-[7.2 Gutscheinsponsoren](gutscheinsponsoren.md)
+[<span style="color:#B7C66E">7.2 Gutscheinsponsoren</span>](gutscheinsponsoren.md)
 
-[7.3 Rabatte](rabatte.md)
+[<span style="color:#B7C66E">7.3 Rabatte</span>](rabatte.md)
 
