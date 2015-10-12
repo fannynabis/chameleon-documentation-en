@@ -6,9 +6,9 @@
 
 [<span style="color:#B7C66E">3.2 Artikelkategorien</span>](artikelkategorien.md)
 
-[3.3 Artikeltypen](artikeltypen.md)
+[<span style="color:#B7C66E">3.3 Artikeltypen</span>](artikeltypen.md)
 
-[3.4 Beitragende Personen](beitragende_personen.md)
+[<span style="color:#B7C66E">3.4 Beitragende Personen</span>](beitragende_personen.md)
 
 [3.5 Hersteller / Marke](hersteller__marke.md)
 
