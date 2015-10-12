@@ -77,7 +77,7 @@ Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.
 
-###Lager
+####Lager
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
@@ -87,7 +87,7 @@ Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bek
 
 
 
-### Cross Selling
+#### Cross Selling
 
 Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **Produktlisten**).
 
