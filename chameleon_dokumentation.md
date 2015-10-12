@@ -192,4 +192,10 @@
 
 [<span style="color:#B7C66E">13.2 Newsletter</span>](newsletter.md)
 
+[<span style="color:#B7C66E">13.2.1 Newsletter-Elemente</span>](newsletter-elemente.md)
+
+[<span style="color:#B7C66E">13.2.2 Grundkonfiguration</span>](grundkonfiguration.md)
+
+[<span style="color:#B7C66E">13.2.3 Newsletter erstellen und versenden</span>](newsletter_erstellen_und_versenden.md)
+
 [<span style="color:#B7C66E">13.3 Freigabesystem / Workflow</span>](freigabesystem__workflow)
