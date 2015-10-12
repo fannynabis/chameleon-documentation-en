@@ -1,12 +1,12 @@
 # Grundsätzliches zur Bedienung von Chameleon
 
-#### <span style="color:#B7C66E">Inhalt</span>
+#### Inhalt
 
-[1.1 Persönliches Benutzerprofil](persoenliches_benutzerprofil.md)
+[<span style="color:#B7C66E">1.1 Persönliches Benutzerprofil</span>](persoenliches_benutzerprofil.md)
 
-[1.2 Portale / Webseiten](portale__webseiten.md)
+[<span style="color:#B7C66E">1.2 Portale / Webseiten</span>](portale__webseiten.md)
 
-[1.3 Menüführung](menufuhrung.md)
+[<span style="color:#B7C66E">1.3 Menüführung</span>](menufuhrung.md)
 
 [1.4 Listenansicht von Datensätzen](listenansicht_von_datensatzen)
 
