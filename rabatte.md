@@ -20,3 +20,26 @@ Zusätzlich zu der prozentualen oder absoluten Angabe kann ein Gratisartikel bei
 
 Wird ein Rabatt auf den aktiven Warenkorb oder einen Teil des Warenkorbs mit einem positiven berechneten Wert größer 0 angewendet, so wird der Rabatt unterhalb der Bruttoproduktsumme mit Namen und Wert aufgeführt.
 
+| Bezeichnung | Beschreibung |
+| -- | -- |
+| Name | 1:2 |
+| Wert | 1:3 |
+| Wertart | 1:4 |
+| Prozentuale RAbatte auf der Produktdetailseite anzeigen | 1:5 |
+| Gratisartikel* | 1:6 |
+| Aktiv | 1:7 |
+| Gültig ab | 1:8 |
+| Gültig bis | 1:9 |
+| Sortierung | 1:10 |
+| Mindestanzahl betroffener Artikel | 1:11 |
+| Maximalanzahl betroffener Artikel | 1:12 |
+| Mindestwert der betroffenen Artikel (Euro) | 1:13 |
+| Maximalwert der betroffenen Artikel (Euro) | 1:14 |
+| Auf folgende Produktkategorien einschränken | 1:15 |
+| Auf folgende Artikel einschränken | 1:16 |
+| Auf folgende Kundengruppen einschränken | 1:17 |
+| Auf folgende Kunden einschränken | 1:18 |
+| Auf folgende Lieferländer einschränken | 1:19 |
+| Beschreibung | 1:20 |
+| Wann wurde der Cache der betroffenen Artikel zuletzt zurückgesetzt? | 1:21 |
+
