@@ -75,7 +75,7 @@ Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3
 
 #### Varianten
 
-Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **Artikelvarianten**.
+Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.
 
 ###Lager
 
