@@ -4,7 +4,7 @@
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E">4.7.1 Variantenset</span>](variantenset.md)
 
-<p style="text-indent: 2em;">[<span style="color:#B7C66E">4.7.1 Varianten generieren</span>](varianten_generieren.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">4.7.2 Varianten generieren</span>](varianten_generieren.md)
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können im Chameleon Backend mithilfe des **Variantengenerators** erzeugt werden.
 
