@@ -14,10 +14,10 @@
 
 [<span style="color:#B7C66E">3.6 Produktattribute</span>](produktattribute.md)
 
-[3.7 Artikelmerkmale](artikelmerkmale.md)
+[<span style="color:#B7C66E">3.7 Artikelmerkmale</span>](artikelmerkmale.md)
 
-[3.8 Artikelvarianten](artikelvarianten.md)
+[<span style="color:#B7C66E">3.8 Artikelvarianten</span>](artikelvarianten.md)
 
-[3.9 Produktlisten](produktlisten.md)
+[<span style="color:#B7C66E">3.9 Produktlisten</span>](produktlisten.md)
 
-[3.10 Presenter mit verlinkbaren Hotspots (Modul)](presenter_mit_verlinkbaren_hotspots_modul.md)
+[<span style="color:#B7C66E">3.10 Presenter mit verlinkbaren Hotspots (Modul)</span>](presenter_mit_verlinkbaren_hotspots_modul.md)
