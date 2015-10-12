@@ -2,11 +2,11 @@
 
 #### Inhalt
 
-[<span style="color:#B7C66E">12.2.1 Newsletter-Elemente</span>](newsletter-elemente.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">12.2.1 Newsletter-Elemente</span>](newsletter-elemente.md)
 
-[<span style="color:#B7C66E">12.2.2 Grundkonfiguration</span>](grundkonfiguration.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">12.2.2 Grundkonfiguration</span>](grundkonfiguration.md)
 
-[<span style="color:#B7C66E">12.2.3 Newsletter erstellen und versenden</span>](newsletter_erstellen_und_versenden.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">12.2.3 Newsletter erstellen und versenden</span>](newsletter_erstellen_und_versenden.md)
 
 Benutzer können sich auf dem Portal für einen Newsletter anmelden. Bei der Registrierung erhält der Benutzer eine Bestätigungs-E-Mail, in der er seine Registrierung durch den Aufruf des Bestätigungslinks bestätigen muss (Double-Opt-In). 
 
