@@ -17,4 +17,4 @@ Basisdaten
 | Auf folgende Extranet-Gruppen einschränken | Werden keine Gruppen angegeben, dann können alle angemeldeten Benutzer auf die Seite zugreifen |
 | Sprache der Seite |  |
 
-Meta-Daten: Hier können SEO-relevante Daten hinterlegt werden
+*Meta-Daten*: Hier können SEO-relevante Daten hinterlegt werden
