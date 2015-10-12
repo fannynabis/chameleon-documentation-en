@@ -92,26 +92,26 @@ Anwenderdokumentation Chameleon Shop Version 6.0
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E">4.8.2 Varianten generieren</span>](varianten_generieren.md)
 
-[<span style="color:#B7C66E">4.9 Produktlisten</span>](produktlisten.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">4.9 Produktlisten</span>](produktlisten.md)
 
-[<span style="color:#B7C66E">4.9.1 Automatische Artikelliste anlegen (Modul Produktliste)</span>](automatische_artikelliste_anlegen_modul produktliste.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">4.9.1 Automatische Artikelliste anlegen (Modul Produktliste)</span>](automatische_artikelliste_anlegen_modul produktliste.md)
 
-[<span style="color:#B7C66E">4.9.2 Artikellisten mit dem Multimodul anlegen</span>](artikellisten_mit dem_multimodul_anlegen.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">4.9.2 Artikellisten mit dem Multimodul anlegen</span>](artikellisten_mit dem_multimodul_anlegen.md)
 
-[<span style="color:#B7C66E">4.10 Presenter mit verlinkbaren Hotspots (Modul)</span>](presenter_mit_verlinkbaren_hotspots_modul.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">4.10 Presenter mit verlinkbaren Hotspots (Modul)</span>](presenter_mit_verlinkbaren_hotspots_modul.md)
 
 
 
 
 [**<span style="color:#B7C66E">5 Kundeninformation</span>**](kundeninformation.md)
 
-[<span style="color:#B7C66E">5.1 Kunden</span>](kunden.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">5.1 Kunden</span>](kunden.md)
 
-[<span style="color:#B7C66E">5.2 Kundengruppen<span>](kundengruppen.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">5.2 Kundengruppen<span>](kundengruppen.md)
 
-[<span style="color:#B7C66E">5.3 Kundenrezension</span>](kundenrezension.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">5.3 Kundenrezension</span>](kundenrezension.md)
 
-[<span style="color:#B7C66E">5.4 Artikelempfehlungen von Kunden</span>](artikelempfehlung_von_kunden.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">5.4 Artikelempfehlungen von Kunden</span>](artikelempfehlung_von_kunden.md)
 
 
 
