@@ -10,9 +10,9 @@
 
 [<span style="color:#B7C66E">3.4 Beitragende Personen</span>](beitragende_personen.md)
 
-[3.5 Hersteller / Marke](hersteller__marke.md)
+[<span style="color:#B7C66E">3.5 Hersteller / Marke</span>](hersteller__marke.md)
 
-[3.6 Produktattribute](produktattribute.md)
+[<span style="color:#B7C66E">3.6 Produktattribute</span>](produktattribute.md)
 
 [3.7 Artikelmerkmale](artikelmerkmale.md)
 
