@@ -11,7 +11,6 @@
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">5.4 Artikelempfehlungen von Kunden</span>](artikelempfehlung_von_kunden.md)
 
 
-
 <br> 
 
 <br />
