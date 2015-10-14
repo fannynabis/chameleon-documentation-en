@@ -12,6 +12,10 @@ Die zu einem Portal gehörenden Seiten können in mehrere Navigationen (Top- Nav
 
 Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
+<br> 
+
+
+
 *Basisdaten*
 
 | Bezeichnung | Beschreibung | Erforderlich |
@@ -25,15 +29,21 @@ Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portal
 
 ![](Bild1.png)
 
+<br>
+
 *Metadaten*
 
 ![](bild_metadaten.png)
+
+<br>
 
 *AddThis*
 
 ![](Bild2.png)
 
 Falls Sie dieses Package installiert haben, können Sie hier eine AddThis Profil-ID eingeben. Dies dient dazu, Social Media Logos und den jeweiligen Link hinzuzufügen.
+
+<br>
 
 *robots*
 
