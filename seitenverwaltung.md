@@ -12,9 +12,9 @@
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E"2.7.5 Eine Seite mit mehreren Navigationspunkten verknüpfen</span>](eine_seite_mit_mehreren_navigationspunkten.verknupfen.md)
 
-<p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.5 Seiten-Einstellungen</span>](seiten-einstellungen.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.6 Seiten-Einstellungen</span>](seiten-einstellungen.md)
 
-<p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.6 Seiten-Layouts</span>](seiten-layouts.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.7 Seiten-Layouts</span>](seiten-layouts.md)
 
 <br>
 
