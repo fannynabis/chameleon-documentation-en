@@ -10,7 +10,7 @@ You can manage several websites and shops via Chameleon simultaneously. Each of 
 
 According to the portal you can determine several domain names where you can call your website. It is possible to have a few portals running under the same domain if they are distinguished by different url prefixes.
 
-~~Jedes Portal wird in Chameleon in Bereiche unterteilt. Dabei sollte mindestens ein Bereich je Navigationsstartpunkt definiert werden. Über die Bereiche lassen sich Einstellungen hinterlegen, die für einen Sub-Baum innerhalb des Portals (also für eine ganze Reihe von Seiten) gelten soll. Dazu gehört unter anderem die Sprache des Bereichs. ~~
+~~Jedes Portal wird in Chameleon in Bereiche unterteilt. Dabei sollte mindestens ein Bereich je Navigationsstartpunkt definiert werden. Über die Bereiche lassen sich Einstellungen hinterlegen, die für einen Sub-Baum innerhalb des Portals (also für eine ganze Reihe von Seiten) gelten soll. Dazu gehört unter anderem die Sprache des Bereichs.~~
 
 Every portal will be subdivided in several sections. In this process at least one section per navigation starting point should be defined. You can deposit settings on those sections which should be valid for a sub tree within a portal (means for a number of sites). This includes among other things the language of the section.
 
