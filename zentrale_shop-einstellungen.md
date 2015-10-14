@@ -12,7 +12,7 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.5 Umsatzsteuergruppen</span>](umsatzsteuergruppen.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.6 Variantensets</span>](varientensets.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.6 Variantensets</span>](variantensets.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.7 Währungen</span>](wahrungen.md)
 
