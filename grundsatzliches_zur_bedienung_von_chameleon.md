@@ -20,7 +20,7 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.9 Dokumente</span>](dokumente.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.10 Sprache / Webseite / Cache / Hilfe</span>](sprache__website__chache__hilfe.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.10 Sprache / Webseite / Cache / Hilfe</span>](sprache__website__cache__hilfe.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.11 CKEditor</span>](ckeditor.md)
 
