@@ -8,7 +8,7 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.3 Benutzerländer</span>](benutzerlander_hauptgruppe_shop_einstellungen.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.4 Maßeinheiten</span>](maßeinheiten.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.4 Maßeinheiten</span>](masseinheiten.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.5 Umsatzsteuergruppen</span>](umsatzsteuergruppen.md)
 
