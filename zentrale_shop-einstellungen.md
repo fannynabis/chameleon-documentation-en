@@ -4,7 +4,7 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.1 Shops</span>](shops.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.2 Extranet-Konfiguration</span>](konfiguration.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.2 Extranet-Konfiguration</span>](extranet-konfiguration.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.3 Benutzerländer</span>](benutzerlander_hauptgruppe_shop_einstellungen.md)
 
