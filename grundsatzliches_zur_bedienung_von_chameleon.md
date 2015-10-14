@@ -8,7 +8,7 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.3 Menüführung</span>](menufuhrung.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.4 Listenansicht von Datensätzen</span>](listenansicht_von_datensatzen)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.4 Listenansicht von Datensätzen</span>](listenansicht_von_datensatzen.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.5 Tabelle / Datensatz</span>](tabelle__datensatz.md)
 
