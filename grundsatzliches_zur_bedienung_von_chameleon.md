@@ -10,7 +10,7 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.4 Listenansicht von Datensätzen</span>](listenansicht_von_datensatzen)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.5 Tabelle / Datensatz</span>](tabelle__datensatz)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.5 Tabelle / Datensatz</span>](tabelle__datensatz.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.6 Navigationsverwaltung</span>](navigationsverwaltung.md)
 
