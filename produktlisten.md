@@ -2,7 +2,7 @@
 
 #### Inhalt
 
-<p style="text-indent: 3em;">[<span style="color:#B7C66E">4.7.2.1 Automatische Artikelliste anlegen</span>](modul produktliste.md)
+<p style="text-indent: 3em;">[<span style="color:#B7C66E">4.7.2.1 Automatische Artikelliste anlegen</span>](automatische_artikelliste_anlegen.md)
 
 <p style="text-indent: 3em;">[<span style="color:#B7C66E">4.7.2.2 Artikellisten mit dem Multimodul anlegen</span>](artikellisten_mit dem_multimodul_anlegen.md)
 
