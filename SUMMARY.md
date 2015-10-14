@@ -1,7 +1,7 @@
 # Summary
 
 * [Chameleon Dokumentation](README.md)
-* [Vorbemerkungen](chameleon_dokumentation.md)
+* [Preliminary Remark](chameleon_dokumentation.md)
    * [Frontend und Backend](frontend_und_backend.md)
    * [Testsystem und Live-System](testsystem_und_live-system.md)
    * [Datenbackup](datenbackup.md)
