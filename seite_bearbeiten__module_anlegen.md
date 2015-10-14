@@ -12,6 +12,8 @@ Bei einem bereits angelegten Modul gelangen Sie ebenfalls über ***Funktionen***
 
 ![](bild20.png)
 
+<br>
+
 | Bezeichnung | Beschreibung |
 | -- | -- |
 | Editieren | Führt zu den Modul-Einstellungen bzw. zum Editieren der Inhalte des Moduls. Besteht das Modul aus mehreren Datentabellen, z.B. bei einer Liste, die Konfiguration der Liste (Sortiereinstellungen etc.) und Listeneinträge, so werden ihnen 2 Editiermöglichkeiten angeboten. |
