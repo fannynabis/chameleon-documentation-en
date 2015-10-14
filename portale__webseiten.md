@@ -14,9 +14,9 @@ According to the portal you can determine several domain names where you can cal
 
 Every portal will be subdivided in several sections. In this process at least one section per navigation starting point should be defined. You can deposit settings on those sections which should be valid for a sub tree within a portal (means for a number of sites). This includes among other things the language of the section.
 
-Die zu einem Portal gehörenden Seiten können in mehrere Navigationen (Top- Navigation, Primäre Navigation, Footer-Navigation usw.) unterteilt werden. Dabei ist jeder Navigationseinstiegspunkt auch gleichzeitig der URL-Startpunkt der sich darunter befindenden Seiten (der Navigationspunkt selbst wird dabei nicht mehr mit in der URL geführt).
+~~Die zu einem Portal gehörenden Seiten können in mehrere Navigationen (Top- Navigation, Primäre Navigation, Footer-Navigation usw.) unterteilt werden. Dabei ist jeder Navigationseinstiegspunkt auch gleichzeitig der URL-Startpunkt der sich darunter befindenden Seiten (der Navigationspunkt selbst wird dabei nicht mehr mit in der URL geführt).~~
 
-Pages which belong to a portal can be classified in several navigations (top navigations, primary navigations, footer navigations etc.). In so doing every navigation starting point is the url starting point at the same time.
+Pages which belong to a portal can be classified in several navigations (top navigations, primary navigations, footer navigations etc.). In so doing every navigation starting point is the url starting point at the same time. In this regard the navigation point itself does not run under this URL anymore.
 
 Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
