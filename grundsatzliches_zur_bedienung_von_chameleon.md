@@ -2,7 +2,7 @@
 
 #### Inhalt
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.1 Persönliches Benutzerprofil</span>](persoenliches_benutzerprofil.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">2.1 Persönliches Benutzerprofil</span>](personliches_benutzerprofil.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">2.2 Portale / Webseiten</span>](portale__webseiten.md)
 
