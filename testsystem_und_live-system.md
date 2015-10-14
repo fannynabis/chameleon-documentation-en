@@ -1,6 +1,6 @@
 # Testsystem und Live-System
 
-It is basically recommended to first make or test changes on stage (www.[domainname.ending].stage.esono.de). After the successful acceptance it will 
+It is basically recommended to first make or test changes on stage (www.[domainname.ending].stage.esono.de). After a successful acceptance the changes will be loaded to the Live-System via Deploy (= copy the entire actual-state of a file system from a development version).
 
 
 
