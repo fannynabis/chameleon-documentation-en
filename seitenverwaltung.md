@@ -8,7 +8,7 @@
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.3 Seite löschen</span>](seite_loschen.md)
 
-<p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.4 Mehrere Seiten mit einem Navigationspunkt verbinden</span>](mehrere_seiten_mit einem_navigationspunkt_verbinden.md)
+<p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.4 Mehrere Seiten mit einem Navigationspunkt verbinden</span>](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E"2.7.5 Eine Seite mit mehreren Navigationspunkten verknüpfen</span>](eine_seite_mit_mehreren_navigationspunkten.verknupfen.md)
 
