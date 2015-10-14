@@ -16,6 +16,10 @@
 
 <p style="text-indent: 2em;">[<span style="color:#B7C66E">2.7.6 Seiten-Layouts</span>](seiten-layouts.md)
 
+<br>
+
+<br/>
+
 Eine Liste aller *Seiten* wird über Seiten im Topmenü geladen. Alternativ kann die Liste über das Hauptmenü *Website → Meine Webseiten* geöffnet werden. Die Liste zeigt neben dem Namen der Seite auch den oder die zugewiesenen Navigationspunkte. Bitte beachten Sie, dass der Name der Seite nur im CMS verwendet wird. Auf der Webseite wird für den Namen der Seite der zugewiesene Hauptnavigationspunkt verwendet.
 
 ![](bild15.png)
