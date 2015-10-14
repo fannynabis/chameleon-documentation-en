@@ -5,7 +5,7 @@
 In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die Suchfunktion ermöglicht ein schnelles Auffinden des gesuchten Artikels. Die Artikel gelangen entweder per Import in den Shop oder werden manuell angelegt.
 
 
-
+<br>
 
 
 #### Basisdaten
@@ -23,7 +23,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Aktiv** | Inaktive Artikel werden im Shop nicht angezeigt. | ja |
 | **Tags / Schlagworte** | Wird auf der Artikeldetailseite ausgegeben. Artikel mit gleichen Tags können so in einer Artikelliste ausgegeben werden. | nein |
 
-
+<br>
 
 
 #### Beschreibung
@@ -34,9 +34,9 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Kurzbeschreibung** | Eine kurze Zusammenfassung, die den Artikel möglichst treffend beschreibt. Die Anzeige der Kurzbeschreibung ist abhängig vom gewählten Seitentemplate (View), gewöhnlich wird sie in der Artikelliste mit aufegführt. | nein |
 | **Beschreibung** | Ausführliche Beschreibung des Artikels auf der Artikeldetailseite | nein |
 
+<br>
 
-
-##### Kategorie / Merkmale
+#### Kategorie / Merkmale
 
 
 | Bezeichnung | Beschreibung | erforderlich |
@@ -52,6 +52,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **Zum Arktikel beitragende Personen** | Hier werden Personen oder Firmen hinterlegt, die in die Produktion des Artikels involviert waren (z.B. als Autor oder Sprecher). Die Anzeige ist abhängig vom gewählten Seitentemplate. | nein |
 | **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |
 
+<br>
 
 #### Preis / Versand
 
@@ -64,6 +65,7 @@ In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die
 | **keine Gutscheine zulassen** | JA: im Warenkorb angewendeten Gutscheine wirken sich nicht auf dieses Produkt aus. | nein |
 | **keine Rabatte zulassen** | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
 
+<br>
 
 #### Inhalt / Maße / Gewicht
 
@@ -73,9 +75,13 @@ Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterleg
 
 Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3.4 Maßeinheiten**).
 
+<br>
+
 #### Varianten
 
 Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.
+
+<br>
 
 ####Lager
 
@@ -85,13 +91,13 @@ Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bek
 | **Bei 0 Bestand Vormerken anbieten** | Sinkt der Bestand auf „0“, wird ein Formular zum Vormerken des Artikels auf der Artikeldetailseite angezeigt. | nein |
 | **Lieferstatus** | Ein meist vom Shopbetreiber vorgegebener Status wie „nicht lieferbar“ oder „sofort lieferbar“, der auf der Artikeldetailseite angezeigt werden kann. Im Datensatz des Lieferstatus (Lagerbestandsmeldung) kann definiert werden, ob der Artikel automatisch deaktiviert werden soll, wenn der Bestand 0 ist. Bei NEIN ist der Artikel also immer noch sichtbar, auch wenn der Bestand ≤0 ist. | nein |
 
-
+<br>
 
 #### Cross Selling
 
 Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **4.9 Produktlisten**).
 
-
+<br>
 
 #### SEO / Meta
 
@@ -103,6 +109,7 @@ Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Ar
 
 Unter „Metadaten“ können die Metadaten speziell für dieses Produkt überschrieben werden.
 
+<br>
 
 #### Suche
 
@@ -113,6 +120,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Ist suchbar** | Definiert, ob der Artikel in den Suchindex aufgenommen wird. | nein |
 | **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
 
+<br>
 
 #### Bewertungen
 
@@ -121,6 +129,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Anzahl Sterne** | Gibt die durchschnittliche Benutzerbewertung des Produktes an | nein |
 | **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |
 
+<br>
 
 #### Bundle
 
@@ -129,6 +138,7 @@ Unter „Metadaten“ können die Metadaten speziell für dieses Produkt übersc
 | **Ist ein Bundle** | Bundles werden als echtes Produkt im Shop geführt. Hier muss also eine eigene Beschreibung, eigene Bilder, ein eigener Preis, usw. hinterlegt werden. Um das Bundle als solches zu erkennen, wird das Produkt über „Ist ein Bundle“ als Bundle markiert. Zusätzlich werden alle zu dem Bundle gehörenden Produkte dem Bundle zugewiesen. Bei der Zuweisung jedes Artikels kann die Stückzahl mit angegeben werden. Im Warenkorb und bei allen Berechnungen wird das Bundle ebenfalls als ein Produkt behandelt. | nein |
 | **Artikel, die zu diesem Bundle gehören** | Wenn es sich um ein Bundle handelt, können hier die zu dem Bundle gehörenden Produkte hinterlegt werden. **<u>Wichtig</u>**: Alle dem Bundle zugewiesenen Produkte werden dabei ignoriert. Rabatte, Gutscheine, Zahlmethoden, Versandkosten und Mehrwertsteuerregeln gelten also nie für die einzelnen Produkte in dem Bundle, sondern immer nur für das Bundle-Produkt. | nein |
 
+<br>
 
 #### Stats
 

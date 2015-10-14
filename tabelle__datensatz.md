@@ -4,14 +4,20 @@ Im oberen Bereich werden, wie in der Listenansicht, die verfügbaren Funktionen
 
 ![](bild10.png)
 
+<br>
+
 ##### Speichern
 
 Über den Button wird der aktuelle Stand der Daten in die Datenbank geschrieben. Sollten nicht alle Pflichtangaben ausgefüllt worden sein, wird der Speichervorgang mit einer entsprechenden Meldung unterbrochen (es werden also keine Daten gespeichert).
+
+<br>
 
 
 ##### Kopieren
 
 Kopiert den aktuellen Datensatz *direkt aus der Datenbank*. Sollten also Änderungen gemacht worden sein, die noch nicht gespeichert wurden, dann sind diese Änderungen weder im Original-Datensatz noch in der Kopie enthalten.
+
+<br>
 
 ##### Neu
 
@@ -19,19 +25,27 @@ Legt einen neuen, leeren Datensatz an.
 
 **ACHTUNG**: Auch wenn Sie den Datensatz nicht befüllen und noch nicht gespeichert haben, ist dieser angelegt. Wenn Sie also versehentlich einen neuen Datensatz erstellt haben, löschen Sie ihn wieder. Ansonsten weist das Backend zahlreiche leere Datensätze auf (in der Listenansicht können Sie prüfen, ob leere Datensätze vorhanden sind).
 
+<br>
+
 ##### Löschen
 
 Löscht den aktiven Datensatz. Nach dem Löschen landet der Benutzer wieder auf der Listenansicht der Tabelle.
 
+<br>
+
 ##### Sprache kopieren
 
 Hier werden Felder, die in der aktuellen Sprache nicht übersetzt sind, aus der anderen Sprache kopiert.
+
+<br>
 
 ##### Datensatz wechseln
 
 Im oberen Bereich des Datensatzes steht ein Eingabefeld zur Verfügung über welches andere Datensätze aus der Datensatzliste geladen werden können. Angezeigt und durchsucht wird immer das Namensfeld der Datensätze.
 
 ![](bild11.png)
+
+<br>
 
 ##### Datensatz Details
 

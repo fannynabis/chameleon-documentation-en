@@ -6,10 +6,9 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">5.2 Kundengruppen<span>](kundengruppen.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">5.3 Kundenrezension</span>](kundenrezension.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">5.3 Kundenrezension</span>](kundenrezensionen.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">5.4 Artikelempfehlungen von Kunden</span>](artikelempfehlung_von_kunden.md)
-
 
 
 <br> 

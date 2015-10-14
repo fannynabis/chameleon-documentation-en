@@ -6,6 +6,10 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">9.2 Suchwortwolke</span>](suchwortwolke.md)
 
+<br>
+
+<br/>
+
 Der Shop verfügt über zwei unterschiedliche Suchen. In der einfachen Suche gibt der Kunde einen Suchbegriff ein, zu dem das System versucht, möglichst gute Treffer anhand der Eingabe zu produzieren. In der erweiterten Suche kann der Kunde nach bestimmten Werten in vordefinierten Feldern (z.B. Titel, Kategorie usw.) suchen.
 
 Die Suche nutzt ein gewichtetes Teilindex-System, welches auch bei hoher Belastung  schnelle und zuverlässige Suchtreffer ermöglicht. Das System ermöglicht eine Gewichtung einzelner Felder, einer Gewichtung von Ganzwörtern im Vergleich zu Teilwörtern sowie einer Klangsuche (so werden auch ähnlich klingende Worte gefunden). Über eine Rechtschreibkorrektur werden außerdem die meisten Rechtschreibfehler berichtigt und Korrekturvorschläge angezeigt.

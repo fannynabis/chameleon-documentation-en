@@ -1,5 +1,7 @@
 # Newsletter erstellen und versenden
 
+<br>
+
 #### Newsletter-Seite erstellen
 
 ![](bild63.png)
@@ -9,6 +11,8 @@ Der Newsletter wird als Seite im Backend angelegt. Sie können die Newsletter z.
 Für ein einheitliches CI empfiehlt es sich, vorab eine Seitenvorlage für den Newsletter zu erstellen, die Sie dann einfach bei jeder Newsletter-Seite verwenden können (Navigation editieren → Seiten/Layouts).
 
 Auf der angelegten Seite können Sie nun die dynamischen Steckplätze editieren. Durch Eingabe des Pfades in die Adressleiste Ihres Browsers können Sie den erstellten Newsletter abrufen, oder nutzen Sie die Vorschau-Funktion im Backend.
+
+<br>
 
 #### Kampagen anlegen
 
@@ -34,6 +38,8 @@ Wenn der Test erfolgreich war, verknüpfen Sie nun die richtige Empfängerliste 
 <u>Hinweis:</u> Um Änderungen an den Warteschlangen-Einträgen zu sehen, müssen Sie die Kampagne neu aufrufen.
 
 Um Text-Newsletter ebenfalls zu ermöglichen, besteht die Möglichkeit, zu jedem Newsletter eine Nur-Textversion der Inhalte über  das Textfeld *Inhaltstext* (sh. *Basidaten*) zu hinterlegen. Da die meisten Mailprogramme nur stark eingeschränktes HTML zulassen, kann eine spezielle Seitenvorlage für den Newsletter erstellt werden. Hierbei kann auf alle Funktionen des CMS zurückgegriffen werden. Jeder Newsletter ist auch über die Webseite selbst erreichbar und enthält automatisch einen Link auf die entsprechende Seite. Dadurch kann man Kunden, bei denen der Newsletter nicht richtig dargestellt wird oder welche nur Textmails empfangen können, durch Zusenden dieses Links im Text-Newsletter den Newsletter so anzeigen, wie er ursprünglich vom Designer entworfen wurde.
+
+<br>
 
 #### Cronjob Newsletter versenden
 

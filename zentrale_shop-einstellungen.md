@@ -4,15 +4,15 @@
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.1 Shops</span>](shops.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.2 Extranet-Konfiguration</span>](konfiguration.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.2 Extranet-Konfiguration</span>](extranet-konfiguration.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.3 Benutzerländer</span>](benutzerlander_hauptgruppe_shop_einstellungen.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.4 Maßeinheiten</span>](maßeinheiten.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.4 Maßeinheiten</span>](masseinheiten.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.5 Umsatzsteuergruppen</span>](umsatzsteuergruppen.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.6 Variantensets</span>](varientensets.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">3.6 Variantensets</span>](variantensets.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">3.7 Währungen</span>](wahrungen.md)
 
