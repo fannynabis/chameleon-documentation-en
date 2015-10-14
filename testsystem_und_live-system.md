@@ -1,6 +1,6 @@
 # Testsystem und Live-System
 
-
+It is basically recommended to first make or test changes on stage (www.[domainname.ending].stage.esono.de).
 
 
 
