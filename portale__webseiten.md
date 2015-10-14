@@ -20,6 +20,8 @@ Pages which belong to a portal can be classified in several navigations (top nav
 
 Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
+If there is just one portal which is definded
+
 <br> 
 
 
