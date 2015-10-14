@@ -8,6 +8,8 @@
 
 Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menüpunkt kann entweder mit einer Seite oder auch mit einer Artikelkategorie verknüpft werden.
 
+<br>
+
 | Bezeichnung | Beschreibung |
 | -- | -- |
 | **Gehört zum Portal** | Wählen Sie den Name des Portals aus (sofern Sie mehrere Portale im CMS verwalten). |
