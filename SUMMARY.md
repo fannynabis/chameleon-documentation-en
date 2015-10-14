@@ -2,7 +2,7 @@
 
 * [Chameleon Dokumentation](README.md)
 * [Preliminary Remark](chameleon_dokumentation.md)
-   * [Frontend und Backend](frontend_und_backend.md)
+   * [Frontend and Backend](frontend_und_backend.md)
    * [Testsystem und Live-System](testsystem_und_live-system.md)
    * [Datenbackup](datenbackup.md)
    * [Backend](backend.md)
