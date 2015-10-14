@@ -9,7 +9,7 @@ Anwenderdokumentation Chameleon Shop Version 6.0
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">1.1 Frontend und Backend</span>](frontend_und_backend.md)
 
-<p style="text-indent: 1em;">[<span style="color:#B7C66E">1.2 Testsystem und Live-System</span>](3_testsystem_und_live-system.md)
+<p style="text-indent: 1em;">[<span style="color:#B7C66E">1.2 Testsystem und Live-System</span>](testsystem_und_live-system.md)
 
 <p style="text-indent: 1em;">[<span style="color:#B7C66E">1.3 Datenbackup</span>](datenbackup.md)
 
