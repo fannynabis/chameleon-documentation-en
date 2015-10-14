@@ -5,4 +5,4 @@ Die projektspezifischen Daten (s.o.) werden standardmäßig im Live-System jede 
 
 Customerspecific data (see above) will be fully saved every single night by default. In so doing the yesterday's Backup will be transferred. In case where users accidentally delete data it is possible to resource the latest version from the day before. So in the event of a loss of data you have to restore it from the backup immediately on the same day.
 
-A backup of customer specific data will be created every night by default. Every backup overwrites the backup of the day before. Thus, data accidentally deleted by a user can only result in a restore of the complete backup created the day before. This means that a backup has to be restored withing one day in case of data loss.
+Maxi: A backup of customer specific data will be created every night by default. Every backup overwrites the backup of the day before. Thus, data accidentally deleted by a user can only result in a restore of the complete backup created the day before. This means that a backup has to be restored withing one day in case of data loss.
