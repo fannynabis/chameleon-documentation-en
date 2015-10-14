@@ -1,3 +1,3 @@
 # Frontend und Backend
 
-Im Frontend gehen wir (falls nichts anderes während der Projektplanung vorgegeben) davon aus, dass die Benutzer grundsätzlich Browser der neuesten Generation verwenden. Wir bitten Sie, für das Backend ebenfalls einen Browser der aktuellen Generation zu nutzen (vorzugsweise Chrome oder Mozilla Firefox).
+Unless otherwise specified during your project, we assume that every user basically uses the newest version of their browsers. We kindly request you to use the newest version for the backend as well (Chrome or Mozzilla Firefox are preferred).
