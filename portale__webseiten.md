@@ -2,11 +2,13 @@
 
 *CMS / Portal Settings → Portals / Websites*
 
-Mit Chameleon können mehrere Webseiten oder Shops parallel betrieben werden. Jede dieser Webseiten wird als Portal geführt. An dieser Stelle legen Sie die Grundeinstellungen Ihrer Webseite fest.
+~~Mit Chameleon können mehrere Webseiten oder Shops parallel betrieben werden. Jede dieser Webseiten wird als Portal geführt. An dieser Stelle legen Sie die Grundeinstellungen Ihrer Webseite fest.~~
 
-You can manage several websites and shops via Chameleon simultaneously. Each of these websites will be operated as a portal. You will efine Basic Settings at this point.
+You can manage several websites and shops via Chameleon simultaneously. Each of these websites will be operated as a portal. You will define your Basic Settings at this point.
 
 Je Portal können beliebige Domain-Namen hinterlegt werden, unter welchen die Webseite erreichbar sein soll. Neben einer Domain-Unterscheidung, können auch mehrere Portale auf der gleichen Domain laufen, müssen dann aber über einen URL-Präfix unterscheidbar sein.
+
+According to the portal you can determine several domain names where you can call your website. It is possible to have a few portals running under the same domain if they are distinguished by different url prefixes.
 
 Jedes Portal wird in Chameleon in Bereiche unterteilt. Dabei sollte mindestens ein Bereich je Navigationsstartpunkt definiert werden. Über die Bereiche lassen sich Einstellungen hinterlegen, die für einen Sub-Baum innerhalb des Portals (also für eine ganze Reihe von Seiten) gelten soll. Dazu gehört unter anderem die Sprache des Bereichs.
 
