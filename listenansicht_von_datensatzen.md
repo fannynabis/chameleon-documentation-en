@@ -14,7 +14,7 @@ Datas with more than one data set will be displayed via lists.
 
 ~~Die Listen können durch klicken auf die Spaltennamen umsortiert werden. Wird bereits nach einer Spalte sortiert, wird neben dem Spaltennamen angezeigt an welcher Stellung die Sortierung steht. Eine eins (1) deutet also darauf hin, dass nach diesem Feld primär sortiert wird, eine zwei (2) darauf, dass nach diesem Feld sekundär sortiert wird, usw. Zusätzlich wird die Sortierrichtung über einen kleinen Pfeil angezeigt.~~
 
-Lists can be resorted via clicking the column name. If it is already sorting by a column the sorting priority will be shown (next to the column name). For example: Number one indicates that this is the field the sorting is running primarily, Number two indicates a sorting with a second priority and so on. Furthermore the sorting direction is indicated by a small arrow. 
+Lists can be resorted via clicking the column name. If it is already sorting by a column the sorting priority will be shown next to the column name. For example: Number one indicates that this is the field the sorting is running primarily, Number two indicates a sorting with a second priority and so on. Furthermore the sorting direction is indicated by a small arrow. 
 
 ~~Klickt man auf ein Spaltennamen nach dem bereits aufsteigend Sortiert wird, ändert sich die Sortierrichtung von Aufsteigend auf Absteigend. Ein erneutes Klicken entfernt die Sortierung wieder.~~
 
