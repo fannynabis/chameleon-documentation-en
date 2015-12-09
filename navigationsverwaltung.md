@@ -1,4 +1,4 @@
-# Navigationsverwaltung
+# Navigation Management
 
 Die Navigationsverwaltung öffnet sich über den Button *Navigation* im Topmenü (in einem PopUp-Fenster). Über die Navigationsverwaltung lässt sich die Seitenstruktur der Webseite definieren.
 
