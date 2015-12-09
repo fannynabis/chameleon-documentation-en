@@ -37,6 +37,7 @@ If only one portal is defined, you get to the portal settings directly. If there
 | Domains | Alle für das Portal zuständigen Domains, über welche das Portal erreichbar sein soll. | ja |
 | Systemmeldungen / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
 
+
 | Bezeichnung | Beschreibung | Erforderlich |
 | -- | -- | -- |
 | Name | Verwendung im CMS-Backend | ja |
