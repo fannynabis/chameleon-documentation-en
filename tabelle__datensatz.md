@@ -59,6 +59,8 @@ The active data set will be deleted. Afterwards the user will get displayed the 
 
 Hier werden Felder, die in der aktuellen Sprache nicht übersetzt sind, aus der anderen Sprache kopiert.
 
+At this point 
+
 <br>
 
 ##### Datensatz wechseln
