@@ -1,6 +1,8 @@
 # Menu navigation
 
-Über das Top-Menü (schwarze Leiste oben) haben Sie einen Schnellzugriff auf die Navigation, die Seiten, Medien und Dokumente, verschiedene Editiersprachen, das Frontend, den Cache und die Hilfe. Darunter findet sich das Hauptmenü, welches in verschiedene Blöcke unterteilt ist. 
+~~Über das Top-Menü (schwarze Leiste oben) haben Sie einen Schnellzugriff auf die Navigation, die Seiten, Medien und Dokumente, verschiedene Editiersprachen, das Frontend, den Cache und die Hilfe. Darunter findet sich das Hauptmenü, welches in verschiedene Blöcke unterteilt ist. ~~
+
+You can have a quick asset to the navigation, the pages, medias and documents, several editing languages, the frontend, the cache and the support button via clicking the top menu (black bar above). The main menu is classified in several blocks below.
 
 ![](bild6.png)
 
