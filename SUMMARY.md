@@ -11,7 +11,7 @@
    * [Portals / Websites](portale__webseiten.md)
    * [Menu navigation](menufuhrung.md)
    * [List view of data sets](listenansicht_von_datensatzen.md)
-   * [Tabelle / Datensatz](tabelle__datensatz.md)
+   * [Table / Data Set](tabelle__datensatz.md)
    * [Navigationsverwaltung](navigationsverwaltung.md)
    * [Seitenverwaltung](seitenverwaltung.md)
        * [Seite anlegen](seite_anlegen.md)
