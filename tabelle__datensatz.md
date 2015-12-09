@@ -65,7 +65,7 @@ At this point those text fields will be copied from another language, in case th
 
 ~~##### Datensatz wechseln~~
 
-#### Change Data Set
+##### Change Data Set
 
 ~~Im oberen Bereich des Datensatzes steht ein Eingabefeld zur Verfügung über welches andere Datensätze aus der Datensatzliste geladen werden können. Angezeigt und durchsucht wird immer das Namensfeld der Datensätze.~~
 
