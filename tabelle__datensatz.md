@@ -49,6 +49,8 @@ Creates a new, empty data set.
 
 Löscht den aktiven Datensatz. Nach dem Löschen landet der Benutzer wieder auf der Listenansicht der Tabelle.
 
+The active data set will be deleted. Afterwards the user will get displayed the list view of the table.
+
 <br>
 
 ##### Sprache kopieren
