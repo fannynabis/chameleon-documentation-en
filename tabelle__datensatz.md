@@ -1,21 +1,27 @@
 # Table / Data Set
 
-Im oberen Bereich werden, wie in der Listenansicht, die verfügbaren Funktionen aufgeführt. Diese können auch jederzeit über das Rechtsklick-Menü im Datensatz erreicht werden.
+~~Im oberen Bereich werden, wie in der Listenansicht, die verfügbaren Funktionen aufgeführt. Diese können auch jederzeit über das Rechtsklick-Menü im Datensatz erreicht werden.~~
 
-Available functions are shown in the upper area (how list view displays). You can also reach them via right-klick menu within the data set.
+Available functions are shown in the upper area (same like list view). You can also reach them via right-klick menu within the data set.
 
 ![](bild10.png)
 
 <br>
 
-##### Speichern
+~~##### Speichern~~
 
-Über den Button wird der aktuelle Stand der Daten in die Datenbank geschrieben. Sollten nicht alle Pflichtangaben ausgefüllt worden sein, wird der Speichervorgang mit einer entsprechenden Meldung unterbrochen (es werden also keine Daten gespeichert).
+##### Saving
+
+~~Über den Button wird der aktuelle Stand der Daten in die Datenbank geschrieben. Sollten nicht alle Pflichtangaben ausgefüllt worden sein, wird der Speichervorgang mit einer entsprechenden Meldung unterbrochen (es werden also keine Daten gespeichert).~~
+
+Via clicking the button the current status will be written to the database. In case of missing mandatory details the saving process will be interrupted by a corresponding message (therefore nothing will be saved).
 
 <br>
 
 
-##### Kopieren
+~~##### Kopieren~~
+
+##### Copy
 
 Kopiert den aktuellen Datensatz *direkt aus der Datenbank*. Sollten also Änderungen gemacht worden sein, die noch nicht gespeichert wurden, dann sind diese Änderungen weder im Original-Datensatz noch in der Kopie enthalten.
 
