@@ -43,7 +43,9 @@ Creates a new, empty data set.
 
 <br>
 
-##### Löschen
+~~##### Löschen~~
+
+##### Delete
 
 Löscht den aktiven Datensatz. Nach dem Löschen landet der Benutzer wieder auf der Listenansicht der Tabelle.
 
