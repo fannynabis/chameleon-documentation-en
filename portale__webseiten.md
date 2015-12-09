@@ -84,7 +84,7 @@ At this point you can determine the content of robots.txt. Please note that the 
 
 ##### Save / Edit page tree
 
-Am oberen Rand des Datensatzes steht der Button ***Seitenbaum Editieren*** zur Verfügung.
+~~Am oberen Rand des Datensatzes steht der Button ***Seitenbaum Editieren*** zur Verfügung.~~
 
 The button ***Edit page tree*** is available on the upper edge of the record.
 
