@@ -87,6 +87,6 @@ The ID of the active data set is shown in the left upper section. In this contex
 
 This is followed by a list which includes every single field of the data set. There is a little questionmark on the left to some input fields. Behind this there is a support and explanatory text for the relevant field. The text will be shown by clicking on it.
 
-**Wichtig**: Bei manchen Feldern wird bei Editieren die Seite gewechselt. Da das System Änderungen nicht automatisch speichert, sollte der Benutze diese vorher durch ein Klick auf den *Speichern*-Button sichern.
+~~**Wichtig**: Bei manchen Feldern wird bei Editieren die Seite gewechselt. Da das System Änderungen nicht automatisch speichert, sollte der Benutze diese vorher durch ein Klick auf den *Speichern*-Button sichern.~~
 
-Note that sometimes theres a change of the page while editing. The system does not save changes automatically, so the user should do that first by clicking the button.
+**Attention**: Note that sometimes theres a change of the page while editing. The system does not save changes automatically, so the user should do that first by clicking the button.
