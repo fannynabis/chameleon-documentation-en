@@ -88,8 +88,10 @@ At this point you can determine the content of robots.txt. Please note that the 
 
 The button ***Edit page tree*** is available on the upper edge of the dataset.
 
-Hier haben Sie die Möglichkeit, den Seitenbaum des ausgewählten Portals zu editieren. Sie können die einzelnen Baumknoten per Drag&Drop verschieben oder mit der rechten Maustaste (Mac = Apfel linksklick) auf die Editiermöglichkeiten im Kontextmenü
-zugreifen.
+~~Hier haben Sie die Möglichkeit, den Seitenbaum des ausgewählten Portals zu editieren. Sie können die einzelnen Baumknoten per Drag&Drop verschieben oder mit der rechten Maustaste (Mac = Apfel linksklick) auf die Editiermöglichkeiten im Kontextmenü
+zugreifen.~~
+
+In here it is possible to edit the page tree of the selected portal. You can move every single tree node via drag&drop or by clicking the right mouse button (mac = apple and left-click) and selecting editing possibilities in the context menu.
 
 ![](bild5.png)
 
