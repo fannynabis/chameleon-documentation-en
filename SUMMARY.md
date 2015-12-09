@@ -10,7 +10,7 @@
    * [Personal user profile](personliches_benutzerprofil.md)
    * [Portals / Websites](portale__webseiten.md)
    * [Menu navigation](menufuhrung.md)
-   * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
+   * [List view of data sets](listenansicht_von_datensatzen.md)
    * [Tabelle / Datensatz](tabelle__datensatz.md)
    * [Navigationsverwaltung](navigationsverwaltung.md)
    * [Seitenverwaltung](seitenverwaltung.md)
