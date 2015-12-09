@@ -88,3 +88,5 @@ The editor for a data set is getting opened by one klick (appropriate permission
 ##### Other Functions
 
 Je nach Rechten und Tabelle werden neben dem ***Neuen Eintrag anlegen*** und ***Markierte Löschen*** weitere Funktionen aufgeführt. Dazu gehört z.B. der Button ***Tabelleneinstellungen*** über den ein Admin-Benutzer die Definition der Tabelle ändern kann.
+
+Depending on permissions and tables you will get listed other functions in addition to *Creating a New Entry* and *Delete selected only*.
