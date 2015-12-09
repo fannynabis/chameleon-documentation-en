@@ -43,7 +43,7 @@ It is possible to search for one or also several terms within the list (via sear
 
 You can find a grouping field next to the searching field in some lists. If you chose one group, you will get shown those items, which are assigned to the choosen group.
 
-In diesen gruppierten Listen werden alle Einträge unter der jeweils zugewiesen Gruppe aufgeführt. Dabei kann es durchaus vorkommen, dass ein Eintrag mehr als einer Gruppe zugewiesen wurde und daher mehr als einmal auftaucht.
+~~In diesen gruppierten Listen werden alle Einträge unter der jeweils zugewiesen Gruppe aufgeführt. Dabei kann es durchaus vorkommen, dass ein Eintrag mehr als einer Gruppe zugewiesen wurde und daher mehr als einmal auftaucht.~~
 
 Every item will be listed under its associated group. It may occure that one item is associated to several groups, which causes that it also will be shown several times.
 
@@ -53,7 +53,9 @@ Every item will be listed under its associated group. It may occure that one ite
 
 ##### Delete data sets
 
-Benutzer mit entsprechenden Rechten können Datensätze aus der Listenansicht löschen. Einzelne Datensätze werden über das rote X rechts gelöscht. Mehrere Datensätze können auf einmal gelöscht werden, indem die Checkbox vor jedem Datensatz markiert und dann der Button "Markierte löschen" betätigt wird.
+~~Benutzer mit entsprechenden Rechten können Datensätze aus der Listenansicht löschen. Einzelne Datensätze werden über das rote X rechts gelöscht. Mehrere Datensätze können auf einmal gelöscht werden, indem die Checkbox vor jedem Datensatz markiert und dann der Button "Markierte löschen" betätigt wird.~~
+
+Users with appropriate permissions are able to delete data sets from the list. Single data sets can be deleted via the red X on the right. It is also possible to delete several data sets at once by clicking their check boxes and the button "Delete selected only" afterwards.
 
 <br>
 
