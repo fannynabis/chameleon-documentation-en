@@ -76,6 +76,7 @@ If you do have installed this package, you can enter an AddThis profile-id here.
 ~~Hier kann der Inhalt der robots.txt festgelegt werden. Bitte beachten: Der Feldinhalt wird nur ausgespielt, wenn KEINE robots.txt im document root hinterlegt wurde!~~
 
 At this point you can determine the content of robots.txt. Please note that the content is only getting displayed , if no robots.txt is stored in the document root.
+
 ![](bild3.png)
 
 ##### Speichern / Seitenbaum editieren
