@@ -18,9 +18,9 @@ Every portal will be subdivided in several sections. In this process at least on
 
 Pages which belong to a portal can be classified in several navigations (top navigations, primary navigations, footer navigations etc.). In so doing every navigation starting point is the url starting point at the same time. In this regard the navigation point itself does not run under this URL anymore.
 
-Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
-
-If there is just one portal which is definded
+~~Ist nur ein Portal definiert, gelangt man direkt in die Einstellungen des Portals, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
+~~
+If there is just one portal which is defined, you get to the portal settings directly. If there are several portals which are defined, a selection is displayed.
 
 <br> 
 
