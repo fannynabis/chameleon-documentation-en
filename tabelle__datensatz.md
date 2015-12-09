@@ -2,6 +2,8 @@
 
 Im oberen Bereich werden, wie in der Listenansicht, die verfügbaren Funktionen aufgeführt. Diese können auch jederzeit über das Rechtsklick-Menü im Datensatz erreicht werden.
 
+Available functions are shown in the upper area (how list view displays). You can also reach them via right-klick menu within the data set.
+
 ![](bild10.png)
 
 <br>
