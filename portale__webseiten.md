@@ -86,7 +86,7 @@ At this point you can determine the content of robots.txt. Please note that the 
 
 ~~Am oberen Rand des Datensatzes steht der Button ***Seitenbaum Editieren*** zur Verfügung.~~
 
-The button ***Edit page tree*** is available on the upper edge of the record.
+The button ***Edit page tree*** is available on the upper edge of the dataset.
 
 Hier haben Sie die Möglichkeit, den Seitenbaum des ausgewählten Portals zu editieren. Sie können die einzelnen Baumknoten per Drag&Drop verschieben oder mit der rechten Maustaste (Mac = Apfel linksklick) auf die Editiermöglichkeiten im Kontextmenü
 zugreifen.
