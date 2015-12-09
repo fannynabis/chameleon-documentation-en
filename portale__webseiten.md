@@ -38,14 +38,14 @@ If only one portal is defined, you get to the portal settings directly. If there
 | Systemmeldungen / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
 
 
-| Bezeichnung | Beschreibung | Erforderlich |
+| Designation | Description | Required |
 | -- | -- | -- |
 | Name | Verwendung im CMS-Backend | ja |
-| Titel des Portals | wird im title Tag der Seite verwendet und in der oberen Browserleiste dargestellt | ja |
-| Homeseite des Portals | Hier muss die Startseite des Portals verknüpft werden | ja |
-| 404 Page-Not-Found Seite | Die 404-Page wird immer angezeigt wenn eine nicht existierende Seite des Portals aufgerufen wird. | ja |
+| Name of the portal | wird im title Tag der Seite verwendet und in der oberen Browserleiste dargestellt | ja |
+| Homepage of the portals | Hier muss die Startseite des Portals verknüpft werden | ja |
+| 404 Page-Not-Found Page | Die 404-Page wird immer angezeigt wenn eine nicht existierende Seite des Portals aufgerufen wird. | ja |
 | Domains | Alle für das Portal zuständigen Domains, über welche das Portal erreichbar sein soll. | ja |
-| Systemmeldungen / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
+| System message / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
 
 ![](Bild1.png)
 
