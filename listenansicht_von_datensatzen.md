@@ -63,7 +63,7 @@ Users with appropriate permissions are able to delete data sets from the list. S
 
 ##### Creating a New Entry
 
-Benutzer mit entsprechenden Rechten können aus der Listeansicht über den Button ***Neuen Eintrag anlegen*** einen neuen Datensatz in der Tabelle erstellen.
+~~Benutzer mit entsprechenden Rechten können aus der Listeansicht über den Button ***Neuen Eintrag anlegen*** einen neuen Datensatz in der Tabelle erstellen.~~
 
 Users with appropriate permissions are able to create a new entry in the table via the list view and the button ***Creating a new Entry***.
 
@@ -73,9 +73,13 @@ Users with appropriate permissions are able to create a new entry in the table v
 
 ##### Edit data sets
 
-Durch einen Klick auf einen Datensatz wird der Editor für den Datensatz geöffnet (entsprechende Rechte vorausgesetzt).
+~~Durch einen Klick auf einen Datensatz wird der Editor für den Datensatz geöffnet (entsprechende Rechte vorausgesetzt).~~
+
+The editor for a data set is getting opened by one klick (appropriate permissions provided).
 
 <u>Bitte beachten</u>: Um einen Datensatz zu öffnen, kann in jede Spalte des Datensatzes geklickt werden, außer der Funktionsspalte sowie eventuell vorhandener Bilder. Durch ein Klick auf ein Bild wird immer eine Vorschau des Bilds angezeigt und nie der Editor geöffnet.
+
+<u>Please note</u>: 
 
 <br>
 
