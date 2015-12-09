@@ -9,7 +9,7 @@
 * [Basic Operation](grundsatzliches_zur_bedienung_von_chameleon.md)
    * [personal user profile](personliches_benutzerprofil.md)
    * [Portals / Websites](portale__webseiten.md)
-   * [Menüführung](menufuhrung.md)
+   * [menu navigation](menufuhrung.md)
    * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
    * [Tabelle / Datensatz](tabelle__datensatz.md)
    * [Navigationsverwaltung](navigationsverwaltung.md)
