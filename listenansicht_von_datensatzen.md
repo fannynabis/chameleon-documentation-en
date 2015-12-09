@@ -59,7 +59,9 @@ Users with appropriate permissions are able to delete data sets from the list. S
 
 <br>
 
-##### Neuen Eintrag anlegen
+~~##### Neuen Eintrag anlegen~~
+
+##### Creating a New Entry
 
 Benutzer mit entsprechenden Rechten können aus der Listeansicht über den Button ***Neuen Eintrag anlegen*** einen neuen Datensatz in der Tabelle erstellen.
 
