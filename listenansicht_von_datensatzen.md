@@ -77,12 +77,14 @@ Users with appropriate permissions are able to create a new entry in the table v
 
 The editor for a data set is getting opened by one klick (appropriate permissions provided).
 
-<u>Bitte beachten</u>: Um einen Datensatz zu öffnen, kann in jede Spalte des Datensatzes geklickt werden, außer der Funktionsspalte sowie eventuell vorhandener Bilder. Durch ein Klick auf ein Bild wird immer eine Vorschau des Bilds angezeigt und nie der Editor geöffnet.
+~~<u>Bitte beachten</u>: Um einen Datensatz zu öffnen, kann in jede Spalte des Datensatzes geklickt werden, außer der Funktionsspalte sowie eventuell vorhandener Bilder. Durch ein Klick auf ein Bild wird immer eine Vorschau des Bilds angezeigt und nie der Editor geöffnet.~~
 
 <u>Please note</u>: It is possible to click in every column of the data set to open it. There are exceptions: The function and if available the image column. By clicking on the image, you will always open a preview of it instead of the data sets editor.
 
 <br>
 
-##### Andere Funktionen
+~~##### Andere Funktionen~~
+
+##### Other Functions
 
 Je nach Rechten und Tabelle werden neben dem ***Neuen Eintrag anlegen*** und ***Markierte Löschen*** weitere Funktionen aufgeführt. Dazu gehört z.B. der Button ***Tabelleneinstellungen*** über den ein Admin-Benutzer die Definition der Tabelle ändern kann.
