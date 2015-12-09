@@ -1,4 +1,4 @@
-# Listenansicht von Datensätzen
+# List view of data sets
 
 Alle Daten, bei denen mehr als ein Datensatz zur Verfügung steht, werden über Listen präsentiert.
 
