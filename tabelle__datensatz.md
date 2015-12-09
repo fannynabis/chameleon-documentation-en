@@ -25,7 +25,7 @@ Via clicking the button the current status will be written to the database. In c
 
 ~~Kopiert den aktuellen Datensatz *direkt aus der Datenbank*. Sollten also Änderungen gemacht worden sein, die noch nicht gespeichert wurden, dann sind diese Änderungen weder im Original-Datensatz noch in der Kopie enthalten.~~
 
-The current data set will be copied *directly from the date base*. So if there are changes which haven't been saved, you wont get them back neither from the original date set nor in the copy.
+The current data set will be copied *directly from the date base*. So if there are changes which haven't been saved, you wont get them back neither from the original data set nor in the copy.
 
 <br>
 
