@@ -69,6 +69,7 @@ If only one portal is defined, you get to the portal settings directly. If there
 ~~Falls Sie dieses Package installiert haben, können Sie hier eine AddThis Profil-ID eingeben. Dies dient dazu, Social Media Logos und den jeweiligen Link hinzuzufügen.~~
 
 If you do have installed this package, you can enter an AddThis profile-id here. The purpose of this is to add social media logos and associating links.
+
 <br>
 
 *robots*
@@ -79,7 +80,9 @@ At this point you can determine the content of robots.txt. Please note that the 
 
 ![](bild3.png)
 
-##### Speichern / Seitenbaum editieren
+~~##### Speichern / Seitenbaum editieren~~
+
+##### Save / Edit page tree
 
 Am oberen Rand des Datensatzes steht der Button ***Seitenbaum Editieren*** zur Verfügung.
 
