@@ -65,6 +65,8 @@ Users with appropriate permissions are able to delete data sets from the list. S
 
 Benutzer mit entsprechenden Rechten können aus der Listeansicht über den Button ***Neuen Eintrag anlegen*** einen neuen Datensatz in der Tabelle erstellen.
 
+Users with appropriate permissions are able to create a new entry in the table via the list view and the button "Creating a new Entry".
+
 <br>
 
 ##### Datensatz editieren
