@@ -67,7 +67,7 @@ At this point those text fields will be copied from another language, in case th
 
 Im oberen Bereich des Datensatzes steht ein Eingabefeld zur Verfügung über welches andere Datensätze aus der Datensatzliste geladen werden können. Angezeigt und durchsucht wird immer das Namensfeld der Datensätze.
 
-You can find an input field in the upper section. You can use this one to load another data set from the data base. The name of the data set is always been shown an browsed.
+You can find an input field in the upper section. You can use this one to load another data set from the data base. It is the name of the data set which is always been shown an searched for.
 
 ![](bild11.png)
 
