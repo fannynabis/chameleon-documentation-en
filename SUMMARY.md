@@ -12,7 +12,7 @@
    * [Menu navigation](menufuhrung.md)
    * [List view of data sets](listenansicht_von_datensatzen.md)
    * [Table / Data Set](tabelle__datensatz.md)
-   * [Navigationsverwaltung](navigationsverwaltung.md)
+   * [Navigation Management](navigationsverwaltung.md)
    * [Seitenverwaltung](seitenverwaltung.md)
        * [Seite anlegen](seite_anlegen.md)
        * [Seite bearbeiten / Module anlegen](seite_bearbeiten__module_anlegen.md)
