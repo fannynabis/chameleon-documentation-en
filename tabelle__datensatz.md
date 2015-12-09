@@ -81,7 +81,7 @@ You can find an input field in the upper section. You can use this one to load a
 
 ~~Im oberen linken Bereich wird die ID des aktiven Datensatzes angezeigt. Dabei werden sowohl eine ID wie auch eine GUID (global unique identifier) aufgeführt. Bei der GUID handelt es sich entweder um die gleiche Nummer wie ID, oder um ein 36 Zeichen langen Identifier (je nachdem ob Komplexe ID Felder in den CMS-Einstellungen aktiviert wurden).~~
 
-The ID of the active data set is shown in the left upper section. In this context it indicates both an ID and a GUID (global unique identifier). The GUID contains either the same number as the ID or an identifier with 36 characters (it depends on whether the complex ID boxes have been activated within the CMS or not).
+The ID of the active data set is shown in the left upper section. In this context it will indicate both an ID and a GUID (global unique identifier). The GUID contains either the same number as the ID or an identifier with 36 characters (it depends on whether the complex ID boxes have been activated within the CMS or not).
 
 ~~Darauf folgt eine Liste aller Felder des Datensatzes. Neben manchen Feldern taucht Links neben dem Eingabefeld zusätzlich ein kleines Fragezeichen ![](bild12.png) auf - hinter diesem Symbol verbirgt sich ein Hilfe/Erklärungstext für das Feld. Der Text wird durch einen Klick auf das Symbol eingeblendet.~~
 
