@@ -95,7 +95,7 @@ In here it is possible to edit the page tree of the selected portal. You can mov
 
 ![](bild5.png)
 
-Der Seitenbaum kann aber auch zentral in der oberen Menüleiste (schwarz) beim Punkt *Navigation* angesteuert werden.
+~~Der Seitenbaum kann aber auch zentral in der oberen Menüleiste (schwarz) beim Punkt *Navigation* angesteuert werden.~~
 
 The page tree can also be triggered in the middle of the menu bar (black) above, via the  *navigation* button.
 
