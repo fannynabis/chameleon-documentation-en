@@ -57,7 +57,7 @@ The active data set will be deleted. Afterwards the user will get displayed the 
 
 ##### Copy the Language
 
-Hier werden Felder, die in der aktuellen Sprache nicht übersetzt sind, aus der anderen Sprache kopiert.
+~~Hier werden Felder, die in der aktuellen Sprache nicht übersetzt sind, aus der anderen Sprache kopiert.~~
 
 At this point those text fields will be copied from another language, in case that they are not translated within the current language.
 
