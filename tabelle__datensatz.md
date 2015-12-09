@@ -85,6 +85,6 @@ The ID of the active data set is shown in the left upper section. In this contex
 
 Darauf folgt eine Liste aller Felder des Datensatzes. Neben manchen Feldern taucht Links neben dem Eingabefeld zusätzlich ein kleines Fragezeichen ![](bild12.png) auf - hinter diesem Symbol verbirgt sich ein Hilfe/Erklärungstext für das Feld. Der Text wird durch einen Klick auf das Symbol eingeblendet.
 
-This is followed by a list which includes every single field of the data set.
+This is followed by a list which includes every single field of the data set. There is a little questionmark on the left to some input fields. Behind this there is a support and explanatory text for the relevant field. The text will be shown by clicking on it.
 
 **Wichtig**: Bei manchen Feldern wird bei Editieren die Seite gewechselt. Da das System Änderungen nicht automatisch speichert, sollte der Benutze diese vorher durch ein Klick auf den *Speichern*-Button sichern.
