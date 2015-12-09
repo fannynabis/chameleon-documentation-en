@@ -7,7 +7,7 @@
    * [Data Backup](datenbackup.md)
    * [Backend](backend.md)
 * [Grundsätzliches zur Bedienung von Chameleon](grundsatzliches_zur_bedienung_von_chameleon.md)
-   * [Persönliches Benutzerprofil](personliches_benutzerprofil.md)
+   * [personal user profile](personliches_benutzerprofil.md)
    * [Portals / Websites](portale__webseiten.md)
    * [Menüführung](menufuhrung.md)
    * [Listenansicht von Datensätzen](listenansicht_von_datensatzen.md)
