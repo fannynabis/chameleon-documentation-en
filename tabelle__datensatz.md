@@ -29,7 +29,9 @@ The current data set will be copied *directly from the date base*. So if there a
 
 <br>
 
-##### Neu
+~~##### Neu~~
+
+##### New
 
 Legt einen neuen, leeren Datensatz an.
 
