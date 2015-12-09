@@ -75,7 +75,9 @@ You can find an input field in the upper section. You can use this one to load a
 
 <br>
 
-##### Datensatz Details
+~~##### Datensatz Details~~
+
+##### Data Set Details
 
 Im oberen linken Bereich wird die ID des aktiven Datensatzes angezeigt. Dabei werden sowohl eine ID wie auch eine GUID (global unique identifier) aufgeführt. Bei der GUID handelt es sich entweder um die gleiche Nummer wie ID, oder um ein 36 Zeichen langen Identifier (je nachdem ob Komplexe ID Felder in den CMS-Einstellungen aktiviert wurden).
 
