@@ -40,12 +40,12 @@ If only one portal is defined, you get to the portal settings directly. If there
 
 | Designation | Description | Required |
 | -- | -- | -- |
-| Name | Verwendung im CMS-Backend | ja |
-| Name of the portal | wird im title Tag der Seite verwendet und in der oberen Browserleiste dargestellt | ja |
-| Homepage of the portals | Hier muss die Startseite des Portals verknüpft werden | ja |
-| 404 Page-Not-Found Page | Die 404-Page wird immer angezeigt wenn eine nicht existierende Seite des Portals aufgerufen wird. | ja |
-| Domains | Alle für das Portal zuständigen Domains, über welche das Portal erreichbar sein soll. | ja |
-| System message / Fehlercodes | Hier kann der Benutzer die im System verwendeten Meldungen selbst beliebig anpassen. | ja |
+| Name | Use in the CMS-Backend | yes |
+| Name of the portal | is getting used in the title tag of the page and displayed in the browser bar | yes |
+| Homepage of the portals | At this point you have to link the homepage of the portal | ja |
+| 404 Page-Not-Found Page | Die 404-Page wird immer angezeigt wenn eine nicht existierende Seite des Portals aufgerufen wird. | yes |
+| Domains | Alle für das Portal zuständigen Domains, über welche das Portal erreichbar sein soll. | yes |
+| System message / Fehlercodes | In here the user is able to adjust messages which are used in the system | yes |
 
 ![](Bild1.png)
 
