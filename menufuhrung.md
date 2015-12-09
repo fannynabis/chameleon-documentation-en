@@ -6,9 +6,9 @@ You can have a quick asset to the navigation, the pages, medias and documents, s
 
 ![](bild6.png)
 
-Über die Breadcrumb verfolgt das System die vom Benutzer durchgeführten Schritte. Mit Klick auf einen der Punkte können Sie jederzeit zur vorher angesteuerten Seite zurückkehren.
+~~Über die Breadcrumb verfolgt das System die vom Benutzer durchgeführten Schritte. Mit Klick auf einen der Punkte können Sie jederzeit zur vorher angesteuerten Seite zurückkehren.~~
 
-
+The system is able to track all steps via breadcrumb, which are made by the user. By clicking one if the items you can get back to the page at any time which you have previously visited.
 
 ![](bild7.png)
 
