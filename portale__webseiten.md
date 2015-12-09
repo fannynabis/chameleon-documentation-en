@@ -44,8 +44,8 @@ If only one portal is defined, you get to the portal settings directly. If there
 | Name of the portal | is getting used in the title tag of the page and displayed in the browser bar | yes |
 | Homepage of the portals | At this point you have to link the homepage of the portal | yes |
 | 404 Page-Not-Found Page | The 404-page is always displayed if a non-existing page of the portal is requested. | yes |
-| Domains | Alle für das Portal zuständigen Domains, über welche das Portal erreichbar sein soll. | yes |
-| System message / Fehlercodes | In here the user is able to adjust messages which are used in the system | yes |
+| Domains | Every domain which is responsible for the portal and how you can reach it. | yes |
+| System message / Error codes | In here the user is able to adjust messages which are used in the system | yes |
 
 ![](Bild1.png)
 
