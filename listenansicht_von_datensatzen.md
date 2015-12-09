@@ -69,7 +69,9 @@ Users with appropriate permissions are able to create a new entry in the table v
 
 <br>
 
-##### Datensatz editieren
+~~##### Datensatz editieren~~
+
+##### Edit data sets
 
 Durch einen Klick auf einen Datensatz wird der Editor für den Datensatz geöffnet (entsprechende Rechte vorausgesetzt).
 
