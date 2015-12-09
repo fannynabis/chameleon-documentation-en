@@ -12,8 +12,8 @@ The system is able to track all steps via breadcrumb, which are made by the user
 
 ![](bild7.png)
 
-Innerhalb eines Datensatzes stehen die Punkte der Breadcrumb auch über das Rechtsklick-Menü zur Verfügung. 
+~~Innerhalb eines Datensatzes stehen die Punkte der Breadcrumb auch über das Rechtsklick-Menü zur Verfügung.~~
 
-
+Items of the breadcrumb are available via right-clicking within a dataset. 
 
 ![](bild8.png)
