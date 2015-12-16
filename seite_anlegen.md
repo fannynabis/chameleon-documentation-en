@@ -36,6 +36,8 @@ A dialog window opens where you can furnish following particulars:
 
 Jetzt geben Sie der neuen Seite einen Namen und wählen ein Layout für die Seite (dies ist wichtig, da der Navigationspunkt ansonsten ohne Seite erstellt wird, zu erkennen an der Kursivschrift). Der Navigationspunkt und eine damit verbundene Seite werden daraufhin angelegt. Im Rechtsklick-Menü der Navigationsverwaltung haben Sie diese Menüpunkte:
 
+In this step you should name the new page and chose a layout. (If you don't do that the navigation point is created without a page, which may be discerned from the italic print). The navigation point and the linked pages are created afterwards. You got following menu points in the right-click menu of the navigation management:
+
 
 
 ![](bild18.png)
