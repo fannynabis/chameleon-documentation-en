@@ -10,7 +10,7 @@ Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die ne
 
 ~~Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können:~~
 
-A dialog window opens where you can furnish follwing particulars:
+A dialog window opens where you can furnish following particulars:
 
 ![](bild17.png)
 
