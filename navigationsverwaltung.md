@@ -16,14 +16,20 @@ It is also possible to link several pages to the navigation point. The visitor w
 
 ~~Aus dem Seitenbaum ergeben sich die URLs für die einzelnen Seiten. Dabei werden die einzelnen Einträge aus dem Baum bis zu der gewünschten Seite durch ein "/" getrennt aneinander gereiht. Da URLs nicht alle Zeichen unterstützen, werden Sonderzeichen entfernt oder ersetzt (ä=ae, ö=oe, usw.). Leerzeichen werden durch ein "-" ersetzt.~~
 
-The URL for the several pages is a result from the pagetree. The articles from the tree till the desired page are getting departed separately with an "/". URLs don't support every symbol. That's why special symbols are replaced with corresponding character strings (ä=ae, ö=oe, and so on). Spaces are replaces with "-". 
+The URL for the several pages is a result from the pagetree. The articles from the tree down to the desired page are getting departed separately with an "/". URLs don't support every symbol. That's why special symbols are replaced with corresponding character strings (ä=ae, ö=oe, and so on). Spaces are replaces with "-". 
 
-Da über den Baum die Navigationen von mehr als einer Webseite verwaltet werden können und auch Webseiten mehr als eine Navigation enthalten können, beginnt der Pfad der URL an dem Punkt, an welchem in den Portaleinstellungen eine Navigation und ein Bereich definiert wurde.
+**Da über den Baum die Navigationen von mehr als einer Webseite verwaltet werden können und auch Webseiten mehr als eine Navigation enthalten können, beginnt der Pfad der URL an dem Punkt, an welchem in den Portaleinstellungen eine Navigation und ein Bereich definiert wurde.**
 
-So kann z.B. die Primäre Navigation, die Top-Navigation und die Footer-Navigation unterschieden werden. Wichtig ist dabei, dass es keine identischen Navigationspunkte gibt, da das System keine gleichlautenden Punkte unterscheiden kann (Ausnahme ist, wenn es sich bei den Punkten tatsächlich um die gleiche Seite handelt (also z.B. "Home" unter der Primären sowie der Top-Navigation).
+So kann z.B. die Primäre Navigation, die Top-Navigation und die Footer-Navigation unterschieden werden. Wichtig ist dabei, dass es keine identischen Navigationspunkte gibt, da das System keine gleichlautenden Punkte unterscheiden kann (Ausnahme ist, wenn es sich bei den Punkten tatsächlich um die gleiche Seite handelt (also z.B. "Home" unter der Primären sowie der Top-Navigation)).
+
+So for example you can distinguish the primary navigation, the top navigation and the footer navigation. Please note: there are no identical navigation points because the system is not able to distinguish items with the same name. An exception would be: when the items are really the same page, so for example: you can find "home" in the primary and in the top navigation.
 
 ![](bild14.png)
 
-Einträge im Baum können über Drag-and-Drop untereinander positioniert werden. 
+~~Einträge im Baum können über Drag-and-Drop untereinander positioniert werden.~~ 
+
+You can move points in the tree via drag & drop.
 
 Über Rechtsklick können Navigationspunkte angelegt, editiert oder gelöscht werden. Ist bei einem Punkt bereits eine Seite hinterlegt, kann diese per Rechtsklick editiert werden ***(Seite editieren)*** oder es können die Einstellungen der Seite geöffnet werden ***(Seiten- Einstellungen)***.
+
+You can create, edit and delete navigation points via right-click. If there is already an existing page behind a point, you can edit it via right-lick ***(Edit page)***. You can also open the settings of a page in the same step ***(Page settings)***.
