@@ -1,8 +1,8 @@
 # Page management
 
-Eine Liste aller *Seiten* wird über Seiten im Topmenü geladen. Alternativ kann die Liste über das Hauptmenü *Website → Meine Webseiten* geöffnet werden. Die Liste zeigt neben dem Namen der Seite auch den oder die zugewiesenen Navigationspunkte. Bitte beachten Sie, dass der Name der Seite nur im CMS verwendet wird. Auf der Webseite wird für den Namen der Seite der zugewiesene Hauptnavigationspunkt verwendet.
+~~Eine Liste aller *Seiten* wird über Seiten im Topmenü geladen. Alternativ kann die Liste über das Hauptmenü *Website → Meine Webseiten* geöffnet werden. Die Liste zeigt neben dem Namen der Seite auch den oder die zugewiesenen Navigationspunkte. Bitte beachten Sie, dass der Name der Seite nur im CMS verwendet wird. Auf der Webseite wird für den Namen der Seite der zugewiesene Hauptnavigationspunkt verwendet.~~
 
-A list with every *page* is loaded from pages in the top menu. Alternatively you may open it via the main menu, *website -> My websites*.
+A list with every *page* is loaded from pages in the top menu. Alternatively you may open it via the main menu, *Website -> My Websites*. The list shows the name of the page and the assigned navigation points. Please note: the page name is only used in the CMS. The assigned navigation point is used as the name on the website. 
 
 ![](bild15.png)
 
