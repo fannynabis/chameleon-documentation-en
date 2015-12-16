@@ -10,11 +10,13 @@ Thereby you have to distinguish the page tree from the single pages, because nav
 
 Außerdem ist es möglich, mehrere Seiten mit einem Navigationspunkt zu verbinden. Welche Seite dem Website-Besucher angezeigt wird, ergibt sich aus den Verbindungseinstellungen (aktiv j/n sowie dem Aktivierungszeitraum). Damit ist es z.B. möglich, Jahreszeiten-abhängig komplett unterschiedlich gestaltete Home-Seiten einzurichten. 
 
-It is also possible to link several pages to the navigation point. The displayed visitor of the websites results from the connecting settings. (activ y/n and the activation period). 
+It is also possible to link several pages to the navigation point. The visitor who gets displayed on the website results from the connecting settings. (active y/n and the activation period). So it is possible to design completely different Homepages which depend for example on the four seasons.
 
 ![](bild13.png)
 
-Aus dem Seitenbaum ergeben sich die URLs für die einzelnen Seiten. Dabei werden die einzelnen Einträge aus dem Baum bis zu der gewünschten Seite durch ein "/" getrennt aneinander gereiht. Da URLs nicht alle Zeichen unterstützen, werden Sonderzeichen entfernt oder ersetzt (ä=ae, ö=oe, usw.). Leerzeichen werden durch ein "-" ersetzt.
+~~Aus dem Seitenbaum ergeben sich die URLs für die einzelnen Seiten. Dabei werden die einzelnen Einträge aus dem Baum bis zu der gewünschten Seite durch ein "/" getrennt aneinander gereiht. Da URLs nicht alle Zeichen unterstützen, werden Sonderzeichen entfernt oder ersetzt (ä=ae, ö=oe, usw.). Leerzeichen werden durch ein "-" ersetzt.~~
+
+The URL for the several pages is a result from the pagetree. The articles from the tree till the desired page are getting departed separately with an "/". URLs don't support every symbol. That's why special symbols are replaced with corresponding character strings (ä=ae, ö=oe, and so on). Spaces are replaces with "-". 
 
 Da über den Baum die Navigationen von mehr als einer Webseite verwaltet werden können und auch Webseiten mehr als eine Navigation enthalten können, beginnt der Pfad der URL an dem Punkt, an welchem in den Portaleinstellungen eine Navigation und ein Bereich definiert wurde.
 
