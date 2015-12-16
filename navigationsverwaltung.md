@@ -2,11 +2,11 @@
 
 ~~Die Navigationsverwaltung öffnet sich über den Button *Navigation* im Topmenü (in einem PopUp-Fenster). Über die Navigationsverwaltung lässt sich die Seitenstruktur der Webseite definieren.~~
 
-You can open the navigation menu by clicking the button *Navigation* in the top menu (in a PopUp window). You can define the page structure via the navigation menu.
+You can open the navigation menu by clicking the button *Navigation* in the top menu (in a Pop Up window). You can define the page structure via the navigation menu.
 
-Dabei muss zwischen dem Seitenbaum und den einzelnen Seiten unterschieden werden, denn Navigationspunkte und Seiten sind zwei voneinander getrennte Objekte. So kann eine Seite mit mehreren Navigationspunkten verbunden sein, z.B. eine Kontaktseite, die in der Hauptnavigation sowie in der Footer-Navigation verlinkt sein soll.
+~~Dabei muss zwischen dem Seitenbaum und den einzelnen Seiten unterschieden werden, denn Navigationspunkte und Seiten sind zwei voneinander getrennte Objekte. So kann eine Seite mit mehreren Navigationspunkten verbunden sein, z.B. eine Kontaktseite, die in der Hauptnavigation sowie in der Footer-Navigation verlinkt sein soll.~~
 
-Thereby you have to distinguish the page tree from the single pages, because navigations points and pages are two seperate parts. For example: A page can be linked to several navigation points like the contact page, which is linked to the main navigation as well as to the footer navigation.
+Thereby you have to distinguish the page tree from the single pages, because navigation points and pages are two separate parts. For example: A page can be linked to several navigation points like the contact page, which is linked to the main navigation as well as to the footer navigation.
 
 Außerdem ist es möglich, mehrere Seiten mit einem Navigationspunkt zu verbinden. Welche Seite dem Website-Besucher angezeigt wird, ergibt sich aus den Verbindungseinstellungen (aktiv j/n sowie dem Aktivierungszeitraum). Damit ist es z.B. möglich, Jahreszeiten-abhängig komplett unterschiedlich gestaltete Home-Seiten einzurichten. 
 
