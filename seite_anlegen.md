@@ -8,7 +8,9 @@ Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die ne
 
 ![](bild16.png)
 
-Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können:
+~~Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können:~~
+
+A dialog window opens where you can furnish follwing particulars:
 
 ![](bild17.png)
 
