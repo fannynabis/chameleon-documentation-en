@@ -6,6 +6,6 @@ A list with every *page* is loaded from pages in the top menu. Alternatively you
 
 ![](bild15.png)
 
-Über den Button *Navigationspfade aktualisieren* wird der URL-Pfad-Cache für die Seiten aktualisiert. Da Cache-Einträge automatisch beim Speichern eines Navigationspunktes aktualisiert werden, ist diese Funktion nur dann notwendig, wenn der Navigationsbaum durch z.B. einen Import verändert wurde.
+~~Über den Button *Navigationspfade aktualisieren* wird der URL-Pfad-Cache für die Seiten aktualisiert. Da Cache-Einträge automatisch beim Speichern eines Navigationspunktes aktualisiert werden, ist diese Funktion nur dann notwendig, wenn der Navigationsbaum durch z.B. einen Import verändert wurde.~~
 
-
+The URL path cache of the pages are reloaded via the button *Refresh Navigation Path*. This step is only necessary if the navigation tree was changed due f. e. an import. Usually the cache items are reloaded automatically while saving a navigation point.
