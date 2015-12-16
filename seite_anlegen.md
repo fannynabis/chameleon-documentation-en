@@ -18,19 +18,19 @@ A dialog window opens where you can furnish following particulars:
 | -- | -- |
 | Name | Titel der Seite |
 | URL-Name | wird an die URL des darüberstehenden Knoten angehängt. Mit der so entstehenden URL kann die Seite im Browser aufgerufen werden. Standardmäßig wird der URL-Name automatisch aus der Eingabe im Feld ‘Name’ kopiert. Der URL Name kann anschließend aber auch verändert werden. |
-| verstecken | chaltet die Seite unsichtbar. Wichtig: Die Seite wird nur in der Navigation nicht aufgeführt, ist aber über Eingabe der URL, wenn bekannt, erreichbar. |
+| Verstecken | Schaltet die Seite unsichtbar. Wichtig: Die Seite wird nur in der Navigation nicht aufgeführt, ist aber über Eingabe der URL, wenn bekannt, erreichbar. |
 | externer Link | Sie können anstatt einer lokalen Seite auch eine externe Website in ihrer Navigation verlinken. Wichtig: Geben Sie hierbei den vollen Link mit http:// an. |
 | Seiten / Layouts | Wenn Sie hier ein Seitenlayout wählen, wird daraufhin automatisch eine Seite angelegt und mit diesem Navigationspunkt verknüpft. Der Seitentitel wird dabei aus dem Namen des Navigationspunkts übernommen und kann später geändert werden. |
 | SEO | Im SEO Tab haben Sie die Möglichkeit, den Navigationspunkt von der Indizierung durch Suchmaschinen auszuschließen und Ausnahmeregeln zu definieren. So können Sie z.B. dafür sorgen, dass die Kontaktseite, die auf allen Seiten in der Footer-Navigation verlinkt ist, auf allen Seiten außer der Home-Seite als noFollow markiert wird und so Linkpower von dieser Seite nehmen. |
 
 
-| Bezeichnung | Beschreibung |
+| Designation | Description |
 | -- | -- |
-| Name | Titel der Seite |
-| URL-Name | wird an die URL des darüberstehenden Knoten angehängt. Mit der so entstehenden URL kann die Seite im Browser aufgerufen werden. Standardmäßig wird der URL-Name automatisch aus der Eingabe im Feld ‘Name’ kopiert. Der URL Name kann anschließend aber auch verändert werden. |
-| verstecken | chaltet die Seite unsichtbar. Wichtig: Die Seite wird nur in der Navigation nicht aufgeführt, ist aber über Eingabe der URL, wenn bekannt, erreichbar. |
-| externer Link | Sie können anstatt einer lokalen Seite auch eine externe Website in ihrer Navigation verlinken. Wichtig: Geben Sie hierbei den vollen Link mit http:// an. |
-| Seiten / Layouts | Wenn Sie hier ein Seitenlayout wählen, wird daraufhin automatisch eine Seite angelegt und mit diesem Navigationspunkt verknüpft. Der Seitentitel wird dabei aus dem Namen des Navigationspunkts übernommen und kann später geändert werden. |
+| Name | Name of the Page |
+| URL-Name | assigned to the URL of the knot below. You can load the page in a browser with the resulting URL. Usually the URL name is copied automatically from the box 'Name'. It is also possible to change the name afterwards. |
+| Hide | Changes the pages to "unvisible". Please note: The page is just not visible in the navigation. If the URL is known you can search for the page. |
+| External Link | Instead of local pages you can also link external websites in your navigation. Please note: Type the complete link, including http://. |
+| Pages / Layouts | Wenn Sie hier ein Seitenlayout wählen, wird daraufhin automatisch eine Seite angelegt und mit diesem Navigationspunkt verknüpft. Der Seitentitel wird dabei aus dem Namen des Navigationspunkts übernommen und kann später geändert werden. |
 | SEO | Im SEO Tab haben Sie die Möglichkeit, den Navigationspunkt von der Indizierung durch Suchmaschinen auszuschließen und Ausnahmeregeln zu definieren. So können Sie z.B. dafür sorgen, dass die Kontaktseite, die auf allen Seiten in der Footer-Navigation verlinkt ist, auf allen Seiten außer der Home-Seite als noFollow markiert wird und so Linkpower von dieser Seite nehmen. |
 
 
