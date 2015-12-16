@@ -20,7 +20,7 @@ The URL for the several pages is a result from the pagetree. The articles from t
 
 **Da über den Baum die Navigationen von mehr als einer Webseite verwaltet werden können und auch Webseiten mehr als eine Navigation enthalten können, beginnt der Pfad der URL an dem Punkt, an welchem in den Portaleinstellungen eine Navigation und ein Bereich definiert wurde.**
 
-So kann z.B. die Primäre Navigation, die Top-Navigation und die Footer-Navigation unterschieden werden. Wichtig ist dabei, dass es keine identischen Navigationspunkte gibt, da das System keine gleichlautenden Punkte unterscheiden kann (Ausnahme ist, wenn es sich bei den Punkten tatsächlich um die gleiche Seite handelt (also z.B. "Home" unter der Primären sowie der Top-Navigation)).
+~~So kann z.B. die Primäre Navigation, die Top-Navigation und die Footer-Navigation unterschieden werden. Wichtig ist dabei, dass es keine identischen Navigationspunkte gibt, da das System keine gleichlautenden Punkte unterscheiden kann (Ausnahme ist, wenn es sich bei den Punkten tatsächlich um die gleiche Seite handelt (also z.B. "Home" unter der Primären sowie der Top-Navigation)).~~
 
 So for example you can distinguish the primary navigation, the top navigation and the footer navigation. Please note: there are no identical navigation points because the system is not able to distinguish items with the same name. An exception would be: when the items are really the same page, so for example: you can find "home" in the primary and in the top navigation.
 
