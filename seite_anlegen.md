@@ -31,7 +31,7 @@ A dialog window opens where you can furnish following particulars:
 | Hide | Changes the pages to "unvisible". Please note: The page is just not visible in the navigation. If the URL is known you can search for the page. |
 | External Link | Instead of local pages you can also link external websites in your navigation. Please note: Type the complete link, including http://. |
 | Pages / Layouts | If you choose a page layout here a new page is created and linked with the navigation point automatically. In this step the page title gets adopted from the name of the navigation point and can be changed afterwards. |
-| SEO | In the SEO Tab it is possible to exclude the navigation point from the search engine indexing and define derogations. So können Sie z.B. dafür sorgen, dass die Kontaktseite, die auf allen Seiten in der Footer-Navigation verlinkt ist, auf allen Seiten außer der Home-Seite als noFollow markiert wird und so Linkpower von dieser Seite nehmen. |
+| SEO | In the SEO Tab it is possible to exclude the navigation point from the search engine indexing and define derogations. That is useful to make sure that the contact page, which is linked to all footer navigations, is tagged in every page, except the home page, as a noFolloow. So you can minimize linkpower from this page. |
 
 
 Jetzt geben Sie der neuen Seite einen Namen und wählen ein Layout für die Seite (dies ist wichtig, da der Navigationspunkt ansonsten ohne Seite erstellt wird, zu erkennen an der Kursivschrift). Der Navigationspunkt und eine damit verbundene Seite werden daraufhin angelegt. Im Rechtsklick-Menü der Navigationsverwaltung haben Sie diese Menüpunkte:
