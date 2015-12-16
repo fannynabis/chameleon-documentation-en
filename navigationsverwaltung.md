@@ -10,6 +10,8 @@ Thereby you have to distinguish the page tree from the single pages, because nav
 
 Außerdem ist es möglich, mehrere Seiten mit einem Navigationspunkt zu verbinden. Welche Seite dem Website-Besucher angezeigt wird, ergibt sich aus den Verbindungseinstellungen (aktiv j/n sowie dem Aktivierungszeitraum). Damit ist es z.B. möglich, Jahreszeiten-abhängig komplett unterschiedlich gestaltete Home-Seiten einzurichten. 
 
+It is also possible to link several pages to the navigation point. The displayed visitor of the websites results from the connecting settings. (activ y/n and the activation period). 
+
 ![](bild13.png)
 
 Aus dem Seitenbaum ergeben sich die URLs für die einzelnen Seiten. Dabei werden die einzelnen Einträge aus dem Baum bis zu der gewünschten Seite durch ein "/" getrennt aneinander gereiht. Da URLs nicht alle Zeichen unterstützen, werden Sonderzeichen entfernt oder ersetzt (ä=ae, ö=oe, usw.). Leerzeichen werden durch ein "-" ersetzt.
