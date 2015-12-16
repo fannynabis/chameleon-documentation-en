@@ -30,6 +30,6 @@ So for example you can distinguish the primary navigation, the top navigation an
 
 You can move points in the tree via drag & drop.
 
-Über Rechtsklick können Navigationspunkte angelegt, editiert oder gelöscht werden. Ist bei einem Punkt bereits eine Seite hinterlegt, kann diese per Rechtsklick editiert werden ***(Seite editieren)*** oder es können die Einstellungen der Seite geöffnet werden ***(Seiten- Einstellungen)***.
+~~Über Rechtsklick können Navigationspunkte angelegt, editiert oder gelöscht werden. Ist bei einem Punkt bereits eine Seite hinterlegt, kann diese per Rechtsklick editiert werden ***(Seite editieren)*** oder es können die Einstellungen der Seite geöffnet werden ***(Seiten- Einstellungen)***.~~
 
 You can create, edit and delete navigation points via right-click. If there is already an existing page behind a point, you can edit it via right-lick ***(Edit page)***. You can also open the settings of a page in the same step ***(Page settings)***.
