@@ -13,7 +13,7 @@
    * [List view of data sets](listenansicht_von_datensatzen.md)
    * [Table / Data Set](tabelle__datensatz.md)
    * [Navigation Management](navigationsverwaltung.md)
-   * [Seitenverwaltung](seitenverwaltung.md)
+   * [Page management](seitenverwaltung.md)
        * [Seite anlegen](seite_anlegen.md)
        * [Seite bearbeiten / Module anlegen](seite_bearbeiten__module_anlegen.md)
        * [Seite löschen](seite_loschen.md)
