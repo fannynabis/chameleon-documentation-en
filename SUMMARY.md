@@ -20,7 +20,7 @@
        * [Link several pages to one navigation point](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
        * [Link one page to several navigation points](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
        * [Seiten-Einstellungen](seiten-einstellungen.md)
-       * [Seiten-Layouts](seiten-layouts.md)
+       * [Page Layouts](seiten-layouts.md)
    * [Medien](medien.md)
    * [Dokumente](dokumente.md)
    * [Sprache / Website/ Cache / Hilfe](sprache__website_cache__hilfe.md)
