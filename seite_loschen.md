@@ -1,8 +1,13 @@
 # Delete Page
 
-Wenn Sie eine Seite mit dem dazugehörigen Navigationspunkt löschen möchten, müssen Sie
-* den Navigationspunkt löschen (über *Navigation*) sowie
-* die Seite selbst (über *Seiten*).
+~~Wenn Sie eine Seite mit dem dazugehörigen Navigationspunkt löschen möchten, müssen Sie
+den Navigationspunkt löschen (über *Navigation*) sowie
+die Seite selbst (über *Seiten*).~~
+
+
+If you want to delete a page including the linked navigation points, you have to
+* delete the navigation point via *Navigation*
+* delete the page via *Page*.
 
 
 
