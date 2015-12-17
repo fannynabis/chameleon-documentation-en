@@ -16,7 +16,7 @@ You can create a new module via **Functions**:
 
 ~~Bei einem bereits angelegten Modul gelangen Sie ebenfalls über ***Funktionen*** in das Kontextmenü zum Bearbeiten:~~
 
-When you have an still existing module, you can also manage it in the context menu via **Functions**.
+When you have an still existing module, you can also manage it in the context menu via **Functions**:
 
 ![](bild20.png)
 
