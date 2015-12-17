@@ -8,7 +8,9 @@ You can click the button *Edit page* in the context menu of the navigation tree 
 
 So called module spots are defined in the page template. These are slots, where you can place any module.
 
-Über ***Funktionen*** können Sie ein neues Modul anlegen:
+~~Über ***Funktionen*** können Sie ein neues Modul anlegen:~~
+
+You can create a new module via **Functions**:
 
 ![](bild19.png)
 
