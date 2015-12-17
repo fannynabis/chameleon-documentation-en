@@ -6,7 +6,7 @@ You can change the selected layout of a page at any time via ***Page Templates**
 
 ![](bild23.png)
 
-~~Dabei kann es sein, dass die Layouts eine unterschiedliche Anzahl an Modul-Spots haben. Das CMS übernimmt beim Wechsel des Layouts alle gleichnamigen Spots, so dass die vorher aktiven Module im neuen Layout entsprechend am neuen Platz des Modulspots wieder aktiv sind. ~~
+~~Dabei kann es sein, dass die Layouts eine unterschiedliche Anzahl an Modul-Spots haben. Das CMS übernimmt beim Wechsel des Layouts alle gleichnamigen Spots, so dass die vorher aktiven Module im neuen Layout entsprechend am neuen Platz des Modulspots wieder aktiv sind.~~
 
 Thereby the layouts can include several numbers of module spots. In case of a change of a layout the CMS transfers all spots with the same name. So the modules which were active previously  will get active again on the new place of the module spot.
 
