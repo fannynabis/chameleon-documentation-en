@@ -33,7 +33,7 @@ It is possible to find the relevant file very quick via using the folder structu
 | Upload Data | Manual upload of the files from the client computer. |
 | Import data (FTP) | Importieren aller Dateien, die im Verzeichnis *private/cmsdata/mediaImport* liegen und zuvor per FTP *(FTP-Zugang erforderlich)* hochgeladen wurden. |
 | Dateien hierhin verschieben | Alle Dateien, die markiert und ausgeschnitten wurden, können über diese Funktion in das markierte Verzeichnis verschoben werden. |
-| Umbenennen | Benennt ein Verzeichnis um. |
+| Rename | Renames a directory. |
 
 
 Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Datensatz auf und laden über ***Mediendatei ersetzen*** die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
