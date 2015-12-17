@@ -6,11 +6,13 @@ Via the button Media you get to the image and media administration. In here you 
 
 ~~Die Verwaltung öffnet sich in einem neuen Fenster (d.h. die aktuelle Seite, die man bearbeiten möchte, bleibt im Hintergrund geöffnet). ~~
 
-The administration opens in a new window (so the current page stays open in the background).
+The administration opens in a new window (so the current page stays open and available in the background).
 
 ![](bild24.png)
 
 Die Verzeichnisstruktur links und die Suchfunktion unten ermöglichen ein schnelles Auffinden der gesuchten Datei. Über die rechte Maustaste erreicht man das Kontextmenü. Hier hat man die Möglichkeit, die Baumstruktur links zu bearbeiten (Ordner anlegen, löschen, verschieben, umbenennen) und Dateien hochzuladen, zu importieren oder zu verschieben. Es können mehrere Dateien gleichzeitig hochgeladen werden. 
+
+
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
