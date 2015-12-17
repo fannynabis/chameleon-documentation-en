@@ -12,7 +12,7 @@ The administration opens in a new window (so the current page stays open and ava
 
 Die Verzeichnisstruktur links und die Suchfunktion unten ermöglichen ein schnelles Auffinden der gesuchten Datei. Über die rechte Maustaste erreicht man das Kontextmenü. Hier hat man die Möglichkeit, die Baumstruktur links zu bearbeiten (Ordner anlegen, löschen, verschieben, umbenennen) und Dateien hochzuladen, zu importieren oder zu verschieben. Es können mehrere Dateien gleichzeitig hochgeladen werden. 
 
-It is possible to find the relevant file very quick via using the folder structure on the left or the searching box below. You get to the context menu via right-clicking.
+It is possible to find the relevant file very quick via using the folder structure on the left or the searching box below. You get to the context menu via right-clicking. In here you can edit the folder structure on the left (create, delete, move and rename folder). You can also upload folders, import and move them. You are able to upload several folders at the same time.
 
 | Bezeichnung | Beschreibung |
 | -- | -- |
