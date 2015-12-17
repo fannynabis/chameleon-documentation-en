@@ -2,7 +2,7 @@
 
 Über den Punkt *Medien* gelangt man zu der zentralen Bilder- und Medienverwaltung im Chameleon-System. Hier können neue Medien wie Bilder und Videos hochgeladen sowie bestehende entfernt oder aktualisiert werden. Alle Bilder / Videos, die auf der Webseite angezeigt werden sollen, müssen zuerst in der Medienverwaltung hinterlegt werden. 
 
-Via the button Media you get to the image and media handling. In here you can upload images and videos and also delete and update existing ones.
+Via the button Media you get to the image and media handling. In here you can upload images and videos and also delete and update existing ones. Every image and video which should be displayed on your website has to be deposit into the media handling first.
 
 Die Verwaltung öffnet sich in einem neuen Fenster (d.h. die aktuelle Seite, die man bearbeiten möchte, bleibt im Hintergrund geöffnet). 
 
