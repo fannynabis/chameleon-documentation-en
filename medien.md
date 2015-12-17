@@ -25,10 +25,10 @@ It is possible to find the relevant file very quick via using the folder structu
 | Umbenennen | Benennt ein Verzeichnis um. |
 
 
-| Bezeichnung | Description |
+| Designation | Description |
 | -- | -- |
-| Neuer Ordner | Erstellt einen neuen Ordner. |
-| Löschen | Verzeichnis sowie alle Unterverzeichnisse und Medien werden entfernt. Alle Zuweisungen in Seiten und Datensätzen werden entfernt. |
+| New Folder | Creates a new folder. |
+| Delete | All directories and subdirectories  and medias will be deleted. Allocations to pages and data sets will be deleted completely. |
 | Bewegen | Versetzen kompletter Baumknoten innerhalb der Baumstruktur. |
 | Dateien hochladen | Manuelles Hochladen der Dateien vom Client-Rechner. |
 | Dateien importieren (FTP) | Importieren aller Dateien, die im Verzeichnis *private/cmsdata/mediaImport* liegen und zuvor per FTP *(FTP-Zugang erforderlich)* hochgeladen wurden. |
