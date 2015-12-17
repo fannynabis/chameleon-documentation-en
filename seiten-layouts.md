@@ -2,6 +2,8 @@
 
 Über ***Seitenvorlagen*** können Sie das gewählte Layout einer Seite jederzeit wechseln. Hier haben Sie die Möglichkeit, die verschiedenen Layouts anzusehen und das passende auszuwählen. In der linken Spalte sehen alle verfügbaren Layouts.
 
+You can change the selected layout of a page at any time via ***Page Templates***. 
+
 ![](bild23.png)
 
 Dabei kann es sein, dass die Layouts eine unterschiedliche Anzahl an Modul-Spots haben. Das CMS übernimmt beim Wechsel des Layouts alle gleichnamigen Spots, so dass die vorher aktiven Module im neuen Layout entsprechend am neuen Platz des Modulspots wieder aktiv sind. 
