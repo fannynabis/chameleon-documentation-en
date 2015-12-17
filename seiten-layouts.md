@@ -12,5 +12,5 @@ Thereby the layouts can include several numbers of module spots. In case of a ch
 
 ~~***Achtung***: Wenn das neue Layout allerdings weniger Spots hat als das vorherige, tauchen diese im neuen Layout nicht mehr auf. Wenn nun zurück auf das Layout mit mehreren Spots gewechselt wird, müssen die noch vorhandenen Module wieder neu zugeordnet werden.~~
 
-Please note: If the new layout includes less spots, those won't be transferred to the new one. So if you get back to the previous layout including the several spots, the still existing modules should be rearranged. 
+**Please note**: If the new layout includes less spots, those won't be transferred to the new one. So if you get back to the previous layout including the several spots, the still existing modules should be rearranged. 
 
