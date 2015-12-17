@@ -4,7 +4,7 @@
 
 Via the button Media you get to the image and media administration. In here you can upload images and videos and also delete and update existing ones. Every image and video which should be displayed on your website has to be deposit into the media handling first.
 
-~~Die Verwaltung öffnet sich in einem neuen Fenster (d.h. die aktuelle Seite, die man bearbeiten möchte, bleibt im Hintergrund geöffnet). ~~
+~~Die Verwaltung öffnet sich in einem neuen Fenster (d.h. die aktuelle Seite, die man bearbeiten möchte, bleibt im Hintergrund geöffnet).~~
 
 The administration opens in a new window (so the current page stays open and available in the background).
 
