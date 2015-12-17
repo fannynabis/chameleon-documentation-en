@@ -21,7 +21,7 @@
        * [Link one page to several navigation points](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
        * [Seiten-Einstellungen](seiten-einstellungen.md)
        * [Page Layouts](seiten-layouts.md)
-   * [Medien](medien.md)
+   * [Media](medien.md)
    * [Dokumente](dokumente.md)
    * [Sprache / Website/ Cache / Hilfe](sprache__website_cache__hilfe.md)
    * [CKEditor](ckeditor.md)
