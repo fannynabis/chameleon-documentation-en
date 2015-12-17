@@ -59,7 +59,7 @@ In this step you should name the new page and chose a layout. (If you don't do t
 | Edit page | By clicking this one you can edit the page content in the layout view. |
 | Page management | Sites configuration: here you can manage settings for: Extranet group, page title, image meta tags and more navigation points. |
 | Edit navigation | Opens the earlier described dialogue including the navigation points options. |
-| New | Creates a new navigation point (+ the page, if neccessary) |
+| New | Creates a new navigation point (+ the page, if necessary) |
 | Delete | Deletes the navigation point. Please note: The navigation point is deleted, not the page. You have to delete the page manually via "My Website" or link it with another navigation point. |
 
 
