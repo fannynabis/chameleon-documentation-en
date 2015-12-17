@@ -1,6 +1,8 @@
 # Edit page / Create modules
 
-Klicken Sie im Kontext-Menü des Navigationsbaums auf *Seite editieren* oder suchen Sie die Seite über *Seiten*. Der letztere Weg ist häufig der schnellere, wenn ihnen der Name der Seite bekannt ist, da Sie sich dann nicht durch den Navigationsbaum klicken müssen.
+~~Klicken Sie im Kontext-Menü des Navigationsbaums auf *Seite editieren* oder suchen Sie die Seite über *Seiten*. Der letztere Weg ist häufig der schnellere, wenn ihnen der Name der Seite bekannt ist, da Sie sich dann nicht durch den Navigationsbaum klicken müssen.~~
+
+You can click the button *Edit page* in the context menu of the navigation tree or search for the page via *Pages*. The latter description is usually faster: When you know the name of the page you don't have to click yourself through the navigation tree.
 
 In den Seitenvorlagen sind sogenannte Modul-Spots festgelegt. Dies sind Steckplätze, an die beliebige Module platziert werden können.
 
