@@ -1,4 +1,4 @@
-# Page Layout
+# Page Layouts
 
 ~~Über ***Seitenvorlagen*** können Sie das gewählte Layout einer Seite jederzeit wechseln. Hier haben Sie die Möglichkeit, die verschiedenen Layouts anzusehen und das passende auszuwählen. In der linken Spalte sehen alle verfügbaren Layouts.~~
 
