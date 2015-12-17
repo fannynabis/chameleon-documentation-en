@@ -14,7 +14,7 @@
    * [Table / Data Set](tabelle__datensatz.md)
    * [Navigation Management](navigationsverwaltung.md)
    * [Page management](seitenverwaltung.md)
-       * [Seite anlegen](seite_anlegen.md)
+       * [Create page](seite_anlegen.md)
        * [Seite bearbeiten / Module anlegen](seite_bearbeiten__module_anlegen.md)
        * [Seite löschen](seite_loschen.md)
        * [Mehrere Seiten mit einem Navigationspunkt verbinden](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
