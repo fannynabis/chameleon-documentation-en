@@ -60,10 +60,10 @@ At the upper edge of a page you have 4 buttons, where you can switch into the se
 
 ![](bild21.png)
 
-* ***Seiten-Einstellungen***: Grundkonfiguration der Seite, wie z.B. Name, verbundene Navigationspunkte, Zugriffsbeschränkungen etc.
-* ***Inhalte editieren***: Hier können die Module in den Steckplätzen bearbeitet werden.
-* ***Seitenvorschau***: Öffnet die Webansicht der Seite. 
-* ***Seitenvorlagen***: Zeigt mögliche Seiten-Layouts sowie das für diese Seite ausgewählte Layout an.
+~~* ***Seiten-Einstellungen***: Grundkonfiguration der Seite, wie z.B. Name, verbundene Navigationspunkte, Zugriffsbeschränkungen etc. 
+***Inhalte editieren***: Hier können die Module in den Steckplätzen bearbeitet werden.
+***Seitenvorschau***: Öffnet die Webansicht der Seite. 
+***Seitenvorlagen***: Zeigt mögliche Seiten-Layouts sowie das für diese Seite ausgewählte Layout an.~~
 
 
 
