@@ -4,7 +4,9 @@
 
 You can click the button *Edit page* in the context menu of the navigation tree or search for the page via *Pages*. The latter description is usually faster: When you know the name of the page you don't have to click yourself through the navigation tree.
 
-In den Seitenvorlagen sind sogenannte Modul-Spots festgelegt. Dies sind Steckplätze, an die beliebige Module platziert werden können.
+~~In den Seitenvorlagen sind sogenannte Modul-Spots festgelegt. Dies sind Steckplätze, an die beliebige Module platziert werden können.~~
+
+So called module spots are defined in the page template. These are slots, where you can place any module.
 
 Über ***Funktionen*** können Sie ein neues Modul anlegen:
 
