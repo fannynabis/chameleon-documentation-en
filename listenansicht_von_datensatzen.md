@@ -29,7 +29,7 @@ The sorting direction is getting changed vise verca by clicking on the column na
 ~~Über das Suchfeld kann nach einem oder mehreren Begriffen in der Liste gesucht werden. Wichtig: dabei werden nur die Felder durchsucht, die angezeigt werden.
 Eine Ausnahme davon ist das ID-Feld. Danach kann auch dann gesucht werden, wenn das Feld nicht als eigene Spalte geführt wird.~~
 
-It is possible to search for one or also several terms within the list (via search box). In here there only is a searching within the fields, which are also shown, except the ID-box. You are able to search for this one, even it is not managed as a column by its own. 
+It is possible to search for one or also several terms within the list (via search box). In here there is only a searching within the fields, which are also shown, except the ID-box. You are able to search for this one, even it is not managed as a column by its own. 
 
 
 
