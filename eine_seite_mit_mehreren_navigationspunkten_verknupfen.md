@@ -5,3 +5,5 @@ Sie haben ebenso die Möglichkeit, eine Seite mit mehreren Navigationspunkten zu
 There is also the opportunity to link one page to several navigation points. So the same page is displayed on several places of your website (for example the contact form in the footer and header). The advantage is that you have to edit the page only once.
 
 Gehen Sie in die Seiten-Einstellungen der Seite und wählen Sie unter ***primärer Navigationspunkt*** einen weiteren Navigationspunkt aus (Rechtsklick auf den Navigationspunkt → Seite verbinden).
+
+Click on the primary navigation point via the page settings and select one more navigation point (right-clicking -> link page).
