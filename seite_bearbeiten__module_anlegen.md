@@ -70,5 +70,5 @@ At the upper edge of a page you have 4 buttons, where you can switch into the se
 * ***Page Settings***: Basic configuration, for example name, linked navigation points, access restriction etc. verbundene Navigationspunkte, Zugriffsbeschränkungen etc.
 * ***Edit Content***: Edit modules in the slots.
 * ***Page Preview***: Opens web view of the page.Öffnet die Webansicht der Seite. 
-* ***Page Template***: Shows possible layouts and even the chosen one of the page..
+* ***Page Template***: Shows possible layouts and even the chosen one of the page.
 
