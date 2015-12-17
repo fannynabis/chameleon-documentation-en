@@ -17,7 +17,7 @@
        * [Create page](seite_anlegen.md)
        * [Edit page / Create modules](seite_bearbeiten__module_anlegen.md)
        * [Delete Page](seite_loschen.md)
-       * [Mehrere Seiten mit einem Navigationspunkt verbinden](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
+       * [Link several pages to one navigation point](mehrere_seiten_in_einem_navigationspunkt_verbinden.md)
        * [Eine Seite mit mehreren Navigationspunkten verknüpfen](eine_seite_mit_mehreren_navigationspunkten_verknupfen.md)
        * [Seiten-Einstellungen](seiten-einstellungen.md)
        * [Seiten-Layouts](seiten-layouts.md)
