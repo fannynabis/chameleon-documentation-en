@@ -12,4 +12,4 @@ If you want to delete a page including the linked navigation points, you have to
 
 Die Seite selbst ist noch nicht gelöscht, wenn Sie nur den Navigationspunkt löschen (da beide unabhängig voneinander existieren).
 
-If you just delete the navigation point, the page is not deleted (they exist completely independent from each other.
+If you just delete the navigation point, the page is not deleted (they exist completely independent from each other).
