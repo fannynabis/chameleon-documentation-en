@@ -51,10 +51,12 @@ When you have an still existing module, you can also manage it in the context me
 | Load (common instance) | Loads a module as a common instance. So the module instance including the content is available on several parts. If you edit the module it updates the affected parts automatically. |
 | Load (as a copy) | Loads the module as a copy (see also: "Copy content") Therefore you can copy and edit the content from another part while the origin part stays the same. |
 | Drag&Drop | As explained previously as a drag&drop option, you have the opportunity to move the module to another spot. Via mouseover over the spots name the relevant one is shown  with a colored frame on the side. Furthermore you can move the module via drag&drop to another Spot. Thereby you can chose a spot where other modules already exist. In this case the modules would change their places. |
-| Edit Spot | It is a shortcut for administrators and opens the spot settings. In here you can manage module restrictions (only visible for administrators. |
+| Edit Spot | It is a shortcut for administrators and opens the spot settings. In here you can manage module restrictions (only visible for administrators). |
 
 
-Am oberen Rand einer Seite gibt es 4 Buttons, über die Sie schnell den Bearbeitungsmodus wechseln:
+~~Am oberen Rand einer Seite gibt es 4 Buttons, über die Sie schnell den Bearbeitungsmodus wechseln:~~
+
+At the upper edge of a page you have 4 buttons, where you can switch into the setting modus very quickly.
 
 ![](bild21.png)
 
@@ -62,4 +64,11 @@ Am oberen Rand einer Seite gibt es 4 Buttons, über die Sie schnell den Bearbeit
 * ***Inhalte editieren***: Hier können die Module in den Steckplätzen bearbeitet werden.
 * ***Seitenvorschau***: Öffnet die Webansicht der Seite. 
 * ***Seitenvorlagen***: Zeigt mögliche Seiten-Layouts sowie das für diese Seite ausgewählte Layout an.
+
+
+
+* ***Page Settings***: Basic configuration, for example name, linked navigation points, access restriction etc. verbundene Navigationspunkte, Zugriffsbeschränkungen etc.
+* ***Edit Content***: Edit modules in the slots.
+* ***Page Preview***: Opens web view of the page.Öffnet die Webansicht der Seite. 
+* ***Page Template***: Shows possible layouts and even the chosen one of the page..
 
