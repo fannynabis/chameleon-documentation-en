@@ -1,6 +1,6 @@
 # Page Layouts
 
-~~Über ***Seitenvorlagen*** können Sie das gewählte Layout einer Seite jederzeit wechseln. Hier haben Sie die Möglichkeit, die verschiedenen Layouts anzusehen und das passende auszuwählen. In der linken Spalte sehen alle verfügbaren Layouts.~~
+~~Über ***Seitenvorlagen*** können Sie das gewählte Layout einer Seite jederzeit wechseln. Hier haben Sie die Möglichkeit, die verschiedenen Layouts anzusehen und das passende auszuwählen. In der linken Spalte sehen Sie alle verfügbaren Layouts.~~
 
 You can change the selected layout of a page at any time via ***Page Templates***. You can have a look at them and select the one you like. The available layouts are displayed in the left column of this page.
 
