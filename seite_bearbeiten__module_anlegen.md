@@ -22,7 +22,7 @@ When you have an still existing module, you can also manage it in the context me
 
 <br>
 
-| Bezeichnung | Beschreibung |
+~~| Bezeichnung | Beschreibung |
 | -- | -- |
 | Editieren | Führt zu den Modul-Einstellungen bzw. zum Editieren der Inhalte des Moduls. Besteht das Modul aus mehreren Datentabellen, z.B. bei einer Liste, die Konfiguration der Liste (Sortiereinstellungen etc.) und Listeneinträge, so werden ihnen 2 Editiermöglichkeiten angeboten. |
 | Vorlage ändern | Damit können Sie die HTML-Vorlage des Moduls wechseln. So können Sie z.B. für ein Listenmodul Vorlagen für eine Teaser-Liste mit Verlinkung auf eine Detailseite sowie eine Vorlage für eine Kurzliste ohne Detailseite erstellen. Je nach Modul und Projekt stehen Ihnen hier andere Vorlagen zur Verfügung, die auf Ihre Anforderungen angepasst wurden. |
@@ -35,7 +35,7 @@ When you have an still existing module, you can also manage it in the context me
 | Laden (gemeinsame Instanz) | Lädt ein Modul als gemeinsame Instanz. Das bedeutet, dass diese Modul-Instanz (inklusive Inhalt) an mehreren Stellen vorhanden ist und Sie beim Editieren des Moduls auch alle anderen Stellen verändern. |
 | Laden (als Kopie) | lädt ein Modul als Kopie (siehe auch: „Inhalt kopieren“). Somit kann Inhalt von einer anderen Stelle kopiert und verändert werden, an der ursprünglichen Stelle bleibt dieser aber unverändert. |
 | Verschieben | Wie oben bereits als Drag&Drop-Option erklärt, haben Sie hier die Möglichkeit, das Modul an einen anderen Spot zu verschieben. Bei Mouse-Over über den Spotnamen wird Ihnen der entsprechende Spot in der Seite mit einem farbigen Rahmen kenntlich gemacht.Alternativ können Sie auch das Modul per Drag&Drop an einen anderen Steckplatz verschieben. Dabei können auch Steckplätze gewählt werden, die bereits mit einem Modul gefüllt sind. In diesem Fall tauschen die beiden Module die Plätze. |
-| Spot bearbeiten | ist ein Shortcut für Administratoren und öffnet die Spot- Einstellungen. Hier können z.B. Modul-Einschränkungen vorgenommen werden (ist nur für Administratoren sichtbar). |
+| Spot bearbeiten | ist ein Shortcut für Administratoren und öffnet die Spot- Einstellungen. Hier können z.B. Modul-Einschränkungen vorgenommen werden (ist nur für Administratoren sichtbar). |~~
 
 
 | Designation | Description |
