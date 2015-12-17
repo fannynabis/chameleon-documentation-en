@@ -53,12 +53,12 @@ In this step you should name the new page and chose a layout. (If you don't do t
 | Löschen | Löscht den Navigationspunkt. Wichtig: Es wird nur der Navigationspunkt gelöscht, nicht aber die Seite. Diese müssen Sie manuell in „Meine Webseiten“ löschen oder können diese mit einem anderen Navigationspunkt verbinden. |
 
 
-| Bezeichnung | Beschreibung |
+| Designation | Description |
 | -- | -- |
-| Verbundene Seiten | Listet alle Seiten auf, die mit dem Navigationspunkt verbunden sind. Verbindungen können, wie oben beschrieben, auch von mehreren Seiten zeitabhängig auf einen Navigationspunkt erfolgen. |
-| Seite editieren | Führt zur Layout-Ansicht der Seite und damit zur Möglichkeit, die Seiten-Inhalte zu editieren. |
-| Seiten-Einstellungen | Führt zur Seiten-Konfiguration, wo Einstellungen wie: Extranet Gruppe, Seiten-Titel, Bild-Meta-Tags und weitere Navigationspunkte vorgenommen werden können. |
-| Navigation editieren | Öffnet den vorher beschriebenen Dialog mit den Optionen des Navigationspunkts. |
+| Linked pages | Lists all pages who are linked to the navigation point. Verbindungen können, wie oben beschrieben, auch von mehreren Seiten zeitabhängig auf einen Navigationspunkt erfolgen. |
+| Edit page | By clicking this one you can edit the page content in the layout view. |
+| Page management | Sites configuration, here you can manage settings for: Extranet group, page title, image meta tags and more navigation points. |
+| Edit navigation | Öffnet den vorher beschriebenen Dialog mit den Optionen des Navigationspunkts. |
 | Neu | Legt einen Navigationspunkt (+ evtl. Seite) an |
 | Löschen | Löscht den Navigationspunkt. Wichtig: Es wird nur der Navigationspunkt gelöscht, nicht aber die Seite. Diese müssen Sie manuell in „Meine Webseiten“ löschen oder können diese mit einem anderen Navigationspunkt verbinden. |
 
