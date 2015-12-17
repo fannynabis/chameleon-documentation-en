@@ -29,7 +29,7 @@ It is possible to find the relevant file very quick via using the folder structu
 | -- | -- |
 | New Folder | Creates a new folder. |
 | Delete | All directories and subdirectories  and medias will be deleted. Allocations to pages and data sets will be deleted completely. |
-| Move | Move complete tree knots within the tree structure. |
+| Move | Moves complete tree knots within the tree structure. |
 | Upload Data | Manual upload of the files from the client computer. |
 | Import data (FTP) | Importieren aller Dateien, die im Verzeichnis *private/cmsdata/mediaImport* liegen und zuvor per FTP *(FTP-Zugang erforderlich)* hochgeladen wurden. |
 | Dateien hierhin verschieben | Alle Dateien, die markiert und ausgeschnitten wurden, können über diese Funktion in das markierte Verzeichnis verschoben werden. |
