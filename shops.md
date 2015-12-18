@@ -4,7 +4,7 @@
 
 ~~Unter *Shops* werden alle vom System verwalteten Shops aufgelistet. Ist nur ein Shop definiert, gelangt man direkt in die Einstellungen des Shops, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.~~
 
-Via *Shops* you will get a list including all shops managed by the system. If there is only one shop, you enter its settings directly. In case of several shops, a selection is displayed. 
+Via *Shops* you will get a list including all shops managed by the system. If there is only one shop, you enter its settings directly. In case of several shops, a selection. 
 
 | Tab | Description |
 | -- | -- |
@@ -20,9 +20,9 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 | Tab | Description |
 | -- | -- |
 | Basic Datas | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
-| Standardeinstellungen | Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
-| Sucheinstellungen | Für den Suchindex und die Suche relevante Angaben |
-| Konfiguration | Die zentrale Konfiguration des Shops |
-| Systemeinstellungen | Angaben über die zuletzt verwendeten Bestell-/Kundennummern sowie den zentralen Shop-Handler sowie max. Größe des Artikelhistorie-Cookies und welche SEO-URLs-Version aktiv ist. |
-| Bewertung | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
+| Basic settings | Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
+| Search setting | Für den Suchindex und die Suche relevante Angaben |
+| Configuration | Die zentrale Konfiguration des Shops |
+| System settings | Angaben über die zuletzt verwendeten Bestell-/Kundennummern sowie den zentralen Shop-Handler sowie max. Größe des Artikelhistorie-Cookies und welche SEO-URLs-Version aktiv ist. |
+| Evaluation | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
 | Trusted Shops | TrustedShop-Konfiguration |
