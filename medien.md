@@ -28,7 +28,7 @@ It is possible to find the relevant file very quick via using the folder structu
 | Designation | Description |
 | -- | -- |
 | New Folder | Creates a new folder. |
-| Delete | All directories and sub-directories  and medias will be deleted. Allocations to pages and data sets will be deleted completely. |
+| Delete | All directories, sub-directories  and medias will be deleted. Allocations to pages and data sets will be deleted completely. |
 | Move | Moves complete tree knots within the tree structure. |
 | Upload Data | Manual upload of the files from the client computer. |
 | Import data (FTP) | Imports all data, which are located in the directory *private/cmsdata/mediaImport* and were uploaded via FTP *(FTP-Login necessary)* previously. |
