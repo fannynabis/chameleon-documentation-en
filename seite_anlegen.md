@@ -6,6 +6,8 @@ You can create a new page via the navigation management and page management ***(
 
 Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite angelegt werden soll. Ferner klicken Sie auf ***Neu***, um einen neuen Navigationspunkt anzulegen.
 
+Via right-clicking on the relevant navigation point you gonna create a new page located right under it. Furthermore you can create a new navigation point via ***New***.
+
 ![](bild16.png)
 
 ~~Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können:~~
