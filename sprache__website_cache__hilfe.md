@@ -11,8 +11,8 @@
 
 * ***Language***: It is possible to change the language while editing a multilingual CMS / Shop via clicking "Editing Language" and selecting the relevant language.
 * ***Website***: Opens the frontend in a new broser tab.
-* ***Cache***: Zwischenspeicher leeren von entweder a) Seiten-Cache leeren und b) Seiten- und Template-Cache leeren
-* ***Help***: öffnet eine Schnellreferenz aller Hilfetexte im System. Bei Einträgen mit diesem Zeichen können Sie direkt an die entsprechende Stelle im Backend springen.
+* ***Cache***: Empty Cache of either a) Empty page cache or b) Empty page and template cache
+* ***Help***: Opens a quick reference of all supporting texts in the system. öffnet eine Schnellreferenz aller Hilfetexte im System. Bei Einträgen mit diesem Zeichen können Sie direkt an die entsprechende Stelle im Backend springen.
 
 ![](bild26.png)
 
