@@ -4,6 +4,8 @@
 
 Unter *Shops* werden alle vom System verwalteten Shops aufgelistet. Ist nur ein Shop definiert, gelangt man direkt in die Einstellungen des Shops, sind jedoch mehrere definiert, wird eine Auswahl eingeblendet.
 
+Via *Shops* you will get a list including all shops which are managed by the system. If there is only one shop you enter its settings directly. In case of several managed by shops by the system, you will get a selection. 
+
 | Tab | Beschreibung |
 | -- | -- |
 | Basisdaten | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
