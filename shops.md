@@ -15,3 +15,14 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 | Systemeinstellungen | Angaben über die zuletzt verwendeten Bestell-/Kundennummern sowie den zentralen Shop-Handler sowie max. Größe des Artikelhistorie-Cookies und welche SEO-URLs-Version aktiv ist. |
 | Bewertung | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
 | Trusted Shops | TrustedShop-Konfiguration |
+
+
+| Tab | Description |
+| -- | -- |
+| Basic Datas | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
+| Standardeinstellungen | Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
+| Sucheinstellungen | Für den Suchindex und die Suche relevante Angaben |
+| Konfiguration | Die zentrale Konfiguration des Shops |
+| Systemeinstellungen | Angaben über die zuletzt verwendeten Bestell-/Kundennummern sowie den zentralen Shop-Handler sowie max. Größe des Artikelhistorie-Cookies und welche SEO-URLs-Version aktiv ist. |
+| Bewertung | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
+| Trusted Shops | TrustedShop-Konfiguration |
