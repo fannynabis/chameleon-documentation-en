@@ -34,6 +34,7 @@ Basic Data
 | Limit to following extranet groups | If there is no group given, every registered user is able to enter the page. |
 | Language of the page |  |
 
+
 ~~*Meta-Daten*: Hier können SEO-relevante Daten hinterlegt werden~~
 
 *Meta Datas*: Deposit SEO relevant datas.
