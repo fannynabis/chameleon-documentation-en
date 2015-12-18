@@ -27,8 +27,8 @@ Basisdaten
 | Image of the page | **die hier hinterlegten Bilder können, im Kombination mit Bildern die bei jedem Bereich hinterlegt werden können, vom dem Modul MTPageImageCore verwendet werden, um ein Headerbild für eine Seite (oder alle Seiten eines Bereichs) anzuzeigen.** |
 | Wall paper |  |
 | Additionally authorized | In general only those users are able to edit the pages who have a login to the portal assigned to the page. The exception to this are CMS users which are part of the here deposited group. |
-| Use SSL | If SSL is active the pages are loaded to the page including https:// automatically. |
-| Restrict access | Kann in Kombination mit "Auf folgende Extranet-Gruppen einschränken" verwendet werden, um Zugriff auf die Seite nur für bestimmte Extranet Benutzer zu erlauben. <u>Dabei gilt:</u> Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Grupen sind.|
+| Use SSL | If SSL is active, the pages are loaded to the page including https:// automatically. |
+| Restrict access | You can use this one in combination with "Limit to following extranet groups" to permit access to the page only for specific extranet users. <u>Please note:</u> If there is no group chosen, every registered user is able to enter the page. No matter to which group they belong.Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Grupen sind.|
 | Zugriff für nicht bestätigte Benutzer zulassen |  |
 | Auf folgende Extranet-Gruppen einschränken | Werden keine Gruppen angegeben, dann können alle angemeldeten Benutzer auf die Seite zugreifen |
 | Sprache der Seite |  |
