@@ -12,7 +12,7 @@ Via right-clicking on the relevant navigation point you gonna create a new page 
 
 ~~Es öffnet sich ein Dialog, bei dem u.a. folgende Angaben gemacht werden können:~~
 
-A dialog window opens where you can furnish following particulars:
+A dialog window opens where you can make following particulars:
 
 ![](bild17.png)
 
