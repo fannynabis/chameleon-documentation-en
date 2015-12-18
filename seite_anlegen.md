@@ -2,9 +2,9 @@
 
 ~~Eine neue Seite können Sie entweder über die Navigationsverwaltung oder auch über die Seitenverwaltung ***(Neu)*** anlegen. Da sowieso vorher ein Navigationsknoten angelegt werden muss empfiehlt es sich, die Seite über den Navigationsbaum anzulegen.~~
 
-You can create a new page via the navigation management and page management ***(New)***. So it makes sense to create the new page via the navigation tree because you have to create a navigation knot before.
+You can create a new page via the navigation management or page management ***(New)***. So it makes sense to create the new page via the navigation tree because you have to create a navigation knot before.
 
-Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite angelegt werden soll. Ferner klicken Sie auf ***Neu***, um einen neuen Navigationspunkt anzulegen.
+~~Klicken Sie mit der rechten Maustaste auf den Navigationspunkt, unter dem die neue Seite angelegt werden soll. Ferner klicken Sie auf ***Neu***, um einen neuen Navigationspunkt anzulegen.~~
 
 Via right-clicking on the relevant navigation point you gonna create a new page located right under it. Furthermore you can create a new navigation point via ***New***.
 
