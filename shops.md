@@ -24,5 +24,5 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 | Search setting | Relevant information for the search index and the search |
 | Configuration | The central configuration of the shop. |
 | System settings | Information from the last order- and customer number used. Also the central shop dealers, the maximum number of the article history and SEO URL versions which are active. |
-| Evaluation | After how many days does the costumer receives an evaluation request? How much percent receives it? Does the customer receives an evaluation request after every single order? |
+| Evaluation | After how many days does the costumer receives an evaluation request? What percentage of customers receives it? Does the customer receives an evaluation request after every single order? |
 | Trusted Shops | TrustedShop Configuration |
