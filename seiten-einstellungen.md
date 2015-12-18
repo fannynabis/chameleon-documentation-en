@@ -1,8 +1,10 @@
 # Seiten-Einstellungen
 
-Basisdaten
+~~Basisdaten~~
 
-| Bezeichnung | Beschreibung |
+Basic Data
+
+~~| Bezeichnung | Beschreibung |
 | -- | -- |
 | Seitenname |  |
 | SEO Pattern |  |
@@ -15,8 +17,7 @@ Basisdaten
 | Zugriff einschränken | Kann in Kombination mit "Auf folgende Extranet-Gruppen einschränken" verwendet werden, um Zugriff auf die Seite nur für bestimmte Extranet Benutzer zu erlauben. <u>Dabei gilt:</u> Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Grupen sind.|
 | Zugriff für nicht bestätigte Benutzer zulassen |  |
 | Auf folgende Extranet-Gruppen einschränken | Werden keine Gruppen angegeben, dann können alle angemeldeten Benutzer auf die Seite zugreifen |
-| Sprache der Seite |  |
-
+| Sprache der Seite |  |~~
 
 | Designation | Description |
 | -- | -- |
@@ -33,4 +34,6 @@ Basisdaten
 | Limit to following extranet groups | If there is no group given, every registered user is able to enter the page. |
 | Language of the page |  |
 
-*Meta-Daten*: Hier können SEO-relevante Daten hinterlegt werden
+~~*Meta-Daten*: Hier können SEO-relevante Daten hinterlegt werden~~
+
+*Meta Datas*: Deposit SEO relevant datas.
