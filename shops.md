@@ -25,4 +25,4 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 | Configuration | The central configuration of the shop. |
 | System settings | Information from the last order- and customer number used. Also the central shop dealers, the maximum number of the article history and SEO URL versions which are active. Angaben über die zuletzt verwendeten Bestell-/Kundennummern sowie den zentralen Shop-Handler sowie max. Größe des Artikelhistorie-Cookies und welche SEO-URLs-Version aktiv ist. |
 | Evaluation | Nach wieviel Tagen erhält der Kunde eine Bewertungsaufforderung, wieviel Prozent der Kunden erhalten diese, erhält der Kunde bei jeder Bestellung eine Bewertungsaufforderung |
-| Trusted Shops | TrustedShop-Konfiguration |
+| Trusted Shops | TrustedShop Configuration |
