@@ -9,7 +9,9 @@ Für die genaue Beschreibung der Funktionen aus dem Kontextmenü siehe oberes Ka
 
 In this step you can upload new documents, delete or update existing ones. The directory on the left and the searching functions make it possible to find the relevant folder very quick. See chapter ***2.8 Media*** for a detailed description of the context menus functions.
 
-Die Dateigröße darf die unter *CMS / Portal-Einstellungen → CMS Einstellungen → Uploader Konfiguration* eingestellten Werte nicht überschreiten.
+~~Die Dateigröße darf die unter *CMS / Portal-Einstellungen → CMS Einstellungen → Uploader Konfiguration* eingestellten Werte nicht überschreiten.~~
+
+The file size should not exceed the set values via *CMS / Portal Settings -> CMS settings -> Configuration Upload*
 
 Eine Besonderheit der Dokumente ist die Einstellung *geschützt: NEIN/JA*. Für nicht geschützte Dokumente wird ein öffentlich verfügbarer und menschlich lesbarer Link auf die Datei angelegt (http://ww.mydomain.de/chameleon/outbox/public/categoryId/FileName.pdf). 
 
