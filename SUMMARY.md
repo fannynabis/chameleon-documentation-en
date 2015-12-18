@@ -22,7 +22,7 @@
        * [Seiten-Einstellungen](seiten-einstellungen.md)
        * [Page Layouts](seiten-layouts.md)
    * [Media](medien.md)
-   * [Dokumente](dokumente.md)
+   * [Documents](dokumente.md)
    * [Sprache / Website/ Cache / Hilfe](sprache__website_cache__hilfe.md)
    * [CKEditor](ckeditor.md)
 * [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
