@@ -25,7 +25,11 @@ Basic Data
 | SEO Pattern |  |
 | Part of the portal / website |  |
 | primary navigation point | In here you can see which navigation point is assigned to which page. In this step you are able to assign the page to another (or one more) point (see page 16 and following). |
-| Image of the page | **die hier hinterlegten Bilder können, im Kombination mit Bildern die bei jedem Bereich hinterlegt werden können, vom dem Modul MTPageImageCore verwendet werden, um ein Headerbild für eine Seite (oder alle Seiten eines Bereichs) anzuzeigen.** |
+| Image of the page | **Images which are deposit in here can also be used in combination with images which are deposit in the  
+
+die hier hinterlegten Bilder können, in Kombination mit Bildern die bei jedem Bereich hinterlegt werden können, vom dem Modul MTPageImageCore verwendet werden, um ein Headerbild für eine Seite (oder alle Seiten eines Bereichs) anzuzeigen.** |
+
+
 | Wall paper |  |
 | Additionally authorized | In general only those users are able to edit pages who have a login to the portal assigned to the page. The exception to this are CMS users who are part of the here deposited group. |
 | Use SSL | If SSL is active, the pages are loaded to the page including https:// automatically. |
