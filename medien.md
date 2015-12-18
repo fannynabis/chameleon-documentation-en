@@ -32,7 +32,7 @@ It is possible to find the relevant file very quick via using the folder structu
 | Move | Moves complete tree knots within the tree structure. |
 | Upload Data | Manual upload of the files from the client computer. |
 | Import data (FTP) | Imports all data, which are located in the directory *private/cmsdata/mediaImport* and were uploaded via FTP *(FTP-Login necessary)* previously. |
-| Move folders in here | Alle Dateien, die markiert und ausgeschnitten wurden, können über diese Funktion in das markierte Verzeichnis verschoben werden. |
+| Move folders in here | All selected and cut files can be moved into the selected directory. |
 | Rename | Renames a directory. |
 
 
