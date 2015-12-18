@@ -12,7 +12,7 @@
 * ***Language***: It is possible to change the language while editing a multilingual CMS / Shop via clicking "Editing Language" and selecting the relevant language.
 * ***Website***: Opens the frontend in a new browser tab.
 * ***Cache***: Empty Cache of either a) Empty page cache or b) Empty page and template cache
-* ***Help***: Opens a quick reference of all supporting texts in the system. öffnet eine Schnellreferenz aller Hilfetexte im System. You get to the relevant sector in the backend directly via clicking the icon (if it is available).
+* ***Help***: Opens a quick reference of all supporting texts in the system. You get to the relevant sector in the backend directly via clicking the icon (if it is available).
 
 ![](bild26.png)
 
