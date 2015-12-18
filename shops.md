@@ -8,7 +8,7 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 
 | Tab | Description |
 | -- | -- |
-| Basisdaten | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
+| Basic Datas | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
 | Standardeinstellungen | Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
 | Sucheinstellungen | Für den Suchindex und die Suche relevante Angaben |
 | Konfiguration | Die zentrale Konfiguration des Shops |
