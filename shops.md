@@ -6,7 +6,7 @@
 
 Via *Shops* you will get a list including all shops managed by the system. If there is only one shop, you enter its settings directly. In case of several managed shops by the system, you will get a selection. 
 
-| Tab | Beschreibung |
+| Tab | Description |
 | -- | -- |
 | Basisdaten | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
 | Standardeinstellungen | Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
