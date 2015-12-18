@@ -13,7 +13,7 @@ In this step you can upload new documents, delete or update existing ones. The d
 
 The file size should not exceed the set values via *CMS / Portal Settings -> CMS settings -> Configuration Upload*
 
-Eine Besonderheit der Dokumente ist die Einstellung *geschützt: NEIN/JA*. Für nicht geschützte Dokumente wird ein öffentlich verfügbarer und menschlich lesbarer Link auf die Datei angelegt (http://ww.mydomain.de/chameleon/outbox/public/categoryId/FileName.pdf). 
+~~Eine Besonderheit der Dokumente ist die Einstellung *geschützt: NEIN/JA*. Für nicht geschützte Dokumente wird ein öffentlich verfügbarer und menschlich lesbarer Link auf die Datei angelegt (http://ww.mydomain.de/chameleon/outbox/public/categoryId/FileName.pdf).~~
 
 A special feature of the documents is the setting point *secure: YES / NO*. If you have an unprotected document a link is created which is easily to read and even available to the public (http://ww.mydomain.de/chameleon/outbox/public/categoryId/FileName.pdf). 
 
