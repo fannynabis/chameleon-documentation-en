@@ -20,7 +20,7 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 | Tab | Description |
 | -- | -- |
 | Basic Datas | Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops |
-| Basic settings | Settings which are used when no deviating details setting were made. Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
+| Basic settings | Settings, (for example: Standard VAT rates, basic sorting of article lists) which are used when no deviating detail settings (within the category) were made. Einstellungen (z.B. Standard-MwSt-Satz, Standardsortierung der Artikellisten), die verwendet werden, wenn keine abweichenden Detail-Einstellungen (z.B. in Kategorien) vorgenommen wurden. |
 | Search setting | Für den Suchindex und die Suche relevante Angaben |
 | Configuration | Die zentrale Konfiguration des Shops |
 | System settings | Angaben über die zuletzt verwendeten Bestell-/Kundennummern sowie den zentralen Shop-Handler sowie max. Größe des Artikelhistorie-Cookies und welche SEO-URLs-Version aktiv ist. |
