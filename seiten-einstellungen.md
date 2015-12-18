@@ -26,9 +26,9 @@ Basisdaten
 | primary navigation point | In here you can see which navigation point is assigned to which page. In this step you are able to assign the page to another (or one more) point (see page 16 and following). |
 | Image of the page | **die hier hinterlegten Bilder können, im Kombination mit Bildern die bei jedem Bereich hinterlegt werden können, vom dem Modul MTPageImageCore verwendet werden, um ein Headerbild für eine Seite (oder alle Seiten eines Bereichs) anzuzeigen.** |
 | Wall paper |  |
-| Additionally authorized | In general Normalerweise kann Seiten nur von den Benutzern editiert werden, die Zugang zu dem der Seite zugewiesenen Portal haben. Ausgenommen davon, sind CMS-Benutzer die der hier hinterlegten Gruppen gehören. |
-| SSI verwenden | ist SSL aktiv, werden Links auf die Seite automatisch mit https:// aufgerufen. |
-| Zugriff einschränken | Kann in Kombination mit "Auf folgende Extranet-Gruppen einschränken" verwendet werden, um Zugriff auf die Seite nur für bestimmte Extranet Benutzer zu erlauben. <u>Dabei gilt:</u> Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Grupen sind.|
+| Additionally authorized | In general only those users are able to edit the pages who have a login to the portal assigned to the page. The exception to this are CMS users which are part of the here deposited group. |
+| Use SSL | If SSL is active the pages are loaded to the page including https:// automatically. |
+| Restrict access | Kann in Kombination mit "Auf folgende Extranet-Gruppen einschränken" verwendet werden, um Zugriff auf die Seite nur für bestimmte Extranet Benutzer zu erlauben. <u>Dabei gilt:</u> Ist keine Gruppe gewählt, dann dürfen alle angemeldeten Benutzer auf die Seite - egal in welcher Gruppe die Benutzer sind; Ist mindestens eine Gruppe gewählt, dürfen nur Besucher auf die Seite die in mindestens einer der gewählten Grupen sind.|
 | Zugriff für nicht bestätigte Benutzer zulassen |  |
 | Auf folgende Extranet-Gruppen einschränken | Werden keine Gruppen angegeben, dann können alle angemeldeten Benutzer auf die Seite zugreifen |
 | Sprache der Seite |  |
