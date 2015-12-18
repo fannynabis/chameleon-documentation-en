@@ -57,7 +57,7 @@ In this step you should name the new page and chose a layout. (If you don't do t
 
 | Designation | Description |
 | -- | -- |
-| Linked pages | Lists all pages who are linked to the navigation point. As mentioned above links from several pages work time-dependent to one navigation point. |
+| Linked pages | Lists all pages which are linked to the navigation point. As mentioned above links from several pages work time-dependent to one navigation point. |
 | Edit page | By clicking this one you can edit the page content in the layout view. |
 | Page management | Sites configuration: here you can manage settings for: Extranet group, page title, image meta tags and more navigation points. |
 | Edit navigation | Opens the earlier described dialogue including the navigation points options. |
