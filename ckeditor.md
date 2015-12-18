@@ -6,6 +6,8 @@ The CKEditor (also known as WYSIWYG = "What you see is what you got") allows an 
 
 Der Editor findet sich vor allem in Fließtextmodulen.
 
+You can find the editor especially in running text modules.
+
 ![](bild27.png)
 
 Die einzelnen Funktionen ähneln dabei denen von bekannten Textverarbeitungsprogrammen.
