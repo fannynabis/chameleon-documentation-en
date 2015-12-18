@@ -7,7 +7,7 @@ Via *Documents* you get to the central document management of the Chameleon Syst
 Von hier aus kann man neue Dokumente hochladen sowie bestehende entfernen oder aktualisieren. Die Verzeichnisstruktur links und die Suchfunktion ermöglichen ein schnelles Auffinden der gesuchten Datei.
 Für die genaue Beschreibung der Funktionen aus dem Kontextmenü siehe oberes Kapitel ***2.8 Medien***. 
 
-In this step you can upload new documents, delete or update existing ones. 
+In this step you can upload new documents, delete or update existing ones. The directory on the left and the searching functions make it possible to find the relevant folder very quick. See chapter 2.8 Media for a detailed description of the context menus functions.
 
 Die Dateigröße darf die unter *CMS / Portal-Einstellungen → CMS Einstellungen → Uploader Konfiguration* eingestellten Werte nicht überschreiten.
 
