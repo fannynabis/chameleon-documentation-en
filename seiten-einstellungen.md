@@ -27,7 +27,7 @@ Basic Data
 | primary navigation point | In here you can see which navigation point is assigned to which page. In this step you are able to assign the page to another (or one more) point (see page 16 and following). |
 | Image of the page | **die hier hinterlegten Bilder können, im Kombination mit Bildern die bei jedem Bereich hinterlegt werden können, vom dem Modul MTPageImageCore verwendet werden, um ein Headerbild für eine Seite (oder alle Seiten eines Bereichs) anzuzeigen.** |
 | Wall paper |  |
-| Additionally authorized | In general only those users are able to edit pages who have a login to the portal assigned to the page. The exception to this are CMS users which are part of the here deposited group. |
+| Additionally authorized | In general only those users are able to edit pages who have a login to the portal assigned to the page. The exception to this are CMS users who are part of the here deposited group. |
 | Use SSL | If SSL is active, the pages are loaded to the page including https:// automatically. |
 | Restrict access | You can use this one in combination with "Limit to following extranet groups" to permit access to the page only for specific extranet users. <u>Please note:</u> If there is no group selected, every registered user is able to enter the page - no matter to which group they belong. In case of at least one group is selected, only those users are able to enter the page, who are part of less than one of the selected groups. |
 | Permit access to not confirmed users |  |
