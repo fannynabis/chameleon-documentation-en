@@ -36,8 +36,8 @@ It is possible to find the relevant file very quick via using the folder structu
 | Rename | Renames a directory. |
 
 
-Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Datensatz auf und laden über ***Mediendatei ersetzen*** die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegen Stellen auf der Website automatisch ersetzt.
+Möchten Sie ein Bild oder Video durch ein anderes ersetzen, rufen Sie den entsprechenden Datensatz auf und laden über ***Mediendatei ersetzen*** die neue Datei hoch. Das Bild (Video, ...) wird nun an allen hinterlegten Stellen auf der Website automatisch ersetzt.
 
-You can replace an image or video via ***Replace Media File*** in the relevant data set. The image (video etc.) is replaced automatically in all deposited places of the website.
+You can replace an image or video via ***Replace Media File*** in the relevant data set. The image (video etc.) is replaced automatically where it was deposited.
 
 Beim Bildmaterial muss grundsätzlich darauf geachtet werden, dass keine Bilder im CMYK-Format hochgeladen werden. Des Weiteren sollte darauf geachtet werden, dass nach Möglichkeit keine Bilder in zu hoher Auflösung (z.B. direkt von der Kamera) hochgeladen werden - je nach Server-Konfiguration kann dies zu Problemen führen. Die Dateigröße darf die unter *CMS Einstellungen → Uploader Konfiguration* eingestellten Upload-Werte nicht überschreiten.
