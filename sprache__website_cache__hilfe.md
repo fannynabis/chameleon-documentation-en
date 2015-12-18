@@ -9,7 +9,7 @@
 
 
 
-* ***Language***: It is possible to change the language while editing in a multilingual CMS / Shop via clicking "Editing Language" and selecting the relevant language. Bei multilingualen CMS/Shops hat man die Möglichkeit, während der Arbeit die Sprache zu wechseln, indem man auf „Editiersprache“ klickt und in der Auswahl die entsprechende Sprache wählt.
+* ***Language***: It is possible to change the language while editing a multilingual CMS / Shop via clicking "Editing Language" and selecting the relevant language.
 * ***Website***: Opens the frontend in a new broser tab.
 * ***Cache***: Zwischenspeicher leeren von entweder a) Seiten-Cache leeren und b) Seiten- und Template-Cache leeren
 * ***Help***: öffnet eine Schnellreferenz aller Hilfetexte im System. Bei Einträgen mit diesem Zeichen können Sie direkt an die entsprechende Stelle im Backend springen.
