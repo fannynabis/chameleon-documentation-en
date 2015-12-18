@@ -1,4 +1,4 @@
-# Sprache / Website/ Cache / Hilfe
+# Language / Website/ Cache / Support
 
 ![](bild25.png)
 
