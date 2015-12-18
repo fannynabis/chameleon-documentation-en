@@ -1,4 +1,4 @@
-# Dokumente
+# Documents
 
 ~~Über den Punkt *Dokumente* gelangt man zur zentralen Dokumentenverwaltung im Chameleon-System. Hier werden alle Daten abgelegt, die den Besuchern der Webseite als Download zur Verfügung gestellt werden sollen.~~
 
