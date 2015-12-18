@@ -12,4 +12,6 @@ You can find the editor especially in running text modules.
 
 Die einzelnen Funktionen ähneln dabei denen von bekannten Textverarbeitungsprogrammen.
 
+The single functions are comparable to conventional to word processing programs.
+
 Weitere Informationen finden sich unter http://ckeditor.com/ bzw. eine Erklärung zu den Funktionen unter http://docs.cksource.com/CKEditor_3.x/Users_Guide. 
