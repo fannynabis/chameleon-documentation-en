@@ -1,6 +1,8 @@
 # Dokumente
 
-Über den Punkt *Dokumente* gelangt man zur zentralen Dokumentenverwaltung im Chameleon-System. Hier werden alle Daten abgelegt, die den Besuchern der Webseite als Download zur Verfügung gestellt werden sollen.
+~~Über den Punkt *Dokumente* gelangt man zur zentralen Dokumentenverwaltung im Chameleon-System. Hier werden alle Daten abgelegt, die den Besuchern der Webseite als Download zur Verfügung gestellt werden sollen.~~
+
+Via *Documents* you get to the central document management of the Chameleon System. Every file is deposit in here. So each visitor browsing the website is able to download them.
 
 Von hier aus kann man neue Dokumente hochladen sowie bestehende entfernen oder aktualisieren. Die Verzeichnisstruktur links und die Suchfunktion ermöglichen ein schnelles Auffinden der gesuchten Datei.
 Für die genaue Beschreibung der Funktionen aus dem Kontextmenü siehe oberes Kapitel ***2.8 Medien***. 
