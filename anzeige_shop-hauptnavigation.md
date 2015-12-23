@@ -1,8 +1,8 @@
 # Anzeige Shop-Hauptnavigation
 
-*Website → Shop-Hauptnavigation*
+*Website → Shop Main Navigation*
 
-Über diesen Menüpunkt wird die Anzeige der Shop-Hauptnavigation gesteuert.
+You can manage the display of the shop navigation via this menu button. 
 
 ![](bild28.png)
 
