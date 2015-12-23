@@ -45,10 +45,10 @@ Every available article is listed in the article administration. Using the searc
 #### Description
 
 
-| Bezeichnung | Beschreibung | erforderlich |
+~~| Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
 | **Kurzbeschreibung** | Eine kurze Zusammenfassung, die den Artikel möglichst treffend beschreibt. Die Anzeige der Kurzbeschreibung ist abhängig vom gewählten Seitentemplate (View), gewöhnlich wird sie in der Artikelliste mit aufegführt. | nein |
-| **Beschreibung** | Ausführliche Beschreibung des Artikels auf der Artikeldetailseite | nein |
+| **Beschreibung** | Ausführliche Beschreibung des Artikels auf der Artikeldetailseite | nein |~~
 
 
 | Designation | Description | required |
@@ -58,10 +58,10 @@ Every available article is listed in the article administration. Using the searc
 
 <br>
 
-#### Kategorie / Merkmale
+#### Categorie / Attributes
 
 
-| Bezeichnung | Beschreibung | erforderlich |
+| Designation | Description | required |
 | -- | -- | -- |
 | **Hersteller / Marke** | Artikelhersteller oder Marke | nein |
 | **Warengruppen** | Dienen der Gruppierung der Artikel. Warengruppen selbst können z.B. als Einschränkung bei Zahlmethoden verwendet werden. Die Zahlmethode wäre im Warenkorb nur dann verfügbar, wenn alle Artikel des Warenkorbes mindestens in einer Warengruppe sind.Warengruppen können entweder hier, direkt beim Artikel, angelegt werden oder über *Artikel → Warengruppen*, die Warengruppe wird dann beim Artikel verknüpft (AUSWÄHLEN). | nein |
