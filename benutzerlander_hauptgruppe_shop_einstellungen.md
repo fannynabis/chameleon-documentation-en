@@ -2,6 +2,6 @@
 
 *Shop-Settings → User Countries*
 
-Die zur Registrierung verfügbaren Länder.
+~~Die zur Registrierung verfügbaren Länder.~~
 
 Countries from where you are able to register.
