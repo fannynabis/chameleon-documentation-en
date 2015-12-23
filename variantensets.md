@@ -6,4 +6,4 @@ If you have several variants of an article, you have to create fitting variant s
 
 Das Anlegen von Variantensets und Varianten eines Artikels wird im Kapitel ** 4.8 Artikelvarianten** beschrieben.
 
-The Create of variant sets and variants are described in chapter **4.8 Article Variants**.
+The create of variant sets and variants are described in chapter **4.8 Article Variants**.
