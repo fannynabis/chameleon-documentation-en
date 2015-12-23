@@ -4,6 +4,6 @@
 
 If you have several variants of an article, you have to create fitting variant sets. For example a set including the frame size and color of bikes.
 
-Das Anlegen von Variantensets und Varianten eines Artikels wird im Kapitel ** 4.8 Artikelvarianten** beschrieben.
+~~Das Anlegen von Variantensets und Varianten eines Artikels wird im Kapitel ** 4.8 Artikelvarianten** beschrieben.~~
 
 How to create a variant sets and variants are described in chapter **4.8 Article Variants**.
