@@ -30,7 +30,7 @@
    * [Extranet Configuration](extranet-konfiguration.md)
    * [Benutzerländer (Hauptgruppe Shop Einstellungen)](benutzerlander_hauptgruppe_shop_einstellungen.md)
    * [Maßeinheiten](masseinheiten.md)
-   * [Umsatzsteuergruppen](umsatzsteuergruppen.md)
+   * [VAT Groups](umsatzsteuergruppen.md)
    * [Variantensets](variantensets.md)
    * [Währungen](wahrungen.md)
    * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
