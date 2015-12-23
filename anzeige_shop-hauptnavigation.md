@@ -26,7 +26,7 @@ You can create any menu point or edit existing ones. You can link a menu point e
 
 | Designation | Description |
 | -- | -- |
-| **Gehört zum Portal** | Wählen Sie den Name des Portals aus (sofern Sie mehrere Portale im CMS verwalten). |
+| **Belongs to the portal** | Wählen Sie den Name des Portals aus (sofern Sie mehrere Portale im CMS verwalten). |
 | **Name** | Der Name des Menüpunktes, wie er im Frontend erscheinen soll. |
 | **Gehört zu diesem Brand-Store** | Falls Ihr Shop Brand-Stores verwendet, wählen Sie den entsprechenden aus (so können Sie z.B. Artikel aus Brand-Stores für den Kunden schnell erreichbar zur Verfügung stellen). |
 | **Aktiv** | Aktiviert den Menüpunkt |
