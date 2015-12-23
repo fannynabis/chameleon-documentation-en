@@ -6,7 +6,7 @@ You can manage the display of the shop navigation via this menu button.
 
 ![](bild28.png)
 
-Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menüpunkt kann entweder mit einer Seite oder auch mit einer Artikelkategorie verknüpft werden.
+~~Sie können beliebige Menüpunkte hinzufügen oder bestehende ändern. Ein Menüpunkt kann entweder mit einer Seite oder auch mit einer Artikelkategorie verknüpft werden.~~
 
 You can create any menu point or edit existing ones. You can link a menu point either to a page nor to an article category. 
 
