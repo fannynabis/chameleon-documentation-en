@@ -2,7 +2,9 @@
 
 *Shop Settings → Units of Measure*
 
-Hier werden die Maßeinheiten für die Grundpreisberechnung hinterlegt.
+~~Hier werden die Maßeinheiten für die Grundpreisberechnung hinterlegt.~~
+
+In here you can deposit the units of measure to calculate the basic price.
 
 Jede Einheit besteht dabei aus folgendem:
 
