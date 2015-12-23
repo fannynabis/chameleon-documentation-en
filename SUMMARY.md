@@ -25,7 +25,7 @@
    * [Documents](dokumente.md)
    * [Language / Website/ Cache / Support](sprache__website_cache__hilfe.md)
    * [CKEditor](ckeditor.md)
-* [Zentrale Shop-Einstellungen](zentrale_shop-einstellungen.md)
+* [Main Shop Settings](zentrale_shop-einstellungen.md)
    * [Shops](shops.md)
    * [Extranet-Konfiguration](extranet-konfiguration.md)
    * [Benutzerländer (Hauptgruppe Shop Einstellungen)](benutzerlander_hauptgruppe_shop_einstellungen.md)
