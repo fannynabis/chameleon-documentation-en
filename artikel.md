@@ -36,7 +36,7 @@ Every available article is listed in the article administration. Using the searc
 | **Article Preview Images** | In here you can define the individual preview images, because it is possible to present the article in different ways and different points in your shop. The first of the article preview images will be used if there is nothing else defined for a matching preview size. | no |
 | **Article Documents** | In here the relevant documents are assigned to the articles (for example  the user guide, the technical descriptions etc.) | no |
 | **Date of Creation** | On which date the article was created. | no |
-| **Active** | Non active articles will not be displayed in the shop | yes |
+| **Active** | Non active articles will not be displayed in the shop. | yes |
 | **Tags / Keywords** | Displayed in the article detail page. Articles with the smae tags can be displayed within a list. | no |
 
 <br>
