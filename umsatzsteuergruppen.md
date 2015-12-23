@@ -1,4 +1,4 @@
-# Umsatzsteuergruppen
+# VAT Groups
 
 *Shop-Einstellungen → Umsatzsteuergruppen*
 
