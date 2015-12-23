@@ -37,7 +37,7 @@ Every available article is listed in the article administration. Using the searc
 | **Article Documents** | In here the relevant documents are assigned to the articles (for example  the user guide, the technical descriptions etc.) | no |
 | **Date of Creation** | On which date the article was created. | no |
 | **Active** | Non active articles will not be displayed in the shop. | yes |
-| **Tags / Keywords** | Displayed in the article detail page. Articles with the smae tags can be displayed within a list. | no |
+| **Tags / Keywords** | Displayed in the article detail page. Articles with the same tag can be displayed within a list. | no |
 
 <br>
 
