@@ -34,7 +34,7 @@
    * [Variantensets](variantensets.md)
    * [Currencies](wahrungen.md)
    * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
-* [Produktinformation](produktinformation.md)
+* [Product Information](produktinformation.md)
    * [Artikel](artikel.md)
    * [Artikelkategorien](artikelkategorien.md)
    * [Artikeltypen](artikeltypen.md)
