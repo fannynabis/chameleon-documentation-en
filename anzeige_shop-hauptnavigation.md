@@ -28,7 +28,7 @@ You can create any menu point or edit existing ones. You can link a menu point e
 | -- | -- |
 | **Part of the portal** | Select a name for the portal (In case of you manage several portals in the CMS). |
 | **Name** | The name of the menu point which is also displayed in the frontend. |
-| **Part of this Brand-Store** | If you are using Brand Stores you should select fitting ones.Falls Ihr Shop Brand-Stores verwendet, wählen Sie den entsprechenden aus (so können Sie z.B. Artikel aus Brand-Stores für den Kunden schnell erreichbar zur Verfügung stellen). |
+| **Part of this Brand-Store** | If you are using Brand Stores, select fitting ones. Falls Ihr Shop Brand-Stores verwendet, wählen Sie den entsprechenden aus (so können Sie z.B. Artikel aus Brand-Stores für den Kunden schnell erreichbar zur Verfügung stellen). |
 | **Aktiv** | Aktiviert den Menüpunkt |
 | **Position** | Die angezeigte Reihenfolge können Sie hier verändern. |
 | **Navigation aus** | Wählen Sie hier aus, ob der Menüpunkt mit einer Seite oder einer Produktkategorie verknüpft werden soll. |
