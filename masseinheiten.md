@@ -8,7 +8,7 @@ In here you can deposit the units of measure to calculate the basic price.
 
 ~~Jede Einheit besteht dabei aus folgendem:~~
 
-Each unit has of the following: 
+Thereby each unit has of the following: 
 
 * Name: *Gramm*
 * Symbol oder Abkürzung: *g*
