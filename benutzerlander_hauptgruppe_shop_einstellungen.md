@@ -1,5 +1,5 @@
-# Benutzerländer (Hauptgruppe Shop Einstellungen)
+# User Countries (Main Group Shop Settings)
 
-*Shop-Einstellungen → Benutzerländer*
+*Shop-Settings → User Countries*
 
 Die zur Registrierung verfügbaren Länder.
