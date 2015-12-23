@@ -33,7 +33,7 @@ Every available article is listed in the article administration. Using the searc
 | **Article Number** | The unique number of the article | no |
 | **Detailed Images of the article** | Images of the article. The first image of the list will be used as a standard preview image if there is nothing else defined.  | no |
 | **Article Default Preview Images** | Main image of the article (displayed within the categories) | no |
-| **Article Preview Images** | In here you can define the individual preview images, because it is possible to present the article in different ways and different points in your online shop. Da ein Artikel im Shop an vielen Stellen unterschiedlich präsentiert werden kann, ist hier die Möglichkeit geboten, die jeweiligen Vorschaubilder definieren zu können. The first image of the article preview images will be used if there is nothing else defined for a matching preview size. | no |
+| **Article Preview Images** | In here you can define the individual preview images, because it is possible to present the article in different ways and different points in your shop. Da ein Artikel im Shop an vielen Stellen unterschiedlich präsentiert werden kann, ist hier die Möglichkeit geboten, die jeweiligen Vorschaubilder definieren zu können. The first image of the article preview images will be used if there is nothing else defined for a matching preview size. | no |
 | **Article Documents** | In here the relevant documents are assigned to the articles (for example  the user guide, the technical descriptions etc.) | no |
 | **Date of Creation** |  | no |
 | **Active** | Non active articles will not be displayed in the shop | yes |
