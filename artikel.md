@@ -2,16 +2,18 @@
 
 *Article → Article*
 
-Every available article is listed In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die Suchfunktion ermöglicht ein schnelles Auffinden des gesuchten Artikels. Die Artikel gelangen entweder per Import in den Shop oder werden manuell angelegt.
+~~In der Artikelverwaltung sind alle im Shop verfügbaren Artikel aufgelistet. Die Suchfunktion ermöglicht ein schnelles Auffinden des gesuchten Artikels. Die Artikel gelangen entweder per Import in den Shop oder werden manuell angelegt.~~
+
+Every available article is listed in the article administration. Using the search function you can easily find the product, you are looking for. The articles are created either via import or manual. 
 
 
 <br>
 
 
-#### Basisdaten
+#### Basic Data
 
 
-| Bezeichnung | Beschreibung | erforderlich |
+| Designation | Description | erforderlich |
 | -- | -- | -- |
 | **Name** | Benennung des Artikels. Der Name ist erforderlich, um den Artikel im CMS-Backend finden zu können. | ja |
 | **Artikelnummer** | Die eindeutige Nummer des Artikels im Shop | nein |
