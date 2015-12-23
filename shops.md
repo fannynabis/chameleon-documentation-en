@@ -19,7 +19,7 @@ Via *Shops* you will get a list including all shops managed by the system. If th
 
 | Tab | Description |
 | -- | -- |
-| Basic Datas | **Pflege der grundlegenden Daten zum Besitzer und Zugehörigkeit des Shops** |
+| Basic Datas | Manage the main data of the owner and affiliation of the shop |
 | Basic settings | Settings, (for example: Standard VAT rates, basic sorting of article lists) which are used when no deviating detail settings (within the category) were made. |
 | Search setting | Relevant information for the search index and the search |
 | Configuration | The central configuration of the shop. |
