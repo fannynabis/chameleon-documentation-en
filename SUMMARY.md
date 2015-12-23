@@ -32,7 +32,7 @@
    * [Maßeinheiten](masseinheiten.md)
    * [VAT Groups](umsatzsteuergruppen.md)
    * [Variantensets](variantensets.md)
-   * [Währungen](wahrungen.md)
+   * [Currencies](wahrungen.md)
    * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
 * [Produktinformation](produktinformation.md)
    * [Artikel](artikel.md)
