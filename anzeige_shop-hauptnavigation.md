@@ -12,7 +12,7 @@ You can create any menu point or edit existing ones. You can link a menu point e
 
 <br>
 
-| Bezeichnung | Beschreibung |
+~~| Bezeichnung | Beschreibung |
 | -- | -- |
 | **Gehört zum Portal** | Wählen Sie den Name des Portals aus (sofern Sie mehrere Portale im CMS verwalten). |
 | **Name** | Der Name des Menüpunktes, wie er im Frontend erscheinen soll. |
@@ -21,7 +21,7 @@ You can create any menu point or edit existing ones. You can link a menu point e
 | **Position** | Die angezeigte Reihenfolge können Sie hier verändern. |
 | **Navigation aus** | Wählen Sie hier aus, ob der Menüpunkt mit einer Seite oder einer Produktkategorie verknüpft werden soll. |
 | **Untermenü durch Shop-Hauptkategorien ersetzen** | Jeder Menüpunkt kann weitere Unterpunkte haben. Bei JA werden hier die Hauptkategorien des Shops (*Artikel → Artikelkategorien*) automatisch als Untermenü hinzugefügt. |
-| **Eigene CSS-Klasse** | Hier kann eine CSS-Klasse definiert werden, die dann auf den Navigationspunkt angewendet wird. Standardmäßig kann „onSale“ für Angebote verwendet werden (der Menüpunkt wird dann in einer hervorgehobenen Farbe angezeigt). |
+| **Eigene CSS-Klasse** | Hier kann eine CSS-Klasse definiert werden, die dann auf den Navigationspunkt angewendet wird. Standardmäßig kann „onSale“ für Angebote verwendet werden (der Menüpunkt wird dann in einer hervorgehobenen Farbe angezeigt). |~~
 
 
 | Designation | Description |
