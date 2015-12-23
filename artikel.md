@@ -53,8 +53,8 @@ Every available article is listed in the article administration. Using the searc
 
 | Designation | Description | required |
 | -- | -- | -- |
-| **Short Description** | Short and abt summary of the article. If the shrort description is displayed or not depends on the selected page template (view).Eine kurze Zusammenfassung, die den Artikel möglichst treffend beschreibt. Die Anzeige der Kurzbeschreibung ist abhängig vom gewählten Seitentemplate (View), gewöhnlich wird sie in der Artikelliste mit aufegführt. | nein |
-| **Beschreibung** | Ausführliche Beschreibung des Artikels auf der Artikeldetailseite | nein |
+| **Short Description** | Short and apt summary of the article. If the short description is displayed or not depends on the selected page template (view). Usually it is also displayed in the article list. | no |
+| **Description** | Detailed description on the article detail page. | no |
 
 <br>
 
