@@ -35,7 +35,7 @@
    * [Currencies](wahrungen.md)
    * [Anzeige Shop-Hauptnavigation](anzeige_shop-hauptnavigation.md)
 * [Product Information](produktinformation.md)
-   * [Artikel](artikel.md)
+   * [Article](artikel.md)
    * [Artikelkategorien](artikelkategorien.md)
    * [Artikeltypen](artikeltypen.md)
    * [Beitragende Personen](beitragende_personen.md)
