@@ -32,5 +32,5 @@ You can create any menu point or edit existing ones. You can link a menu point e
 | **Active** | Activates the menu point |
 | **Position** | In this step you can edit the displayed order. |
 | **Navigation off** | Here you can decide if the navigation point should be linked with a page or a product category. |
-| **Untermenü durch Shop-Hauptkategorien ersetzen** | Jeder Menüpunkt kann weitere Unterpunkte haben. Bei JA werden hier die Hauptkategorien des Shops (*Artikel → Artikelkategorien*) automatisch als Untermenü hinzugefügt. |
+| **Replace the submenu with the main category of the shop** | Every menu point can include more submenus. By selecting YES the main categories of the shop will be added  automatically as a submenu. Bei JA werden hier die Hauptkategorien des Shops (*Artikel → Artikelkategorien*) automatisch als Untermenü hinzugefügt. |
 | **Eigene CSS-Klasse** | Hier kann eine CSS-Klasse definiert werden, die dann auf den Navigationspunkt angewendet wird. Standardmäßig kann „onSale“ für Angebote verwendet werden (der Menüpunkt wird dann in einer hervorgehobenen Farbe angezeigt). |
