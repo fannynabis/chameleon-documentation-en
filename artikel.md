@@ -13,7 +13,7 @@ Every available article is listed in the article administration. Using the searc
 #### Basic Data
 
 
-| Beschreibung | Bezeichnung | erforderlich |
+~~| Beschreibung | Bezeichnung | erforderlich |
 | -- | -- | -- |
 | **Name** | Benennung des Artikels. Der Name ist erforderlich, um den Artikel im CMS-Backend finden zu können. | ja |
 | **Artikelnummer** | Die eindeutige Nummer des Artikels im Shop | nein |
@@ -23,7 +23,7 @@ Every available article is listed in the article administration. Using the searc
 | **Artikeldokumente** | Hier werden die zum Artikel passenden Dokumente zugewiesen (z. B Benutzerhandbuch, technische Beschreibung usw.). | nein |
 | **Erstellt am** | Erstellungsdatum / Anlagedatum | nein |
 | **Aktiv** | Inaktive Artikel werden im Shop nicht angezeigt. | ja |
-| **Tags / Schlagworte** | Wird auf der Artikeldetailseite ausgegeben. Artikel mit gleichen Tags können so in einer Artikelliste ausgegeben werden. | nein |
+| **Tags / Schlagworte** | Wird auf der Artikeldetailseite ausgegeben. Artikel mit gleichen Tags können so in einer Artikelliste ausgegeben werden. | nein |~~
 
 
 
