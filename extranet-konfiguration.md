@@ -1,4 +1,4 @@
-# Extranet-Konfiguration
+# Extranet Configuration
 
 *CMS / Portal-Einstellungen → Extranet-Konfiguration*
 
