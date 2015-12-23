@@ -1,4 +1,4 @@
-# Zentrale Shop-Einstellungen
+# Main Shop Settings
 
 
 
