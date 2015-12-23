@@ -1,2 +1,2 @@
-# Produktinformation
+# Product Information
 
