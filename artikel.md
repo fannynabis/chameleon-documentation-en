@@ -209,10 +209,10 @@ Via "Metadata" you can overwrite the metadata for the relevant product.
 | **Anzahl Sterne** | Gibt die durchschnittliche Benutzerbewertung des Produktes an | nein |
 | **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |~~
 
-| Bezeichnung | Beschreibung | erforderlich |
+| Designation | Description | required |
 | -- | -- | -- |
-| **Anzahl Sterne** | Gibt die durchschnittliche Benutzerbewertung des Produktes an | nein |
-| **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |
+| **Number of Stars** | Sets the average recession from customers about the product. | no |
+| **Customer Recession** | Recessions which are created by customers. Depends on the configuration. | no |
 
 <br>
 
