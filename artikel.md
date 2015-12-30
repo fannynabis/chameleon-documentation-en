@@ -61,7 +61,7 @@ Every available article is listed in the article administration. Using the searc
 #### Categorie / Attributes
 
 
-| Designation | Description | required |
+~~| Designation | Description | required |
 | -- | -- | -- |
 | **Producer / Brand** | Producer or brand | no |
 | **Warengruppen** | Forms article groups.ppen selbst können z.B. als Einschränkung bei Zahlmethoden verwendet werden. Die Zahlmethode wäre im Warenkorb nur dann verfügbar, wenn alle Artikel des Warenkorbes mindestens in einer Warengruppe sind.Warengruppen können entweder hier, direkt beim Artikel, angelegt werden oder über *Artikel → Warengruppen*, die Warengruppe wird dann beim Artikel verknüpft (AUSWÄHLEN). | nein |
@@ -72,7 +72,20 @@ Every available article is listed in the article administration. Using the searc
 | **Produktattribute** | Produktattribute sind Merkmale, denen unterschiedliche Werte zugewiesen werden können, z.B. “waschbar bei” + zugehöriger Wert “30°C”. Ohne Zuweisung eines Wertes ist dieses Attribut aussagelos. | nein |
 | **Auf folgende Shops einschränken** | Falls im System mehrere Shops existieren, kann hier eine Einschränkung der Artikelsichtbarkeit vorgenommen werden. | nein |
 | **Zum Arktikel beitragende Personen** | Hier werden Personen oder Firmen hinterlegt, die in die Produktion des Artikels involviert waren (z.B. als Autor oder Sprecher). Die Anzeige ist abhängig vom gewählten Seitentemplate. | nein |
-| **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |
+| **Download-Datei** | Hier können Sie diesem Artikel einen Download aus der Dokumentenverwaltung zuweisen. Diese Datei kann vom User erst heruntergeladen werden, wenn der Artikel erfolgreich gekauft wurde. **<u>Wichtig</u>**:Da diese Funktion auch bei Produkten zur Verfügung steht, die nicht explizit als "Download" definiert wurden (z.B. über die Zuweisung eines Lagers namens "Download"), können hier auch sonstige für den Artikel relevanten Files hinterlegt werden - z.B. Firmware-Upgrades für Hardware etc. | nein |~~
+
+| Designation | Description | required |
+| -- | -- | -- |
+| **Producer / Brand** | Producer or brand | no |
+| **Product Group** | Forms article groups. You can use them for example as a limitation wihtin the payment method. So the relevant payment method gets available in the shopping cart, in case of the following: All articles are part of at least one product group. You can create a product group either directly in this step via the article or via *Article → Product Group*. So the product group will be linked to the article (SELECT). | no |
+| **Article Type** | An article can be assigned to one or several article types (CD, download, product etc.). Article types are useful to execute the serching filter or use the shopping cart (For example: There are no shipping costs for downloads). | no |
+| **Product categories** | Every article can be assigned to one (or several) categories. Thereby it will be displayed within the article list of the corresponding category. | yes |
+| **Main category of the article** | If you are not on a category page which is linked to the article the main category will be used for the generation of the article-URLs by default. | no |
+| **Article characteristics** | Article characteristics are descriptions which can be attached to the articles. The description sets out clearly on how to deal with an article. For example: „is washable“. „is heat- and cold-resistant“. It is possible to attach a name, a description and even an icon to every characteristic. | no |
+| **Product attribute** | is a characteristic which is assignable to several values. For example: „washable up to“ + corresponding value “30°C“. It is useless if you do not assign them. | no |
+| **Limited to the following shops** | If there are several shops existing within the same system it is possible to limit them to the articles which should be visible. | no |
+| **Persons who can contribute to an article** | In here you can assign persons or companies, which were involved in the production (for exmaple: an author or speaker). Whether it is displayed or not depends on the selected page template. | no |
+| **Download-File** | In here you can assign the correspoding download from the document management to the article. This is only possible, if the user has already bought it.  **<u>Please note</u>**: This function does also exist for products, which are not explicitly defined as a „download“ (for example: Via the allocation of a warehouse called „download“). So you can store any file which ist relevant for the product (for example: Firmware-Upgrade for hardware etc.).| no |
 
 <br>
 
