@@ -197,7 +197,7 @@ Via "Metadata" you can overwrite the metadata for the relevant product.
 | **Ranking of the Article** | is a number. With that one you can manage the ranking of all products within lists. | no |
 | **Virtual Article** | Identifies the article as virtual (does not exist in real-life). For example an e-book-download when buying a book. | no |
 | **Is searchable** | Determines if the article will be added to the searching index. | no |
-| **Mark as new** | is an optional setting which is shown in the design. | no |
+| **Mark as new** | is an optional setting which is shown via the design. | no |
 
 
 <br>
