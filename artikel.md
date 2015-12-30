@@ -189,14 +189,15 @@ Via "Metadata" you can overwrite the metadata for the relevant product.
 | **Gewichtung des Artikels** | Zahl, über die der Rang des Produktes in den Listen gesteuert werden kann. | nein |
 | **Virtueller Artikel** | Identifiziert den Artikel als virtuell (real nicht verfügbar). Ein Beispiel für einen virtuellen Artikel könnte ein eBook-Download beim Kauf eines Buches sein. | nein |
 | **Ist suchbar** | Definiert, ob der Artikel in den Suchindex aufgenommen wird. | nein |
-| **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |
-~~
+| **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |~~
+
+
 | Designation | Description | required |
 | -- | -- | -- |
 | **Ranking of the Article** | is a number. With that one you can manage the ranking of all products within lists. | no |
 | **Virtual Article** | Identifies the article as virtual (does not exist in real-life). For example an e-book-download when buying a book. | no |
 | **Is searchable** | Determines if the article will be added to the searching index. | no |
-| **Mark as new** | is an optianal settng which is shown in the design. | no |
+| **Mark as new** | is an optional setting which is shown in the design. | no |
 
 
 <br>
