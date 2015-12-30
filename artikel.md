@@ -202,7 +202,12 @@ Via "Metadata" you can overwrite the metadata for the relevant product.
 
 <br>
 
-#### Bewertungen
+#### Valuation
+
+~~| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| **Anzahl Sterne** | Gibt die durchschnittliche Benutzerbewertung des Produktes an | nein |
+| **Kundenrezessionen** | Alle von den Kunden geschriebenen Rezensionen. Je nach Konfiguration | nein |~~
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
