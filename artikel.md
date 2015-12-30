@@ -89,16 +89,26 @@ Every available article is listed in the article administration. Using the searc
 
 <br>
 
-#### Preis / Versand
+#### Price / Shipping
 
-| Bezeichnung | Beschreibung | erforderlich |
+~~| Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
 | **Preis** | Artikel-Brutto-Preis | ja |
 | **Vergleichspreis** | Der Vergleichspreis (UVP) des Artikels (wird für gewöhnlich im Shop durchgestrichen angezeigt, da höher als der eigentliche Preis) | nein |
 | **Umsatzsteuergruppe** | Zum Artikel passender Umsatzsteuersatz | nein |
 | **Artikel ist versandkostenfrei** | Identifiziert Artikel, die versandkostenfrei versendet werden. | nein |
 | **keine Gutscheine zulassen** | JA: im Warenkorb angewendeten Gutscheine wirken sich nicht auf dieses Produkt aus. | nein |
-| **keine Rabatte zulassen** | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |
+| **keine Rabatte zulassen** | JA: Rabatte werden nicht auf dieses Produkt angewendet. | nein |~~
+
+
+| Designation | Description | required |
+| -- | -- | -- |
+| **Price** | Article-Button-Price | yes |
+| **Comparison-Price** | The comparison price (UVP) will be normally displayed crossed out in the shop. This one is a little bit higher than the normal one. | no |
+| **VAT group** | VAT rate which fits to the article | no |
+| **Article with no shipping costs** | Identifies articles, which are delivered without shippig costs. | no |
+| **No Vouchers accepted** | YES: Vouchers which will be used in the shipping cart will not be accepted for the product. | no |
+| **No Discount accepted** | YES: Discounts will not be accepted for the product. | no |
 
 <br>
 
