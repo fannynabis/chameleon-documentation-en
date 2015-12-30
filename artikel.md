@@ -136,19 +136,28 @@ You can create several variations of an article, for example sizes and / or colo
 
 <br>
 
-####Lager
+####Warehouse
 
-| Bezeichnung | Beschreibung | erforderlich |
+~~| Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
 | **Lagerbestand** | Auf Lager, verfügbare Artikelanzahl | nein |
 | **Bei 0 Bestand Vormerken anbieten** | Sinkt der Bestand auf „0“, wird ein Formular zum Vormerken des Artikels auf der Artikeldetailseite angezeigt. | nein |
-| **Lieferstatus** | Ein meist vom Shopbetreiber vorgegebener Status wie „nicht lieferbar“ oder „sofort lieferbar“, der auf der Artikeldetailseite angezeigt werden kann. Im Datensatz des Lieferstatus (Lagerbestandsmeldung) kann definiert werden, ob der Artikel automatisch deaktiviert werden soll, wenn der Bestand 0 ist. Bei NEIN ist der Artikel also immer noch sichtbar, auch wenn der Bestand ≤0 ist. | nein |
+| **Lieferstatus** | Ein meist vom Shopbetreiber vorgegebener Status wie „nicht lieferbar“ oder „sofort lieferbar“, der auf der Artikeldetailseite angezeigt werden kann. Im Datensatz des Lieferstatus (Lagerbestandsmeldung) kann definiert werden, ob der Artikel automatisch deaktiviert werden soll, wenn der Bestand 0 ist. Bei NEIN ist der Artikel also immer noch sichtbar, auch wenn der Bestand ≤0 ist. | nein |~~
+
+
+| Designation | Description| required |
+| -- | -- | -- |
+| **Stock** | in stock, number of available items | no |
+| **offer „Note Stock“ when 0** | When the inventory sinks down to „0“, a formular will get displayed where you can note the article on the artikel detail page. | no |
+| **Delivery Status** | is a status given by the shop owner. For example „out of stock“ or „in stock“, which can be shown on the artikel detail page. You can manage your settings if the article should be deactivated automatically if the stock sinks down to 0 via the data set within the inventory report. By clicking NO the article is stays visible in the shop (even the inventory is less than zero). | no |
 
 <br>
 
 #### Cross Selling
 
-Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **4.9 Produktlisten**).
+~~Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **4.9 Produktlisten**).~~
+
+In here you can assign articles with similar ones and their accessories. This is useful for your sales promotion because they will be displayed in the same article view (see chapter **4.9 Product Lists**).
 
 <br>
 
