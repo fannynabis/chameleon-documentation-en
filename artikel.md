@@ -157,7 +157,7 @@ You can create several variations of an article, for example sizes and / or colo
 
 ~~Im Bereich Cross Selling können mit dem Artikel verwandte Artikel (ähnliche Artikel) verknüpft werden und das Zubehör des Artikels zugewiesen werden. Diese Verknüpfungen werden je nach Shop-Design zur Verkaufsförderung verwendet und werden bei der Ansicht des Artikels mit angezeigt (sh. auch Kapitel **4.9 Produktlisten**).~~
 
-In here you can assign articles with similar ones and their accessories. This is useful for your sales promotion because they will be displayed in the same article view (see chapter **4.9 Product Lists**).
+In here you can assign articles with similar ones and even their accessories. This is useful for your sales promotion because they will be displayed in the same article view (see chapter **4.9 Product Lists**).
 
 <br>
 
