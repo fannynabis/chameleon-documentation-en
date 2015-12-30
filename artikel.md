@@ -112,19 +112,27 @@ Every available article is listed in the article administration. Using the searc
 
 <br>
 
-#### Inhalt / Maße / Gewicht
+#### Content / Sizes / Weight
 
-Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimensionen des Artikels angegeben werden.
+~~Unter *Inhalt / Maße / Gewicht* können die entsprechenden Angaben zu den Dimensionen des Artikels angegeben werden.~~
 
-Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterlegen Sie die Angaben in den Feldern **Inhalt** (Mengenangabe) und **Maßeinheit des Inhalts** (kg, g, l, ml, usw.).
+Via *Content / Sizes / Weight* you can set information about the dimension of the article.
 
-Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3.4 Maßeinheiten**).
+~~Möchten Sie Grundpreise in Ihrem Shop angeben (z.B. 100g / 5,73 €), hinterlegen Sie die Angaben in den Feldern **Inhalt** (Mengenangabe) und **Maßeinheit des Inhalts** (kg, g, l, ml, usw.).~~
+
+If you want to set the basic price (for example 100g / 5,73 €) in your shop just deposit the information in the box **Content** (quantity) und **Unit of Measurement** (kg, g, l, ml, etc.).
+
+~~Die Maßeinheiten selbst können über das CMS erweitert werden (sh. Kapitel **3.4 Maßeinheiten**).~~
+
+The units of measurement can be extended via the CMS (see chapter **3.4 Units of Measurement**).
 
 <br>
 
-#### Varianten
+#### Vari
 
-Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.
+~~Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.~~
+
+You can create several variations of an article, for example sizes and / or colors of clothes, via the variant generator. See chapter **4.8  Variation of Articles**.
 
 <br>
 
