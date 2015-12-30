@@ -170,17 +170,26 @@ In here you can assign articles with similar ones and even their accessories. Th
 | **Meta-Description** | Optionale Meta-Beschreibung (description) für die Artikelseite. Wird kein Wert hinterlegt, erstellt das System eine Meta-Beschreibung auf Basis der Artikeldaten. Die Description wird als erläuternder Text bei den trefferlisten in Suchmaschinen angezeigt. | nein |~~
 
 
-| Bezeichnung | Beschreibung | erforderlich |
+| Designation | Description | required |
 | -- | -- | -- |
-| **SEO Pattern** | Durch die Definition des SEO-Patterns kann genau gesteuert werden, wie der Titel der Artikelseite aussehen soll. **<u>Zur Verfügung stehen</u>**: [{PORTAL_NAME}] - Name des Portals; [{CATEGORY_NAME}] – Kategorie-Name; [{MANUFACTURER_NAME}] – Hersteller-Name; [{ARTICLE_NAME}] - Artikelbezeichnung; [{SHOW}] – zeigt alle Möglichkeiten an; *Wird hier nichts eingetragen, greifen die allgemeinen Einstellungen unter Portale/Webseiten* | nein |
-| **Meta-Schlüsselwörter** | Hier werden die Suchmaschinen-relevanten Meta-Schlüsselwörter (meta keywords) hinterlegt.Wird dieses Feld leer gelassen, verwendet der Shop die Kurzbeschreibung des Artikels. | nein |
-| **Meta-Description** | Optionale Meta-Beschreibung (description) für die Artikelseite. Wird kein Wert hinterlegt, erstellt das System eine Meta-Beschreibung auf Basis der Artikeldaten. Die Description wird als erläuternder Text bei den trefferlisten in Suchmaschinen angezeigt. | nein |
+| **SEO Pattern** | Via the definition of the SEO-Pattern it is possile to manage the look of the title on the article page. **<u>Available</u>**: [{PORTAL_NAME}] – Portal-Name; [{CATEGORY_NAME}] – Category-Name; [{MANUFACTURER_NAME}] – Producer-Name; [{ARTICLE_NAME}] - Article-Designation; [{SHOW}] – shows every opportunity; When there are no settings made the basic settings do apply via Portals / Websites. | no |
+| **Meta-Keywords** | In here you can set meta keywords which are relevant to search engines. When no input was made the shop uses the short description of the article. | no |
+| **Meta-Description** | Optional Meta-Description for the Artikel-Page. If no value was set the system creates a Meta-Discription with the help of the available information of the article. The description will be displayed with the benefit of an explanatory text within the list of search engines. | no |
 
-Unter „Metadaten“ können die Metadaten speziell für dieses Produkt überschrieben werden.
+~~Unter „Metadaten“ können die Metadaten speziell für dieses Produkt überschrieben werden.~~
+
+Via "Metadata" you can overwrite the metadata for the relevant product.
 
 <br>
 
-#### Suche
+#### Searching
+
+~~| Bezeichnung | Beschreibung | erforderlich |
+| -- | -- | -- |
+| **Gewichtung des Artikels** | Zahl, über die der Rang des Produktes in den Listen gesteuert werden kann. | nein |
+| **Virtueller Artikel** | Identifiziert den Artikel als virtuell (real nicht verfügbar). Ein Beispiel für einen virtuellen Artikel könnte ein eBook-Download beim Kauf eines Buches sein. | nein |
+| **Ist suchbar** | Definiert, ob der Artikel in den Suchindex aufgenommen wird. | nein |
+| **Als neu kennzeichnen** | Optionale Einstellung, die im Design ausgewiesen wird. | nein |~~
 
 | Bezeichnung | Beschreibung | erforderlich |
 | -- | -- | -- |
