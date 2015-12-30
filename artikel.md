@@ -132,7 +132,7 @@ The units of measurement can be extended via the CMS (see chapter **3.4 Units of
 
 ~~Varianten eines Artikels, wie z.B. verschiedene Größen und/oder Farben bei Bekleidung, können mithilfe des Variantengenerators erzeugt werden, sh. Kap. **4.8 Artikelvarianten**.~~
 
-You can create several variations of an article, for example sizes and / or colors of clothes, via the variant generator. See chapter **4.8  Variation of Articles**.
+You can create several variations of an article, for example sizes and / or colors of clothes, via the variant generator. See chapter **4.8  Variations of Articles**.
 
 <br>
 
