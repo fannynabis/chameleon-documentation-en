@@ -211,7 +211,7 @@ Via "Metadata" you can overwrite the metadata for the relevant product.
 
 | Designation | Description | required |
 | -- | -- | -- |
-| **Number of Stars** | Sets the average recession from customers about the product. | no |
+| **Number of Stars** | Sets the average recession created by customers. | no |
 | **Customer Recession** | Recessions which are created by customers. Depends on the configuration. | no |
 
 <br>
